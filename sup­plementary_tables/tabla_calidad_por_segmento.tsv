@@ -1,0 +1,1697 @@
+muestra	archivo	subtipo	segmento_detectado	header_original	longitud_nt	N	porcentaje_N	calidad_N	estado
+IonXpress_065_232573624	IonXpress_065_232573624.consensus.fasta	H1N1	HA	A_HA_H1	1752	70	4.0	Aceptable	Correcto
+IonXpress_065_232573624	IonXpress_065_232573624.consensus.fasta	H1N1	NA	A_NA_N1	1433	55	3.84	Aceptable	Correcto
+IonXpress_065_232573624	IonXpress_065_232573624.consensus.fasta	H1N1	PB1	A_PB1	2273	24	1.06	Aceptable	Correcto
+IonXpress_065_232573624	IonXpress_065_232573624.consensus.fasta	H1N1	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_065_232573624	IonXpress_065_232573624.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_065_232573624	IonXpress_065_232573624.consensus.fasta	H1N1	NP	A_NP	1497	15	1.0	Aceptable	Correcto
+IonXpress_065_232573624	IonXpress_065_232573624.consensus.fasta	H1N1	NS	A_NS	863	49	5.68	Dudosa	Revisar por N
+IonXpress_065_232573624	IonXpress_065_232573624.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_065_232580678	IonXpress_065_232580678.consensus.fasta	H1N1	HA	A_HA_H1	1752	1752	100.0	Mala	Muchos N
+IonXpress_065_232580678	IonXpress_065_232580678.consensus.fasta	H1N1	NA	A_NA_N1	1433	1433	100.0	Mala	Muchos N
+IonXpress_065_232580678	IonXpress_065_232580678.consensus.fasta	H1N1	PB1	A_PB1	2274	2274	100.0	Mala	Muchos N
+IonXpress_065_232580678	IonXpress_065_232580678.consensus.fasta	H1N1	PB2	A_PB2	2280	2258	99.04	Mala	Muchos N
+IonXpress_065_232580678	IonXpress_065_232580678.consensus.fasta	H1N1	PA	A_PA	2151	2011	93.49	Mala	Muchos N
+IonXpress_065_232580678	IonXpress_065_232580678.consensus.fasta	H1N1	NP	A_NP	1497	1332	88.98	Mala	Muchos N
+IonXpress_065_232580678	IonXpress_065_232580678.consensus.fasta	H1N1	NS	A_NS	863	863	100.0	Mala	Muchos N
+IonXpress_065_232580678	IonXpress_065_232580678.consensus.fasta	H1N1	M	A_MP	982	982	100.0	Mala	Muchos N
+IonXpress_065_232589074	IonXpress_065_232589074.consensus.fasta	H1N1	HA	A_HA_H1	1752	109	6.22	Dudosa	Revisar por N
+IonXpress_065_232589074	IonXpress_065_232589074.consensus.fasta	H1N1	NA	A_NA_N1	1433	136	9.49	Dudosa	Revisar por N
+IonXpress_065_232589074	IonXpress_065_232589074.consensus.fasta	H1N1	PB1	A_PB1	2274	23	1.01	Aceptable	Correcto
+IonXpress_065_232589074	IonXpress_065_232589074.consensus.fasta	H1N1	PB2	A_PB2	2280	62	2.72	Aceptable	Correcto
+IonXpress_065_232589074	IonXpress_065_232589074.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_065_232589074	IonXpress_065_232589074.consensus.fasta	H1N1	NP	A_NP	1497	17	1.14	Aceptable	Correcto
+IonXpress_065_232589074	IonXpress_065_232589074.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_065_232589074	IonXpress_065_232589074.consensus.fasta	H1N1	M	A_MP	982	18	1.83	Aceptable	Correcto
+IonXpress_065_232600010	IonXpress_065_232600010.consensus.fasta	H3N2	HA	A_HA_H3	1718	336	19.56	Mala	Muchos N
+IonXpress_065_232600010	IonXpress_065_232600010.consensus.fasta	H3N2	NA	A_NA_N2	1439	222	15.43	Mala	Muchos N
+IonXpress_065_232600010	IonXpress_065_232600010.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_065_232600010	IonXpress_065_232600010.consensus.fasta	H3N2	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_065_232600010	IonXpress_065_232600010.consensus.fasta	H3N2	PA	A_PA	2151	57	2.65	Aceptable	Correcto
+IonXpress_065_232600010	IonXpress_065_232600010.consensus.fasta	H3N2	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_065_232600010	IonXpress_065_232600010.consensus.fasta	H3N2	NS	A_NS	863	64	7.42	Dudosa	Revisar por N
+IonXpress_065_232600010	IonXpress_065_232600010.consensus.fasta	H3N2	M	A_MP	982	22	2.24	Aceptable	Correcto
+IonXpress_066_232565255	IonXpress_066_232565255.consensus.fasta	H3N2	HA	A_HA_H3	1718	1264	73.57	Mala	Muchos N
+IonXpress_066_232565255	IonXpress_066_232565255.consensus.fasta	H3N2	NA	A_NA_N2	1439	1181	82.07	Mala	Muchos N
+IonXpress_066_232565255	IonXpress_066_232565255.consensus.fasta	H3N2	PB1	A_PB1	2274	337	14.82	Mala	Muchos N
+IonXpress_066_232565255	IonXpress_066_232565255.consensus.fasta	H3N2	PB2	A_PB2	2280	644	28.25	Mala	Muchos N
+IonXpress_066_232565255	IonXpress_066_232565255.consensus.fasta	H3N2	PA	A_PA	2152	307	14.27	Mala	Muchos N
+IonXpress_066_232565255	IonXpress_066_232565255.consensus.fasta	H3N2	NP	A_NP	1497	435	29.06	Mala	Muchos N
+IonXpress_066_232565255	IonXpress_066_232565255.consensus.fasta	H3N2	NS	A_NS	863	334	38.7	Mala	Muchos N
+IonXpress_066_232565255	IonXpress_066_232565255.consensus.fasta	H3N2	M	A_MP	983	36	3.66	Aceptable	Correcto
+IonXpress_066_232574725	IonXpress_066_232574725.consensus.fasta	H1N1	HA	A_HA_H1	1752	164	9.36	Dudosa	Revisar por N
+IonXpress_066_232574725	IonXpress_066_232574725.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_066_232574725	IonXpress_066_232574725.consensus.fasta	H1N1	PB1	A_PB1	2273	157	6.91	Dudosa	Revisar por N
+IonXpress_066_232574725	IonXpress_066_232574725.consensus.fasta	H1N1	PB2	A_PB2	2280	70	3.07	Aceptable	Correcto
+IonXpress_066_232574725	IonXpress_066_232574725.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_066_232574725	IonXpress_066_232574725.consensus.fasta	H1N1	NP	A_NP	1497	20	1.34	Aceptable	Correcto
+IonXpress_066_232574725	IonXpress_066_232574725.consensus.fasta	H1N1	NS	A_NS	862	51	5.92	Dudosa	Revisar por N
+IonXpress_066_232574725	IonXpress_066_232574725.consensus.fasta	H1N1	M	A_MP	982	26	2.65	Aceptable	Correcto
+IonXpress_066_232580679	IonXpress_066_232580679.consensus.fasta	H1N1	HA	A_HA_H1	1752	1725	98.46	Mala	Muchos N
+IonXpress_066_232580679	IonXpress_066_232580679.consensus.fasta	H1N1	NA	A_NA_N1	1433	1234	86.11	Mala	Muchos N
+IonXpress_066_232580679	IonXpress_066_232580679.consensus.fasta	H1N1	PB1	A_PB1	2274	1856	81.62	Mala	Muchos N
+IonXpress_066_232580679	IonXpress_066_232580679.consensus.fasta	H1N1	PB2	A_PB2	2280	1542	67.63	Mala	Muchos N
+IonXpress_066_232580679	IonXpress_066_232580679.consensus.fasta	H1N1	PA	A_PA	2151	1579	73.41	Mala	Muchos N
+IonXpress_066_232580679	IonXpress_066_232580679.consensus.fasta	H1N1	NP	A_NP	1497	1040	69.47	Mala	Muchos N
+IonXpress_066_232580679	IonXpress_066_232580679.consensus.fasta	H1N1	NS	A_NS	863	582	67.44	Mala	Muchos N
+IonXpress_066_232580679	IonXpress_066_232580679.consensus.fasta	H1N1	M	A_MP	982	584	59.47	Mala	Muchos N
+IonXpress_066_232583599	IonXpress_066_232583599.consensus.fasta	H3N2	HA	A_HA_H3	1718	1180	68.68	Mala	Muchos N
+IonXpress_066_232583599	IonXpress_066_232583599.consensus.fasta	H3N2	NA	A_NA_N2	1439	928	64.49	Mala	Muchos N
+IonXpress_066_232583599	IonXpress_066_232583599.consensus.fasta	H3N2	PB1	A_PB1	2274	543	23.88	Mala	Muchos N
+IonXpress_066_232583599	IonXpress_066_232583599.consensus.fasta	H3N2	PB2	A_PB2	2279	672	29.49	Mala	Muchos N
+IonXpress_066_232583599	IonXpress_066_232583599.consensus.fasta	H3N2	PA	A_PA	2151	467	21.71	Mala	Muchos N
+IonXpress_066_232583599	IonXpress_066_232583599.consensus.fasta	H3N2	NP	A_NP	1497	224	14.96	Mala	Muchos N
+IonXpress_066_232583599	IonXpress_066_232583599.consensus.fasta	H3N2	NS	A_NS	863	677	78.45	Mala	Muchos N
+IonXpress_066_232583599	IonXpress_066_232583599.consensus.fasta	H3N2	M	A_MP	983	52	5.29	Dudosa	Revisar por N
+IonXpress_066_232589028	IonXpress_066_232589028.consensus.fasta	H1N1	HA	A_HA_H1	1752	359	20.49	Mala	Muchos N
+IonXpress_066_232589028	IonXpress_066_232589028.consensus.fasta	H1N1	NA	A_NA_N1	1433	196	13.68	Mala	Muchos N
+IonXpress_066_232589028	IonXpress_066_232589028.consensus.fasta	H1N1	PB1	A_PB1	2275	146	6.42	Dudosa	Revisar por N
+IonXpress_066_232589028	IonXpress_066_232589028.consensus.fasta	H1N1	PB2	A_PB2	2280	626	27.46	Mala	Muchos N
+IonXpress_066_232589028	IonXpress_066_232589028.consensus.fasta	H1N1	PA	A_PA	2151	130	6.04	Dudosa	Revisar por N
+IonXpress_066_232589028	IonXpress_066_232589028.consensus.fasta	H1N1	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_066_232589028	IonXpress_066_232589028.consensus.fasta	H1N1	NS	A_NS	863	543	62.92	Mala	Muchos N
+IonXpress_066_232589028	IonXpress_066_232589028.consensus.fasta	H1N1	M	A_MP	982	31	3.16	Aceptable	Correcto
+IonXpress_066_232590665	IonXpress_066_232590665.consensus.fasta	H3N2	HA	A_HA_H3	1718	1264	73.57	Mala	Muchos N
+IonXpress_066_232590665	IonXpress_066_232590665.consensus.fasta	H3N2	NA	A_NA_N2	1439	1181	82.07	Mala	Muchos N
+IonXpress_066_232590665	IonXpress_066_232590665.consensus.fasta	H3N2	PB1	A_PB1	2274	337	14.82	Mala	Muchos N
+IonXpress_066_232590665	IonXpress_066_232590665.consensus.fasta	H3N2	PB2	A_PB2	2280	644	28.25	Mala	Muchos N
+IonXpress_066_232590665	IonXpress_066_232590665.consensus.fasta	H3N2	PA	A_PA	2152	307	14.27	Mala	Muchos N
+IonXpress_066_232590665	IonXpress_066_232590665.consensus.fasta	H3N2	NP	A_NP	1497	435	29.06	Mala	Muchos N
+IonXpress_066_232590665	IonXpress_066_232590665.consensus.fasta	H3N2	NS	A_NS	863	334	38.7	Mala	Muchos N
+IonXpress_066_232590665	IonXpress_066_232590665.consensus.fasta	H3N2	M	A_MP	983	36	3.66	Aceptable	Correcto
+IonXpress_066_232601023	IonXpress_066_232601023.consensus.fasta	H1N1	HA	A_HA_H1	1753	837	47.75	Mala	Muchos N
+IonXpress_066_232601023	IonXpress_066_232601023.consensus.fasta	H1N1	NA	A_NA_N1	1433	436	30.43	Mala	Muchos N
+IonXpress_066_232601023	IonXpress_066_232601023.consensus.fasta	H1N1	PB1	A_PB1	2274	300	13.19	Mala	Muchos N
+IonXpress_066_232601023	IonXpress_066_232601023.consensus.fasta	H1N1	PB2	A_PB2	2280	463	20.31	Mala	Muchos N
+IonXpress_066_232601023	IonXpress_066_232601023.consensus.fasta	H1N1	PA	A_PA	2151	66	3.07	Aceptable	Correcto
+IonXpress_066_232601023	IonXpress_066_232601023.consensus.fasta	H1N1	NP	A_NP	1497	198	13.23	Mala	Muchos N
+IonXpress_066_232601023	IonXpress_066_232601023.consensus.fasta	H1N1	NS	A_NS	863	533	61.76	Mala	Muchos N
+IonXpress_066_232601023	IonXpress_066_232601023.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_067_232566158	IonXpress_067_232566158.consensus.fasta	H3N2	HA	A_HA_H3	1718	393	22.88	Mala	Muchos N
+IonXpress_067_232566158	IonXpress_067_232566158.consensus.fasta	H3N2	NA	A_NA_N2	1439	117	8.13	Dudosa	Revisar por N
+IonXpress_067_232566158	IonXpress_067_232566158.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_067_232566158	IonXpress_067_232566158.consensus.fasta	H3N2	PB2	A_PB2	2280	800	35.09	Mala	Muchos N
+IonXpress_067_232566158	IonXpress_067_232566158.consensus.fasta	H3N2	PA	A_PA	2151	71	3.3	Aceptable	Correcto
+IonXpress_067_232566158	IonXpress_067_232566158.consensus.fasta	H3N2	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_067_232566158	IonXpress_067_232566158.consensus.fasta	H3N2	NS	A_NS	863	321	37.2	Mala	Muchos N
+IonXpress_067_232566158	IonXpress_067_232566158.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_067_232574772	IonXpress_067_232574772.consensus.fasta	H1N1	HA	A_HA_H1	1752	112	6.39	Dudosa	Revisar por N
+IonXpress_067_232574772	IonXpress_067_232574772.consensus.fasta	H1N1	NA	A_NA_N1	1433	51	3.56	Aceptable	Correcto
+IonXpress_067_232574772	IonXpress_067_232574772.consensus.fasta	H1N1	PB1	A_PB1	2274	71	3.12	Aceptable	Correcto
+IonXpress_067_232574772	IonXpress_067_232574772.consensus.fasta	H1N1	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_067_232574772	IonXpress_067_232574772.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_067_232574772	IonXpress_067_232574772.consensus.fasta	H1N1	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_067_232574772	IonXpress_067_232574772.consensus.fasta	H1N1	NS	A_NS	862	51	5.92	Dudosa	Revisar por N
+IonXpress_067_232574772	IonXpress_067_232574772.consensus.fasta	H1N1	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_067_232580680	IonXpress_067_232580680.consensus.fasta	H1N1	HA	A_HA_H1	1752	1684	96.12	Mala	Muchos N
+IonXpress_067_232580680	IonXpress_067_232580680.consensus.fasta	H1N1	NA	A_NA_N1	1433	1433	100.0	Mala	Muchos N
+IonXpress_067_232580680	IonXpress_067_232580680.consensus.fasta	H1N1	PB1	A_PB1	2274	2056	90.41	Mala	Muchos N
+IonXpress_067_232580680	IonXpress_067_232580680.consensus.fasta	H1N1	PB2	A_PB2	2280	2280	100.0	Mala	Muchos N
+IonXpress_067_232580680	IonXpress_067_232580680.consensus.fasta	H1N1	PA	A_PA	2151	2011	93.49	Mala	Muchos N
+IonXpress_067_232580680	IonXpress_067_232580680.consensus.fasta	H1N1	NP	A_NP	1497	1337	89.31	Mala	Muchos N
+IonXpress_067_232580680	IonXpress_067_232580680.consensus.fasta	H1N1	NS	A_NS	863	863	100.0	Mala	Muchos N
+IonXpress_067_232580680	IonXpress_067_232580680.consensus.fasta	H1N1	M	A_MP	982	972	98.98	Mala	Muchos N
+IonXpress_067_232583600	IonXpress_067_232583600.consensus.fasta	H3N2	HA	A_HA_H3	1718	1247	72.58	Mala	Muchos N
+IonXpress_067_232583600	IonXpress_067_232583600.consensus.fasta	H3N2	NA	A_NA_N2	1439	768	53.37	Mala	Muchos N
+IonXpress_067_232583600	IonXpress_067_232583600.consensus.fasta	H3N2	PB1	A_PB1	2274	286	12.58	Mala	Muchos N
+IonXpress_067_232583600	IonXpress_067_232583600.consensus.fasta	H3N2	PB2	A_PB2	2280	1196	52.46	Mala	Muchos N
+IonXpress_067_232583600	IonXpress_067_232583600.consensus.fasta	H3N2	PA	A_PA	2152	204	9.48	Dudosa	Revisar por N
+IonXpress_067_232583600	IonXpress_067_232583600.consensus.fasta	H3N2	NP	A_NP	1497	197	13.16	Mala	Muchos N
+IonXpress_067_232583600	IonXpress_067_232583600.consensus.fasta	H3N2	NS	A_NS	863	452	52.38	Mala	Muchos N
+IonXpress_067_232583600	IonXpress_067_232583600.consensus.fasta	H3N2	M	A_MP	982	52	5.3	Dudosa	Revisar por N
+IonXpress_067_232589392	IonXpress_067_232589392.consensus.fasta	H1N1	HA	A_HA_H1	1752	191	10.9	Mala	Muchos N
+IonXpress_067_232589392	IonXpress_067_232589392.consensus.fasta	H1N1	NA	A_NA_N1	1433	153	10.68	Mala	Muchos N
+IonXpress_067_232589392	IonXpress_067_232589392.consensus.fasta	H1N1	PB1	A_PB1	2275	258	11.34	Mala	Muchos N
+IonXpress_067_232589392	IonXpress_067_232589392.consensus.fasta	H1N1	PB2	A_PB2	2280	224	9.82	Dudosa	Revisar por N
+IonXpress_067_232589392	IonXpress_067_232589392.consensus.fasta	H1N1	PA	A_PA	2152	43	2.0	Aceptable	Correcto
+IonXpress_067_232589392	IonXpress_067_232589392.consensus.fasta	H1N1	NP	A_NP	1497	203	13.56	Mala	Muchos N
+IonXpress_067_232589392	IonXpress_067_232589392.consensus.fasta	H1N1	NS	A_NS	863	136	15.76	Mala	Muchos N
+IonXpress_067_232589392	IonXpress_067_232589392.consensus.fasta	H1N1	M	A_MP	982	26	2.65	Aceptable	Correcto
+IonXpress_067_232590680	IonXpress_067_232590680.consensus.fasta	H3N2	HA	A_HA_H3	1718	393	22.88	Mala	Muchos N
+IonXpress_067_232590680	IonXpress_067_232590680.consensus.fasta	H3N2	NA	A_NA_N2	1439	117	8.13	Dudosa	Revisar por N
+IonXpress_067_232590680	IonXpress_067_232590680.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_067_232590680	IonXpress_067_232590680.consensus.fasta	H3N2	PB2	A_PB2	2280	800	35.09	Mala	Muchos N
+IonXpress_067_232590680	IonXpress_067_232590680.consensus.fasta	H3N2	PA	A_PA	2151	71	3.3	Aceptable	Correcto
+IonXpress_067_232590680	IonXpress_067_232590680.consensus.fasta	H3N2	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_067_232590680	IonXpress_067_232590680.consensus.fasta	H3N2	NS	A_NS	863	321	37.2	Mala	Muchos N
+IonXpress_067_232590680	IonXpress_067_232590680.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_068_232566230	IonXpress_068_232566230.consensus.fasta	H1N1	HA	A_HA_H1	1753	1083	61.78	Mala	Muchos N
+IonXpress_068_232566230	IonXpress_068_232566230.consensus.fasta	H1N1	NA	A_NA_N1	1433	769	53.66	Mala	Muchos N
+IonXpress_068_232566230	IonXpress_068_232566230.consensus.fasta	H1N1	PB1	A_PB1	2274	691	30.39	Mala	Muchos N
+IonXpress_068_232566230	IonXpress_068_232566230.consensus.fasta	H1N1	PB2	A_PB2	2280	872	38.25	Mala	Muchos N
+IonXpress_068_232566230	IonXpress_068_232566230.consensus.fasta	H1N1	PA	A_PA	2150	667	31.02	Mala	Muchos N
+IonXpress_068_232566230	IonXpress_068_232566230.consensus.fasta	H1N1	NP	A_NP	1497	449	29.99	Mala	Muchos N
+IonXpress_068_232566230	IonXpress_068_232566230.consensus.fasta	H1N1	NS	A_NS	863	578	66.98	Mala	Muchos N
+IonXpress_068_232566230	IonXpress_068_232566230.consensus.fasta	H1N1	M	A_MP	982	46	4.68	Aceptable	Correcto
+IonXpress_068_232574776	IonXpress_068_232574776.consensus.fasta	H1N1	HA	A_HA_H1	1752	97	5.54	Dudosa	Revisar por N
+IonXpress_068_232574776	IonXpress_068_232574776.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_068_232574776	IonXpress_068_232574776.consensus.fasta	H1N1	PB1	A_PB1	2274	163	7.17	Dudosa	Revisar por N
+IonXpress_068_232574776	IonXpress_068_232574776.consensus.fasta	H1N1	PB2	A_PB2	2280	109	4.78	Aceptable	Correcto
+IonXpress_068_232574776	IonXpress_068_232574776.consensus.fasta	H1N1	PA	A_PA	2151	40	1.86	Aceptable	Correcto
+IonXpress_068_232574776	IonXpress_068_232574776.consensus.fasta	H1N1	NP	A_NP	1497	343	22.91	Mala	Muchos N
+IonXpress_068_232574776	IonXpress_068_232574776.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_068_232574776	IonXpress_068_232574776.consensus.fasta	H1N1	M	A_MP	982	30	3.05	Aceptable	Correcto
+IonXpress_068_232582476	IonXpress_068_232582476.consensus.fasta	H1N1	HA	A_HA_H1	1752	1356	77.4	Mala	Muchos N
+IonXpress_068_232582476	IonXpress_068_232582476.consensus.fasta	H1N1	NA	A_NA_N1	1433	830	57.92	Mala	Muchos N
+IonXpress_068_232582476	IonXpress_068_232582476.consensus.fasta	H1N1	PB1	A_PB1	2274	1188	52.24	Mala	Muchos N
+IonXpress_068_232582476	IonXpress_068_232582476.consensus.fasta	H1N1	PB2	A_PB2	2280	1474	64.65	Mala	Muchos N
+IonXpress_068_232582476	IonXpress_068_232582476.consensus.fasta	H1N1	PA	A_PA	2159	1154	53.45	Mala	Muchos N
+IonXpress_068_232582476	IonXpress_068_232582476.consensus.fasta	H1N1	NP	A_NP	1497	971	64.86	Mala	Muchos N
+IonXpress_068_232582476	IonXpress_068_232582476.consensus.fasta	H1N1	NS	A_NS	863	770	89.22	Mala	Muchos N
+IonXpress_068_232582476	IonXpress_068_232582476.consensus.fasta	H1N1	M	A_MP	982	548	55.8	Mala	Muchos N
+IonXpress_068_232583685	IonXpress_068_232583685.consensus.fasta	H1N1	HA	A_HA_H1	1752	344	19.63	Mala	Muchos N
+IonXpress_068_232583685	IonXpress_068_232583685.consensus.fasta	H1N1	NA	A_NA_N1	1433	158	11.03	Mala	Muchos N
+IonXpress_068_232583685	IonXpress_068_232583685.consensus.fasta	H1N1	PB1	A_PB1	2275	251	11.03	Mala	Muchos N
+IonXpress_068_232583685	IonXpress_068_232583685.consensus.fasta	H1N1	PB2	A_PB2	2280	248	10.88	Mala	Muchos N
+IonXpress_068_232583685	IonXpress_068_232583685.consensus.fasta	H1N1	PA	A_PA	2151	85	3.95	Aceptable	Correcto
+IonXpress_068_232583685	IonXpress_068_232583685.consensus.fasta	H1N1	NP	A_NP	1497	173	11.56	Mala	Muchos N
+IonXpress_068_232583685	IonXpress_068_232583685.consensus.fasta	H1N1	NS	A_NS	863	299	34.65	Mala	Muchos N
+IonXpress_068_232583685	IonXpress_068_232583685.consensus.fasta	H1N1	M	A_MP	982	28	2.85	Aceptable	Correcto
+IonXpress_068_232589381	IonXpress_068_232589381.consensus.fasta	H1N1	HA	A_HA_H1	1752	312	17.81	Mala	Muchos N
+IonXpress_068_232589381	IonXpress_068_232589381.consensus.fasta	H1N1	NA	A_NA_N1	1433	180	12.56	Mala	Muchos N
+IonXpress_068_232589381	IonXpress_068_232589381.consensus.fasta	H1N1	PB1	A_PB1	2275	182	8.0	Dudosa	Revisar por N
+IonXpress_068_232589381	IonXpress_068_232589381.consensus.fasta	H1N1	PB2	A_PB2	2280	506	22.19	Mala	Muchos N
+IonXpress_068_232589381	IonXpress_068_232589381.consensus.fasta	H1N1	PA	A_PA	2151	96	4.46	Aceptable	Correcto
+IonXpress_068_232589381	IonXpress_068_232589381.consensus.fasta	H1N1	NP	A_NP	1497	202	13.49	Mala	Muchos N
+IonXpress_068_232589381	IonXpress_068_232589381.consensus.fasta	H1N1	NS	A_NS	863	520	60.25	Mala	Muchos N
+IonXpress_068_232589381	IonXpress_068_232589381.consensus.fasta	H1N1	M	A_MP	982	26	2.65	Aceptable	Correcto
+IonXpress_068_232590701	IonXpress_068_232590701.consensus.fasta	H1N1	HA	A_HA_H1	1753	1083	61.78	Mala	Muchos N
+IonXpress_068_232590701	IonXpress_068_232590701.consensus.fasta	H1N1	NA	A_NA_N1	1433	769	53.66	Mala	Muchos N
+IonXpress_068_232590701	IonXpress_068_232590701.consensus.fasta	H1N1	PB1	A_PB1	2274	691	30.39	Mala	Muchos N
+IonXpress_068_232590701	IonXpress_068_232590701.consensus.fasta	H1N1	PB2	A_PB2	2280	872	38.25	Mala	Muchos N
+IonXpress_068_232590701	IonXpress_068_232590701.consensus.fasta	H1N1	PA	A_PA	2150	667	31.02	Mala	Muchos N
+IonXpress_068_232590701	IonXpress_068_232590701.consensus.fasta	H1N1	NP	A_NP	1497	449	29.99	Mala	Muchos N
+IonXpress_068_232590701	IonXpress_068_232590701.consensus.fasta	H1N1	NS	A_NS	863	578	66.98	Mala	Muchos N
+IonXpress_068_232590701	IonXpress_068_232590701.consensus.fasta	H1N1	M	A_MP	982	46	4.68	Aceptable	Correcto
+IonXpress_069_232566243	IonXpress_069_232566243.consensus.fasta	H1N1	HA	A_HA_H1	1752	131	7.48	Dudosa	Revisar por N
+IonXpress_069_232566243	IonXpress_069_232566243.consensus.fasta	H1N1	NA	A_NA_N1	1433	57	3.98	Aceptable	Correcto
+IonXpress_069_232566243	IonXpress_069_232566243.consensus.fasta	H1N1	PB1	A_PB1	2274	25	1.1	Aceptable	Correcto
+IonXpress_069_232566243	IonXpress_069_232566243.consensus.fasta	H1N1	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_069_232566243	IonXpress_069_232566243.consensus.fasta	H1N1	PA	A_PA	2151	23	1.07	Aceptable	Correcto
+IonXpress_069_232566243	IonXpress_069_232566243.consensus.fasta	H1N1	NP	A_NP	1497	18	1.2	Aceptable	Correcto
+IonXpress_069_232566243	IonXpress_069_232566243.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_069_232566243	IonXpress_069_232566243.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_069_232574781	IonXpress_069_232574781.consensus.fasta	H1N1	HA	A_HA_H1	1752	258	14.73	Mala	Muchos N
+IonXpress_069_232574781	IonXpress_069_232574781.consensus.fasta	H1N1	NA	A_NA_N1	1433	65	4.54	Aceptable	Correcto
+IonXpress_069_232574781	IonXpress_069_232574781.consensus.fasta	H1N1	PB1	A_PB1	2274	167	7.34	Dudosa	Revisar por N
+IonXpress_069_232574781	IonXpress_069_232574781.consensus.fasta	H1N1	PB2	A_PB2	2280	108	4.74	Aceptable	Correcto
+IonXpress_069_232574781	IonXpress_069_232574781.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_069_232574781	IonXpress_069_232574781.consensus.fasta	H1N1	NP	A_NP	1497	245	16.37	Mala	Muchos N
+IonXpress_069_232574781	IonXpress_069_232574781.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_069_232574781	IonXpress_069_232574781.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_069_232582452	IonXpress_069_232582452.consensus.fasta	H1N1	HA	A_HA_H1	1752	1504	85.84	Mala	Muchos N
+IonXpress_069_232582452	IonXpress_069_232582452.consensus.fasta	H1N1	NA	A_NA_N1	1433	1144	79.83	Mala	Muchos N
+IonXpress_069_232582452	IonXpress_069_232582452.consensus.fasta	H1N1	PB1	A_PB1	2274	1403	61.7	Mala	Muchos N
+IonXpress_069_232582452	IonXpress_069_232582452.consensus.fasta	H1N1	PB2	A_PB2	2280	1766	77.46	Mala	Muchos N
+IonXpress_069_232582452	IonXpress_069_232582452.consensus.fasta	H1N1	PA	A_PA	2151	1366	63.51	Mala	Muchos N
+IonXpress_069_232582452	IonXpress_069_232582452.consensus.fasta	H1N1	NP	A_NP	1497	979	65.4	Mala	Muchos N
+IonXpress_069_232582452	IonXpress_069_232582452.consensus.fasta	H1N1	NS	A_NS	863	604	69.99	Mala	Muchos N
+IonXpress_069_232582452	IonXpress_069_232582452.consensus.fasta	H1N1	M	A_MP	982	563	57.33	Mala	Muchos N
+IonXpress_069_232584004	IonXpress_069_232584004.consensus.fasta	H1N1	HA	A_HA_H1	1751	289	16.5	Mala	Muchos N
+IonXpress_069_232584004	IonXpress_069_232584004.consensus.fasta	H1N1	NA	A_NA_N1	1433	72	5.02	Dudosa	Revisar por N
+IonXpress_069_232584004	IonXpress_069_232584004.consensus.fasta	H1N1	PB1	A_PB1	2275	521	22.9	Mala	Muchos N
+IonXpress_069_232584004	IonXpress_069_232584004.consensus.fasta	H1N1	PB2	A_PB2	2280	447	19.61	Mala	Muchos N
+IonXpress_069_232584004	IonXpress_069_232584004.consensus.fasta	H1N1	PA	A_PA	2151	120	5.58	Dudosa	Revisar por N
+IonXpress_069_232584004	IonXpress_069_232584004.consensus.fasta	H1N1	NP	A_NP	1497	258	17.23	Mala	Muchos N
+IonXpress_069_232584004	IonXpress_069_232584004.consensus.fasta	H1N1	NS	A_NS	863	248	28.74	Mala	Muchos N
+IonXpress_069_232584004	IonXpress_069_232584004.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_069_232589052	IonXpress_069_232589052.consensus.fasta	H1N1	HA	A_HA_H1	1752	979	55.88	Mala	Muchos N
+IonXpress_069_232589052	IonXpress_069_232589052.consensus.fasta	H1N1	NA	A_NA_N1	1433	269	18.77	Mala	Muchos N
+IonXpress_069_232589052	IonXpress_069_232589052.consensus.fasta	H1N1	PB1	A_PB1	2275	653	28.7	Mala	Muchos N
+IonXpress_069_232589052	IonXpress_069_232589052.consensus.fasta	H1N1	PB2	A_PB2	2280	601	26.36	Mala	Muchos N
+IonXpress_069_232589052	IonXpress_069_232589052.consensus.fasta	H1N1	PA	A_PA	2151	256	11.9	Mala	Muchos N
+IonXpress_069_232589052	IonXpress_069_232589052.consensus.fasta	H1N1	NP	A_NP	1497	292	19.51	Mala	Muchos N
+IonXpress_069_232589052	IonXpress_069_232589052.consensus.fasta	H1N1	NS	A_NS	863	528	61.18	Mala	Muchos N
+IonXpress_069_232589052	IonXpress_069_232589052.consensus.fasta	H1N1	M	A_MP	982	223	22.71	Mala	Muchos N
+IonXpress_069_232590862	IonXpress_069_232590862.consensus.fasta	H1N1	HA	A_HA_H1	1752	131	7.48	Dudosa	Revisar por N
+IonXpress_069_232590862	IonXpress_069_232590862.consensus.fasta	H1N1	NA	A_NA_N1	1433	57	3.98	Aceptable	Correcto
+IonXpress_069_232590862	IonXpress_069_232590862.consensus.fasta	H1N1	PB1	A_PB1	2274	25	1.1	Aceptable	Correcto
+IonXpress_069_232590862	IonXpress_069_232590862.consensus.fasta	H1N1	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_069_232590862	IonXpress_069_232590862.consensus.fasta	H1N1	PA	A_PA	2151	23	1.07	Aceptable	Correcto
+IonXpress_069_232590862	IonXpress_069_232590862.consensus.fasta	H1N1	NP	A_NP	1497	18	1.2	Aceptable	Correcto
+IonXpress_069_232590862	IonXpress_069_232590862.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_069_232590862	IonXpress_069_232590862.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_069_232602544	IonXpress_069_232602544.consensus.fasta	H3N2	HA	A_HA_H3	1718	149	8.67	Dudosa	Revisar por N
+IonXpress_069_232602544	IonXpress_069_232602544.consensus.fasta	H3N2	NA	A_NA_N2	1439	114	7.92	Dudosa	Revisar por N
+IonXpress_069_232602544	IonXpress_069_232602544.consensus.fasta	H3N2	PB1	A_PB1	2274	128	5.63	Dudosa	Revisar por N
+IonXpress_069_232602544	IonXpress_069_232602544.consensus.fasta	H3N2	PB2	A_PB2	2280	314	13.77	Mala	Muchos N
+IonXpress_069_232602544	IonXpress_069_232602544.consensus.fasta	H3N2	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_069_232602544	IonXpress_069_232602544.consensus.fasta	H3N2	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_069_232602544	IonXpress_069_232602544.consensus.fasta	H3N2	NS	A_NS	863	312	36.15	Mala	Muchos N
+IonXpress_069_232602544	IonXpress_069_232602544.consensus.fasta	H3N2	M	A_MP	982	21	2.14	Aceptable	Correcto
+IonXpress_070_232566246	IonXpress_070_232566246.consensus.fasta	H3N2	HA	A_HA_H3	1718	806	46.92	Mala	Muchos N
+IonXpress_070_232566246	IonXpress_070_232566246.consensus.fasta	H3N2	NA	A_NA_N2	1439	955	66.37	Mala	Muchos N
+IonXpress_070_232566246	IonXpress_070_232566246.consensus.fasta	H3N2	PB1	A_PB1	2274	621	27.31	Mala	Muchos N
+IonXpress_070_232566246	IonXpress_070_232566246.consensus.fasta	H3N2	PB2	A_PB2	2280	897	39.34	Mala	Muchos N
+IonXpress_070_232566246	IonXpress_070_232566246.consensus.fasta	H3N2	PA	A_PA	2152	324	15.06	Mala	Muchos N
+IonXpress_070_232566246	IonXpress_070_232566246.consensus.fasta	H3N2	NP	A_NP	1497	889	59.39	Mala	Muchos N
+IonXpress_070_232566246	IonXpress_070_232566246.consensus.fasta	H3N2	NS	A_NS	863	581	67.32	Mala	Muchos N
+IonXpress_070_232566246	IonXpress_070_232566246.consensus.fasta	H3N2	M	A_MP	982	46	4.68	Aceptable	Correcto
+IonXpress_070_232574818	IonXpress_070_232574818.consensus.fasta	H1N1	HA	A_HA_H1	1752	114	6.51	Dudosa	Revisar por N
+IonXpress_070_232574818	IonXpress_070_232574818.consensus.fasta	H1N1	NA	A_NA_N1	1433	57	3.98	Aceptable	Correcto
+IonXpress_070_232574818	IonXpress_070_232574818.consensus.fasta	H1N1	PB1	A_PB1	2274	25	1.1	Aceptable	Correcto
+IonXpress_070_232574818	IonXpress_070_232574818.consensus.fasta	H1N1	PB2	A_PB2	2280	108	4.74	Aceptable	Correcto
+IonXpress_070_232574818	IonXpress_070_232574818.consensus.fasta	H1N1	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_070_232574818	IonXpress_070_232574818.consensus.fasta	H1N1	NP	A_NP	1497	69	4.61	Aceptable	Correcto
+IonXpress_070_232574818	IonXpress_070_232574818.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_070_232574818	IonXpress_070_232574818.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_070_232581031	IonXpress_070_232581031.consensus.fasta	H1N1	HA	A_HA_H1	1752	1302	74.32	Mala	Muchos N
+IonXpress_070_232581031	IonXpress_070_232581031.consensus.fasta	H1N1	NA	A_NA_N1	1433	875	61.06	Mala	Muchos N
+IonXpress_070_232581031	IonXpress_070_232581031.consensus.fasta	H1N1	PB1	A_PB1	2274	1028	45.21	Mala	Muchos N
+IonXpress_070_232581031	IonXpress_070_232581031.consensus.fasta	H1N1	PB2	A_PB2	2280	1320	57.89	Mala	Muchos N
+IonXpress_070_232581031	IonXpress_070_232581031.consensus.fasta	H1N1	PA	A_PA	2156	769	35.67	Mala	Muchos N
+IonXpress_070_232581031	IonXpress_070_232581031.consensus.fasta	H1N1	NP	A_NP	1497	812	54.24	Mala	Muchos N
+IonXpress_070_232581031	IonXpress_070_232581031.consensus.fasta	H1N1	NS	A_NS	863	371	42.99	Mala	Muchos N
+IonXpress_070_232581031	IonXpress_070_232581031.consensus.fasta	H1N1	M	A_MP	982	393	40.02	Mala	Muchos N
+IonXpress_070_232584350	IonXpress_070_232584350.consensus.fasta	H1N1	HA	A_HA_H1	1752	101	5.76	Dudosa	Revisar por N
+IonXpress_070_232584350	IonXpress_070_232584350.consensus.fasta	H1N1	NA	A_NA_N1	1433	39	2.72	Aceptable	Correcto
+IonXpress_070_232584350	IonXpress_070_232584350.consensus.fasta	H1N1	PB1	A_PB1	2274	23	1.01	Aceptable	Correcto
+IonXpress_070_232584350	IonXpress_070_232584350.consensus.fasta	H1N1	PB2	A_PB2	2280	242	10.61	Mala	Muchos N
+IonXpress_070_232584350	IonXpress_070_232584350.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_070_232584350	IonXpress_070_232584350.consensus.fasta	H1N1	NP	A_NP	1497	56	3.74	Aceptable	Correcto
+IonXpress_070_232584350	IonXpress_070_232584350.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_070_232584350	IonXpress_070_232584350.consensus.fasta	H1N1	M	A_MP	982	31	3.16	Aceptable	Correcto
+IonXpress_070_232589051	IonXpress_070_232589051.consensus.fasta	H1N1	HA	A_HA_H1	1753	497	28.35	Mala	Muchos N
+IonXpress_070_232589051	IonXpress_070_232589051.consensus.fasta	H1N1	NA	A_NA_N1	1433	72	5.02	Dudosa	Revisar por N
+IonXpress_070_232589051	IonXpress_070_232589051.consensus.fasta	H1N1	PB1	A_PB1	2274	239	10.51	Mala	Muchos N
+IonXpress_070_232589051	IonXpress_070_232589051.consensus.fasta	H1N1	PB2	A_PB2	2280	788	34.56	Mala	Muchos N
+IonXpress_070_232589051	IonXpress_070_232589051.consensus.fasta	H1N1	PA	A_PA	2151	118	5.49	Dudosa	Revisar por N
+IonXpress_070_232589051	IonXpress_070_232589051.consensus.fasta	H1N1	NP	A_NP	1497	245	16.37	Mala	Muchos N
+IonXpress_070_232589051	IonXpress_070_232589051.consensus.fasta	H1N1	NS	A_NS	863	540	62.57	Mala	Muchos N
+IonXpress_070_232589051	IonXpress_070_232589051.consensus.fasta	H1N1	M	A_MP	982	18	1.83	Aceptable	Correcto
+IonXpress_070_232590971	IonXpress_070_232590971.consensus.fasta	H3N2	HA	A_HA_H3	1718	806	46.92	Mala	Muchos N
+IonXpress_070_232590971	IonXpress_070_232590971.consensus.fasta	H3N2	NA	A_NA_N2	1439	955	66.37	Mala	Muchos N
+IonXpress_070_232590971	IonXpress_070_232590971.consensus.fasta	H3N2	PB1	A_PB1	2274	621	27.31	Mala	Muchos N
+IonXpress_070_232590971	IonXpress_070_232590971.consensus.fasta	H3N2	PB2	A_PB2	2280	897	39.34	Mala	Muchos N
+IonXpress_070_232590971	IonXpress_070_232590971.consensus.fasta	H3N2	PA	A_PA	2152	324	15.06	Mala	Muchos N
+IonXpress_070_232590971	IonXpress_070_232590971.consensus.fasta	H3N2	NP	A_NP	1497	889	59.39	Mala	Muchos N
+IonXpress_070_232590971	IonXpress_070_232590971.consensus.fasta	H3N2	NS	A_NS	863	581	67.32	Mala	Muchos N
+IonXpress_070_232590971	IonXpress_070_232590971.consensus.fasta	H3N2	M	A_MP	982	46	4.68	Aceptable	Correcto
+IonXpress_070_232603661	IonXpress_070_232603661.consensus.fasta	H1N1	HA	A_HA_H1	1752	87	4.97	Aceptable	Correcto
+IonXpress_070_232603661	IonXpress_070_232603661.consensus.fasta	H1N1	NA	A_NA_N1	1433	155	10.82	Mala	Muchos N
+IonXpress_070_232603661	IonXpress_070_232603661.consensus.fasta	H1N1	PB1	A_PB1	2275	76	3.34	Aceptable	Correcto
+IonXpress_070_232603661	IonXpress_070_232603661.consensus.fasta	H1N1	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_070_232603661	IonXpress_070_232603661.consensus.fasta	H1N1	PA	A_PA	2151	38	1.77	Aceptable	Correcto
+IonXpress_070_232603661	IonXpress_070_232603661.consensus.fasta	H1N1	NP	A_NP	1497	7	0.47	Buena	Correcto
+IonXpress_070_232603661	IonXpress_070_232603661.consensus.fasta	H1N1	NS	A_NS	863	170	19.7	Mala	Muchos N
+IonXpress_070_232603661	IonXpress_070_232603661.consensus.fasta	H1N1	M	A_MP	982	29	2.95	Aceptable	Correcto
+IonXpress_071_232566362	IonXpress_071_232566362.consensus.fasta	H1N1	HA	A_HA_H1	1752	206	11.76	Mala	Muchos N
+IonXpress_071_232566362	IonXpress_071_232566362.consensus.fasta	H1N1	NA	A_NA_N1	1433	70	4.88	Aceptable	Correcto
+IonXpress_071_232566362	IonXpress_071_232566362.consensus.fasta	H1N1	PB1	A_PB1	2273	133	5.85	Dudosa	Revisar por N
+IonXpress_071_232566362	IonXpress_071_232566362.consensus.fasta	H1N1	PB2	A_PB2	2280	137	6.01	Dudosa	Revisar por N
+IonXpress_071_232566362	IonXpress_071_232566362.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_071_232566362	IonXpress_071_232566362.consensus.fasta	H1N1	NP	A_NP	1497	172	11.49	Mala	Muchos N
+IonXpress_071_232566362	IonXpress_071_232566362.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_071_232566362	IonXpress_071_232566362.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_071_232574957	IonXpress_071_232574957.consensus.fasta	H1N1	HA	A_HA_H1	1752	161	9.19	Dudosa	Revisar por N
+IonXpress_071_232574957	IonXpress_071_232574957.consensus.fasta	H1N1	NA	A_NA_N1	1433	69	4.82	Aceptable	Correcto
+IonXpress_071_232574957	IonXpress_071_232574957.consensus.fasta	H1N1	PB1	A_PB1	2273	27	1.19	Aceptable	Correcto
+IonXpress_071_232574957	IonXpress_071_232574957.consensus.fasta	H1N1	PB2	A_PB2	2280	167	7.32	Dudosa	Revisar por N
+IonXpress_071_232574957	IonXpress_071_232574957.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_071_232574957	IonXpress_071_232574957.consensus.fasta	H1N1	NP	A_NP	1497	111	7.41	Dudosa	Revisar por N
+IonXpress_071_232574957	IonXpress_071_232574957.consensus.fasta	H1N1	NS	A_NS	863	305	35.34	Mala	Muchos N
+IonXpress_071_232574957	IonXpress_071_232574957.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_071_232581045	IonXpress_071_232581045.consensus.fasta	H1N1	HA	A_HA_H1	1752	840	47.95	Mala	Muchos N
+IonXpress_071_232581045	IonXpress_071_232581045.consensus.fasta	H1N1	NA	A_NA_N1	1433	455	31.75	Mala	Muchos N
+IonXpress_071_232581045	IonXpress_071_232581045.consensus.fasta	H1N1	PB1	A_PB1	2274	593	26.08	Mala	Muchos N
+IonXpress_071_232581045	IonXpress_071_232581045.consensus.fasta	H1N1	PB2	A_PB2	2280	958	42.02	Mala	Muchos N
+IonXpress_071_232581045	IonXpress_071_232581045.consensus.fasta	H1N1	PA	A_PA	2151	128	5.95	Dudosa	Revisar por N
+IonXpress_071_232581045	IonXpress_071_232581045.consensus.fasta	H1N1	NP	A_NP	1497	266	17.77	Mala	Muchos N
+IonXpress_071_232581045	IonXpress_071_232581045.consensus.fasta	H1N1	NS	A_NS	863	578	66.98	Mala	Muchos N
+IonXpress_071_232581045	IonXpress_071_232581045.consensus.fasta	H1N1	M	A_MP	982	55	5.6	Dudosa	Revisar por N
+IonXpress_071_232584616	IonXpress_071_232584616.consensus.fasta	H1N1	HA	A_HA_H1	1752	350	19.98	Mala	Muchos N
+IonXpress_071_232584616	IonXpress_071_232584616.consensus.fasta	H1N1	NA	A_NA_N1	1433	72	5.02	Dudosa	Revisar por N
+IonXpress_071_232584616	IonXpress_071_232584616.consensus.fasta	H1N1	PB1	A_PB1	2275	541	23.78	Mala	Muchos N
+IonXpress_071_232584616	IonXpress_071_232584616.consensus.fasta	H1N1	PB2	A_PB2	2280	700	30.7	Mala	Muchos N
+IonXpress_071_232584616	IonXpress_071_232584616.consensus.fasta	H1N1	PA	A_PA	2150	119	5.53	Dudosa	Revisar por N
+IonXpress_071_232584616	IonXpress_071_232584616.consensus.fasta	H1N1	NP	A_NP	1497	237	15.83	Mala	Muchos N
+IonXpress_071_232584616	IonXpress_071_232584616.consensus.fasta	H1N1	NS	A_NS	863	577	66.86	Mala	Muchos N
+IonXpress_071_232584616	IonXpress_071_232584616.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_071_232589116	IonXpress_071_232589116.consensus.fasta	H1N1	HA	A_HA_H1	1752	345	19.69	Mala	Muchos N
+IonXpress_071_232589116	IonXpress_071_232589116.consensus.fasta	H1N1	NA	A_NA_N1	1433	344	24.01	Mala	Muchos N
+IonXpress_071_232589116	IonXpress_071_232589116.consensus.fasta	H1N1	PB1	A_PB1	2274	345	15.17	Mala	Muchos N
+IonXpress_071_232589116	IonXpress_071_232589116.consensus.fasta	H1N1	PB2	A_PB2	2280	386	16.93	Mala	Muchos N
+IonXpress_071_232589116	IonXpress_071_232589116.consensus.fasta	H1N1	PA	A_PA	2151	91	4.23	Aceptable	Correcto
+IonXpress_071_232589116	IonXpress_071_232589116.consensus.fasta	H1N1	NP	A_NP	1497	16	1.07	Aceptable	Correcto
+IonXpress_071_232589116	IonXpress_071_232589116.consensus.fasta	H1N1	NS	A_NS	863	545	63.15	Mala	Muchos N
+IonXpress_071_232589116	IonXpress_071_232589116.consensus.fasta	H1N1	M	A_MP	982	46	4.68	Aceptable	Correcto
+IonXpress_071_232600003	IonXpress_071_232600003.consensus.fasta	H1N1	HA	A_HA_H1	1752	206	11.76	Mala	Muchos N
+IonXpress_071_232600003	IonXpress_071_232600003.consensus.fasta	H1N1	NA	A_NA_N1	1433	70	4.88	Aceptable	Correcto
+IonXpress_071_232600003	IonXpress_071_232600003.consensus.fasta	H1N1	PB1	A_PB1	2273	133	5.85	Dudosa	Revisar por N
+IonXpress_071_232600003	IonXpress_071_232600003.consensus.fasta	H1N1	PB2	A_PB2	2280	137	6.01	Dudosa	Revisar por N
+IonXpress_071_232600003	IonXpress_071_232600003.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_071_232600003	IonXpress_071_232600003.consensus.fasta	H1N1	NP	A_NP	1497	172	11.49	Mala	Muchos N
+IonXpress_071_232600003	IonXpress_071_232600003.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_071_232600003	IonXpress_071_232600003.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_071_232603931	IonXpress_071_232603931.consensus.fasta	H3N2	HA	A_HA_H3	1718	231	13.45	Mala	Muchos N
+IonXpress_071_232603931	IonXpress_071_232603931.consensus.fasta	H3N2	NA	A_NA_N2	1439	215	14.94	Mala	Muchos N
+IonXpress_071_232603931	IonXpress_071_232603931.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_071_232603931	IonXpress_071_232603931.consensus.fasta	H3N2	PB2	A_PB2	2280	216	9.47	Dudosa	Revisar por N
+IonXpress_071_232603931	IonXpress_071_232603931.consensus.fasta	H3N2	PA	A_PA	2151	60	2.79	Aceptable	Correcto
+IonXpress_071_232603931	IonXpress_071_232603931.consensus.fasta	H3N2	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_071_232603931	IonXpress_071_232603931.consensus.fasta	H3N2	NS	A_NS	863	155	17.96	Mala	Muchos N
+IonXpress_071_232603931	IonXpress_071_232603931.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_072_232566363	IonXpress_072_232566363.consensus.fasta	H3N2	HA	A_HA_H3	1718	25	1.46	Aceptable	Correcto
+IonXpress_072_232566363	IonXpress_072_232566363.consensus.fasta	H3N2	NA	A_NA_N2	1439	80	5.56	Dudosa	Revisar por N
+IonXpress_072_232566363	IonXpress_072_232566363.consensus.fasta	H3N2	PB1	A_PB1	2274	16	0.7	Buena	Correcto
+IonXpress_072_232566363	IonXpress_072_232566363.consensus.fasta	H3N2	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_072_232566363	IonXpress_072_232566363.consensus.fasta	H3N2	PA	A_PA	2151	41	1.91	Aceptable	Correcto
+IonXpress_072_232566363	IonXpress_072_232566363.consensus.fasta	H3N2	NP	A_NP	1496	5	0.33	Buena	Correcto
+IonXpress_072_232566363	IonXpress_072_232566363.consensus.fasta	H3N2	NS	A_NS	863	135	15.64	Mala	Muchos N
+IonXpress_072_232566363	IonXpress_072_232566363.consensus.fasta	H3N2	M	A_MP	982	21	2.14	Aceptable	Correcto
+IonXpress_072_232574989	IonXpress_072_232574989.consensus.fasta	H1N1	HA	A_HA_H1	1752	114	6.51	Dudosa	Revisar por N
+IonXpress_072_232574989	IonXpress_072_232574989.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_072_232574989	IonXpress_072_232574989.consensus.fasta	H1N1	PB1	A_PB1	2274	25	1.1	Aceptable	Correcto
+IonXpress_072_232574989	IonXpress_072_232574989.consensus.fasta	H1N1	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_072_232574989	IonXpress_072_232574989.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_072_232574989	IonXpress_072_232574989.consensus.fasta	H1N1	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_072_232574989	IonXpress_072_232574989.consensus.fasta	H1N1	NS	A_NS	863	49	5.68	Dudosa	Revisar por N
+IonXpress_072_232574989	IonXpress_072_232574989.consensus.fasta	H1N1	M	A_MP	982	26	2.65	Aceptable	Correcto
+IonXpress_072_232581089	IonXpress_072_232581089.consensus.fasta	H3N2	HA	A_HA_H3	1719	896	52.12	Mala	Muchos N
+IonXpress_072_232581089	IonXpress_072_232581089.consensus.fasta	H3N2	NA	A_NA_N2	1440	909	63.12	Mala	Muchos N
+IonXpress_072_232581089	IonXpress_072_232581089.consensus.fasta	H3N2	PB1	A_PB1	2274	402	17.68	Mala	Muchos N
+IonXpress_072_232581089	IonXpress_072_232581089.consensus.fasta	H3N2	PB2	A_PB2	2280	849	37.24	Mala	Muchos N
+IonXpress_072_232581089	IonXpress_072_232581089.consensus.fasta	H3N2	PA	A_PA	2151	336	15.62	Mala	Muchos N
+IonXpress_072_232581089	IonXpress_072_232581089.consensus.fasta	H3N2	NP	A_NP	1497	391	26.12	Mala	Muchos N
+IonXpress_072_232581089	IonXpress_072_232581089.consensus.fasta	H3N2	NS	A_NS	863	473	54.81	Mala	Muchos N
+IonXpress_072_232581089	IonXpress_072_232581089.consensus.fasta	H3N2	M	A_MP	983	113	11.5	Mala	Muchos N
+IonXpress_072_232589061	IonXpress_072_232589061.consensus.fasta	H1N1	HA	A_HA_H1	1751	742	42.38	Mala	Muchos N
+IonXpress_072_232589061	IonXpress_072_232589061.consensus.fasta	H1N1	NA	A_NA_N1	1435	852	59.37	Mala	Muchos N
+IonXpress_072_232589061	IonXpress_072_232589061.consensus.fasta	H1N1	PB1	A_PB1	2274	245	10.77	Mala	Muchos N
+IonXpress_072_232589061	IonXpress_072_232589061.consensus.fasta	H1N1	PB2	A_PB2	2280	796	34.91	Mala	Muchos N
+IonXpress_072_232589061	IonXpress_072_232589061.consensus.fasta	H1N1	PA	A_PA	2152	799	37.13	Mala	Muchos N
+IonXpress_072_232589061	IonXpress_072_232589061.consensus.fasta	H1N1	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_072_232589061	IonXpress_072_232589061.consensus.fasta	H1N1	NS	A_NS	863	281	32.56	Mala	Muchos N
+IonXpress_072_232589061	IonXpress_072_232589061.consensus.fasta	H1N1	M	A_MP	982	539	54.89	Mala	Muchos N
+IonXpress_072_232600071	IonXpress_072_232600071.consensus.fasta	H3N2	HA	A_HA_H3	1718	25	1.46	Aceptable	Correcto
+IonXpress_072_232600071	IonXpress_072_232600071.consensus.fasta	H3N2	NA	A_NA_N2	1439	80	5.56	Dudosa	Revisar por N
+IonXpress_072_232600071	IonXpress_072_232600071.consensus.fasta	H3N2	PB1	A_PB1	2274	16	0.7	Buena	Correcto
+IonXpress_072_232600071	IonXpress_072_232600071.consensus.fasta	H3N2	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_072_232600071	IonXpress_072_232600071.consensus.fasta	H3N2	PA	A_PA	2151	41	1.91	Aceptable	Correcto
+IonXpress_072_232600071	IonXpress_072_232600071.consensus.fasta	H3N2	NP	A_NP	1496	5	0.33	Buena	Correcto
+IonXpress_072_232600071	IonXpress_072_232600071.consensus.fasta	H3N2	NS	A_NS	863	135	15.64	Mala	Muchos N
+IonXpress_072_232600071	IonXpress_072_232600071.consensus.fasta	H3N2	M	A_MP	982	21	2.14	Aceptable	Correcto
+IonXpress_072_232604711	IonXpress_072_232604711.consensus.fasta	H1N1	HA	A_HA_H1	1752	223	12.73	Mala	Muchos N
+IonXpress_072_232604711	IonXpress_072_232604711.consensus.fasta	H1N1	NA	A_NA_N1	1433	153	10.68	Mala	Muchos N
+IonXpress_072_232604711	IonXpress_072_232604711.consensus.fasta	H1N1	PB1	A_PB1	2274	26	1.14	Aceptable	Correcto
+IonXpress_072_232604711	IonXpress_072_232604711.consensus.fasta	H1N1	PB2	A_PB2	2280	69	3.03	Aceptable	Correcto
+IonXpress_072_232604711	IonXpress_072_232604711.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_072_232604711	IonXpress_072_232604711.consensus.fasta	H1N1	NP	A_NP	1497	12	0.8	Buena	Correcto
+IonXpress_072_232604711	IonXpress_072_232604711.consensus.fasta	H1N1	NS	A_NS	863	159	18.42	Mala	Muchos N
+IonXpress_072_232604711	IonXpress_072_232604711.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_073_232566365	IonXpress_073_232566365.consensus.fasta	H3N2	HA	A_HA_H3	1718	204	11.87	Mala	Muchos N
+IonXpress_073_232566365	IonXpress_073_232566365.consensus.fasta	H3N2	NA	A_NA_N2	1439	119	8.27	Dudosa	Revisar por N
+IonXpress_073_232566365	IonXpress_073_232566365.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_073_232566365	IonXpress_073_232566365.consensus.fasta	H3N2	PB2	A_PB2	2280	260	11.4	Mala	Muchos N
+IonXpress_073_232566365	IonXpress_073_232566365.consensus.fasta	H3N2	PA	A_PA	2151	56	2.6	Aceptable	Correcto
+IonXpress_073_232566365	IonXpress_073_232566365.consensus.fasta	H3N2	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_073_232566365	IonXpress_073_232566365.consensus.fasta	H3N2	NS	A_NS	863	297	34.41	Mala	Muchos N
+IonXpress_073_232566365	IonXpress_073_232566365.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_073_232575054	IonXpress_073_232575054.consensus.fasta	H1N1	HA	A_HA_H1	1752	778	44.41	Mala	Muchos N
+IonXpress_073_232575054	IonXpress_073_232575054.consensus.fasta	H3N2	NA	A_NA_N2	1439	669	46.49	Mala	Muchos N
+IonXpress_073_232575054	IonXpress_073_232575054.consensus.fasta	H3N2	PB1	A_PB1	2274	255	11.21	Mala	Muchos N
+IonXpress_073_232575054	IonXpress_073_232575054.consensus.fasta	H3N2	PB2	A_PB2	2280	488	21.4	Mala	Muchos N
+IonXpress_073_232575054	IonXpress_073_232575054.consensus.fasta	H3N2	PA	A_PA	2151	536	24.92	Mala	Muchos N
+IonXpress_073_232575054	IonXpress_073_232575054.consensus.fasta	H3N2	NP	A_NP	1497	242	16.17	Mala	Muchos N
+IonXpress_073_232575054	IonXpress_073_232575054.consensus.fasta	H3N2	NS	A_NS	863	322	37.31	Mala	Muchos N
+IonXpress_073_232575054	IonXpress_073_232575054.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_073_232584993	IonXpress_073_232584993.consensus.fasta	H3N2	HA	A_HA_H3	1718	1140	66.36	Mala	Muchos N
+IonXpress_073_232584993	IonXpress_073_232584993.consensus.fasta	H1N1	NA	A_NA_N1	1433	824	57.5	Mala	Muchos N
+IonXpress_073_232584993	IonXpress_073_232584993.consensus.fasta	H1N1	PB1	A_PB1	2274	500	21.99	Mala	Muchos N
+IonXpress_073_232584993	IonXpress_073_232584993.consensus.fasta	H1N1	PB2	A_PB2	2280	113	4.96	Aceptable	Correcto
+IonXpress_073_232584993	IonXpress_073_232584993.consensus.fasta	H1N1	PA	A_PA	2150	178	8.28	Dudosa	Revisar por N
+IonXpress_073_232584993	IonXpress_073_232584993.consensus.fasta	H1N1	NP	A_NP	1497	266	17.77	Mala	Muchos N
+IonXpress_073_232584993	IonXpress_073_232584993.consensus.fasta	H1N1	NS	A_NS	863	324	37.54	Mala	Muchos N
+IonXpress_073_232584993	IonXpress_073_232584993.consensus.fasta	H1N1	M	A_MP	982	45	4.58	Aceptable	Correcto
+IonXpress_073_232589003	IonXpress_073_232589003.consensus.fasta	H1N1	HA	A_HA_H1	1752	1179	67.29	Mala	Muchos N
+IonXpress_073_232589003	IonXpress_073_232589003.consensus.fasta	H1N1	NA	A_NA_N1	1433	1195	83.39	Mala	Muchos N
+IonXpress_073_232589003	IonXpress_073_232589003.consensus.fasta	H1N1	PB1	A_PB1	2275	532	23.38	Mala	Muchos N
+IonXpress_073_232589003	IonXpress_073_232589003.consensus.fasta	H1N1	PB2	A_PB2	2280	1323	58.03	Mala	Muchos N
+IonXpress_073_232589003	IonXpress_073_232589003.consensus.fasta	H1N1	PA	A_PA	2151	1023	47.56	Mala	Muchos N
+IonXpress_073_232589003	IonXpress_073_232589003.consensus.fasta	H1N1	NP	A_NP	1497	465	31.06	Mala	Muchos N
+IonXpress_073_232589003	IonXpress_073_232589003.consensus.fasta	H1N1	NS	A_NS	863	531	61.53	Mala	Muchos N
+IonXpress_073_232589003	IonXpress_073_232589003.consensus.fasta	H1N1	M	A_MP	982	216	22.0	Mala	Muchos N
+IonXpress_073_232600083	IonXpress_073_232600083.consensus.fasta	H3N2	HA	A_HA_H3	1718	204	11.87	Mala	Muchos N
+IonXpress_073_232600083	IonXpress_073_232600083.consensus.fasta	H3N2	NA	A_NA_N2	1439	119	8.27	Dudosa	Revisar por N
+IonXpress_073_232600083	IonXpress_073_232600083.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_073_232600083	IonXpress_073_232600083.consensus.fasta	H3N2	PB2	A_PB2	2280	260	11.4	Mala	Muchos N
+IonXpress_073_232600083	IonXpress_073_232600083.consensus.fasta	H3N2	PA	A_PA	2151	56	2.6	Aceptable	Correcto
+IonXpress_073_232600083	IonXpress_073_232600083.consensus.fasta	H3N2	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_073_232600083	IonXpress_073_232600083.consensus.fasta	H3N2	NS	A_NS	863	297	34.41	Mala	Muchos N
+IonXpress_073_232600083	IonXpress_073_232600083.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_073_232604737	IonXpress_073_232604737.consensus.fasta	H3N2	HA	A_HA_H3	1718	19	1.11	Aceptable	Correcto
+IonXpress_073_232604737	IonXpress_073_232604737.consensus.fasta	H3N2	NA	A_NA_N2	1440	87	6.04	Dudosa	Revisar por N
+IonXpress_073_232604737	IonXpress_073_232604737.consensus.fasta	H3N2	PB1	A_PB1	2274	15	0.66	Buena	Correcto
+IonXpress_073_232604737	IonXpress_073_232604737.consensus.fasta	H3N2	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_073_232604737	IonXpress_073_232604737.consensus.fasta	H3N2	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_073_232604737	IonXpress_073_232604737.consensus.fasta	H3N2	NP	A_NP	1497	16	1.07	Aceptable	Correcto
+IonXpress_073_232604737	IonXpress_073_232604737.consensus.fasta	H3N2	NS	A_NS	863	146	16.92	Mala	Muchos N
+IonXpress_073_232604737	IonXpress_073_232604737.consensus.fasta	H3N2	M	A_MP	982	23	2.34	Aceptable	Correcto
+IonXpress_074_232566520	IonXpress_074_232566520.consensus.fasta	H3N2	HA	A_HA_H3	1718	154	8.96	Dudosa	Revisar por N
+IonXpress_074_232566520	IonXpress_074_232566520.consensus.fasta	H3N2	NA	A_NA_N2	1439	103	7.16	Dudosa	Revisar por N
+IonXpress_074_232566520	IonXpress_074_232566520.consensus.fasta	H3N2	PB1	A_PB1	2274	26	1.14	Aceptable	Correcto
+IonXpress_074_232566520	IonXpress_074_232566520.consensus.fasta	H3N2	PB2	A_PB2	2280	422	18.51	Mala	Muchos N
+IonXpress_074_232566520	IonXpress_074_232566520.consensus.fasta	H3N2	PA	A_PA	2151	48	2.23	Aceptable	Correcto
+IonXpress_074_232566520	IonXpress_074_232566520.consensus.fasta	H3N2	NP	A_NP	1496	20	1.34	Aceptable	Correcto
+IonXpress_074_232566520	IonXpress_074_232566520.consensus.fasta	H3N2	NS	A_NS	863	307	35.57	Mala	Muchos N
+IonXpress_074_232566520	IonXpress_074_232566520.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_074_232575060	IonXpress_074_232575060.consensus.fasta	H1N1	HA	A_HA_H1	1752	92	5.25	Dudosa	Revisar por N
+IonXpress_074_232575060	IonXpress_074_232575060.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_074_232575060	IonXpress_074_232575060.consensus.fasta	H1N1	PB1	A_PB1	2273	147	6.47	Dudosa	Revisar por N
+IonXpress_074_232575060	IonXpress_074_232575060.consensus.fasta	H1N1	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_074_232575060	IonXpress_074_232575060.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_074_232575060	IonXpress_074_232575060.consensus.fasta	H1N1	NP	A_NP	1497	16	1.07	Aceptable	Correcto
+IonXpress_074_232575060	IonXpress_074_232575060.consensus.fasta	H1N1	NS	A_NS	863	49	5.68	Dudosa	Revisar por N
+IonXpress_074_232575060	IonXpress_074_232575060.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_074_232581264	IonXpress_074_232581264.consensus.fasta	H3N2	HA	A_HA_H3	1718	1275	74.21	Mala	Muchos N
+IonXpress_074_232581264	IonXpress_074_232581264.consensus.fasta	H3N2	NA	A_NA_N2	1440	827	57.43	Mala	Muchos N
+IonXpress_074_232581264	IonXpress_074_232581264.consensus.fasta	H3N2	PB1	A_PB1	2274	1206	53.03	Mala	Muchos N
+IonXpress_074_232581264	IonXpress_074_232581264.consensus.fasta	H3N2	PB2	A_PB2	2280	1838	80.61	Mala	Muchos N
+IonXpress_074_232581264	IonXpress_074_232581264.consensus.fasta	H3N2	PA	A_PA	2151	1406	65.36	Mala	Muchos N
+IonXpress_074_232581264	IonXpress_074_232581264.consensus.fasta	H3N2	NP	A_NP	1497	954	63.73	Mala	Muchos N
+IonXpress_074_232581264	IonXpress_074_232581264.consensus.fasta	H3N2	NS	A_NS	863	600	69.52	Mala	Muchos N
+IonXpress_074_232581264	IonXpress_074_232581264.consensus.fasta	H3N2	M	A_MP	982	538	54.79	Mala	Muchos N
+IonXpress_074_232585043	IonXpress_074_232585043.consensus.fasta	H1N1	HA	A_HA_H1	1752	1247	71.18	Mala	Muchos N
+IonXpress_074_232585043	IonXpress_074_232585043.consensus.fasta	H1N1	NA	A_NA_N1	1433	901	62.88	Mala	Muchos N
+IonXpress_074_232585043	IonXpress_074_232585043.consensus.fasta	H1N1	PB1	A_PB1	2274	1129	49.65	Mala	Muchos N
+IonXpress_074_232585043	IonXpress_074_232585043.consensus.fasta	H1N1	PB2	A_PB2	2280	1046	45.88	Mala	Muchos N
+IonXpress_074_232585043	IonXpress_074_232585043.consensus.fasta	H1N1	PA	A_PA	2151	574	26.69	Mala	Muchos N
+IonXpress_074_232585043	IonXpress_074_232585043.consensus.fasta	H1N1	NP	A_NP	1497	369	24.65	Mala	Muchos N
+IonXpress_074_232585043	IonXpress_074_232585043.consensus.fasta	H1N1	NS	A_NS	863	561	65.01	Mala	Muchos N
+IonXpress_074_232585043	IonXpress_074_232585043.consensus.fasta	H1N1	M	A_MP	982	223	22.71	Mala	Muchos N
+IonXpress_074_232589030	IonXpress_074_232589030.consensus.fasta	H3N2	HA	A_HA_H3	1718	1222	71.13	Mala	Muchos N
+IonXpress_074_232589030	IonXpress_074_232589030.consensus.fasta	H3N2	NA	A_NA_N2	1449	572	39.48	Mala	Muchos N
+IonXpress_074_232589030	IonXpress_074_232589030.consensus.fasta	H3N2	PB1	A_PB1	2274	285	12.53	Mala	Muchos N
+IonXpress_074_232589030	IonXpress_074_232589030.consensus.fasta	H3N2	PB2	A_PB2	2280	266	11.67	Mala	Muchos N
+IonXpress_074_232589030	IonXpress_074_232589030.consensus.fasta	H3N2	PA	A_PA	2151	53	2.46	Aceptable	Correcto
+IonXpress_074_232589030	IonXpress_074_232589030.consensus.fasta	H3N2	NP	A_NP	1496	20	1.34	Aceptable	Correcto
+IonXpress_074_232589030	IonXpress_074_232589030.consensus.fasta	H3N2	NS	A_NS	863	297	34.41	Mala	Muchos N
+IonXpress_074_232589030	IonXpress_074_232589030.consensus.fasta	H3N2	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_074_232600103	IonXpress_074_232600103.consensus.fasta	H3N2	HA	A_HA_H3	1718	154	8.96	Dudosa	Revisar por N
+IonXpress_074_232600103	IonXpress_074_232600103.consensus.fasta	H3N2	NA	A_NA_N2	1439	103	7.16	Dudosa	Revisar por N
+IonXpress_074_232600103	IonXpress_074_232600103.consensus.fasta	H3N2	PB1	A_PB1	2274	26	1.14	Aceptable	Correcto
+IonXpress_074_232600103	IonXpress_074_232600103.consensus.fasta	H3N2	PB2	A_PB2	2280	422	18.51	Mala	Muchos N
+IonXpress_074_232600103	IonXpress_074_232600103.consensus.fasta	H3N2	PA	A_PA	2151	48	2.23	Aceptable	Correcto
+IonXpress_074_232600103	IonXpress_074_232600103.consensus.fasta	H3N2	NP	A_NP	1496	20	1.34	Aceptable	Correcto
+IonXpress_074_232600103	IonXpress_074_232600103.consensus.fasta	H3N2	NS	A_NS	863	307	35.57	Mala	Muchos N
+IonXpress_074_232600103	IonXpress_074_232600103.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_074_232604880	IonXpress_074_232604880.consensus.fasta	H1N1	HA	A_HA_H1	1752	582	33.22	Mala	Muchos N
+IonXpress_074_232604880	IonXpress_074_232604880.consensus.fasta	H1N1	NA	A_NA_N1	1433	200	13.96	Mala	Muchos N
+IonXpress_074_232604880	IonXpress_074_232604880.consensus.fasta	H1N1	PB1	A_PB1	2274	307	13.5	Mala	Muchos N
+IonXpress_074_232604880	IonXpress_074_232604880.consensus.fasta	H1N1	PB2	A_PB2	2280	761	33.38	Mala	Muchos N
+IonXpress_074_232604880	IonXpress_074_232604880.consensus.fasta	H1N1	PA	A_PA	2151	133	6.18	Dudosa	Revisar por N
+IonXpress_074_232604880	IonXpress_074_232604880.consensus.fasta	H1N1	NP	A_NP	1505	197	13.09	Mala	Muchos N
+IonXpress_074_232604880	IonXpress_074_232604880.consensus.fasta	H1N1	NS	A_NS	863	545	63.15	Mala	Muchos N
+IonXpress_074_232604880	IonXpress_074_232604880.consensus.fasta	H1N1	M	A_MP	982	46	4.68	Aceptable	Correcto
+IonXpress_075_232566527	IonXpress_075_232566527.consensus.fasta	H3N2	HA	A_HA_H3	1718	130	7.57	Dudosa	Revisar por N
+IonXpress_075_232566527	IonXpress_075_232566527.consensus.fasta	H3N2	NA	A_NA_N2	1439	107	7.44	Dudosa	Revisar por N
+IonXpress_075_232566527	IonXpress_075_232566527.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_075_232566527	IonXpress_075_232566527.consensus.fasta	H3N2	PB2	A_PB2	2280	525	23.03	Mala	Muchos N
+IonXpress_075_232566527	IonXpress_075_232566527.consensus.fasta	H3N2	PA	A_PA	2151	56	2.6	Aceptable	Correcto
+IonXpress_075_232566527	IonXpress_075_232566527.consensus.fasta	H3N2	NP	A_NP	1496	20	1.34	Aceptable	Correcto
+IonXpress_075_232566527	IonXpress_075_232566527.consensus.fasta	H3N2	NS	A_NS	863	247	28.62	Mala	Muchos N
+IonXpress_075_232566527	IonXpress_075_232566527.consensus.fasta	H3N2	M	A_MP	982	22	2.24	Aceptable	Correcto
+IonXpress_075_232575070	IonXpress_075_232575070.consensus.fasta	H1N1	HA	A_HA_H1	1752	222	12.67	Mala	Muchos N
+IonXpress_075_232575070	IonXpress_075_232575070.consensus.fasta	H1N1	NA	A_NA_N1	1433	72	5.02	Dudosa	Revisar por N
+IonXpress_075_232575070	IonXpress_075_232575070.consensus.fasta	H1N1	PB1	A_PB1	2273	23	1.01	Aceptable	Correcto
+IonXpress_075_232575070	IonXpress_075_232575070.consensus.fasta	H1N1	PB2	A_PB2	2280	111	4.87	Aceptable	Correcto
+IonXpress_075_232575070	IonXpress_075_232575070.consensus.fasta	H1N1	PA	A_PA	2151	57	2.65	Aceptable	Correcto
+IonXpress_075_232575070	IonXpress_075_232575070.consensus.fasta	H1N1	NP	A_NP	1497	252	16.83	Mala	Muchos N
+IonXpress_075_232575070	IonXpress_075_232575070.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_075_232575070	IonXpress_075_232575070.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_075_232581369	IonXpress_075_232581369.consensus.fasta	H3N2	HA	A_HA_H3	1718	1127	65.6	Mala	Muchos N
+IonXpress_075_232581369	IonXpress_075_232581369.consensus.fasta	H3N2	NA	A_NA_N2	1439	727	50.52	Mala	Muchos N
+IonXpress_075_232581369	IonXpress_075_232581369.consensus.fasta	H3N2	PB1	A_PB1	2274	866	38.08	Mala	Muchos N
+IonXpress_075_232581369	IonXpress_075_232581369.consensus.fasta	H3N2	PB2	A_PB2	2280	1439	63.11	Mala	Muchos N
+IonXpress_075_232581369	IonXpress_075_232581369.consensus.fasta	H3N2	PA	A_PA	2151	1325	61.6	Mala	Muchos N
+IonXpress_075_232581369	IonXpress_075_232581369.consensus.fasta	H3N2	NP	A_NP	1497	592	39.55	Mala	Muchos N
+IonXpress_075_232581369	IonXpress_075_232581369.consensus.fasta	H3N2	NS	A_NS	863	406	47.05	Mala	Muchos N
+IonXpress_075_232581369	IonXpress_075_232581369.consensus.fasta	H3N2	M	A_MP	982	536	54.58	Mala	Muchos N
+IonXpress_075_232585062	IonXpress_075_232585062.consensus.fasta	H1N1	HA	A_HA_H1	1752	1083	61.82	Mala	Muchos N
+IonXpress_075_232585062	IonXpress_075_232585062.consensus.fasta	H1N1	NA	A_NA_N1	1433	905	63.15	Mala	Muchos N
+IonXpress_075_232585062	IonXpress_075_232585062.consensus.fasta	H1N1	PB1	A_PB1	2274	670	29.46	Mala	Muchos N
+IonXpress_075_232585062	IonXpress_075_232585062.consensus.fasta	H1N1	PB2	A_PB2	2280	1122	49.21	Mala	Muchos N
+IonXpress_075_232585062	IonXpress_075_232585062.consensus.fasta	H1N1	PA	A_PA	2151	289	13.44	Mala	Muchos N
+IonXpress_075_232585062	IonXpress_075_232585062.consensus.fasta	H1N1	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_075_232585062	IonXpress_075_232585062.consensus.fasta	H1N1	NS	A_NS	863	567	65.7	Mala	Muchos N
+IonXpress_075_232585062	IonXpress_075_232585062.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_075_232588718	IonXpress_075_232588718.consensus.fasta	H3N2	HA	A_HA_H3	1718	146	8.5	Dudosa	Revisar por N
+IonXpress_075_232588718	IonXpress_075_232588718.consensus.fasta	H3N2	NA	A_NA_N2	1440	86	5.97	Dudosa	Revisar por N
+IonXpress_075_232588718	IonXpress_075_232588718.consensus.fasta	H3N2	PB1	A_PB1	2274	25	1.1	Aceptable	Correcto
+IonXpress_075_232588718	IonXpress_075_232588718.consensus.fasta	H3N2	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_075_232588718	IonXpress_075_232588718.consensus.fasta	H3N2	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_075_232588718	IonXpress_075_232588718.consensus.fasta	H3N2	NP	A_NP	1496	20	1.34	Aceptable	Correcto
+IonXpress_075_232588718	IonXpress_075_232588718.consensus.fasta	H3N2	NS	A_NS	863	297	34.41	Mala	Muchos N
+IonXpress_075_232588718	IonXpress_075_232588718.consensus.fasta	H3N2	M	A_MP	982	14	1.43	Aceptable	Correcto
+IonXpress_075_232600145	IonXpress_075_232600145.consensus.fasta	H3N2	HA	A_HA_H3	1718	130	7.57	Dudosa	Revisar por N
+IonXpress_075_232600145	IonXpress_075_232600145.consensus.fasta	H3N2	NA	A_NA_N2	1439	107	7.44	Dudosa	Revisar por N
+IonXpress_075_232600145	IonXpress_075_232600145.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_075_232600145	IonXpress_075_232600145.consensus.fasta	H3N2	PB2	A_PB2	2280	525	23.03	Mala	Muchos N
+IonXpress_075_232600145	IonXpress_075_232600145.consensus.fasta	H3N2	PA	A_PA	2151	56	2.6	Aceptable	Correcto
+IonXpress_075_232600145	IonXpress_075_232600145.consensus.fasta	H3N2	NP	A_NP	1496	20	1.34	Aceptable	Correcto
+IonXpress_075_232600145	IonXpress_075_232600145.consensus.fasta	H3N2	NS	A_NS	863	247	28.62	Mala	Muchos N
+IonXpress_075_232600145	IonXpress_075_232600145.consensus.fasta	H3N2	M	A_MP	982	22	2.24	Aceptable	Correcto
+IonXpress_075_232604909	IonXpress_075_232604909.consensus.fasta	H1N1	HA	A_HA_H1	1752	152	8.68	Dudosa	Revisar por N
+IonXpress_075_232604909	IonXpress_075_232604909.consensus.fasta	H1N1	NA	A_NA_N1	1433	155	10.82	Mala	Muchos N
+IonXpress_075_232604909	IonXpress_075_232604909.consensus.fasta	H1N1	PB1	A_PB1	2274	170	7.48	Dudosa	Revisar por N
+IonXpress_075_232604909	IonXpress_075_232604909.consensus.fasta	H1N1	PB2	A_PB2	2280	224	9.82	Dudosa	Revisar por N
+IonXpress_075_232604909	IonXpress_075_232604909.consensus.fasta	H1N1	PA	A_PA	2151	40	1.86	Aceptable	Correcto
+IonXpress_075_232604909	IonXpress_075_232604909.consensus.fasta	H1N1	NP	A_NP	1497	61	4.07	Aceptable	Correcto
+IonXpress_075_232604909	IonXpress_075_232604909.consensus.fasta	H1N1	NS	A_NS	863	203	23.52	Mala	Muchos N
+IonXpress_075_232604909	IonXpress_075_232604909.consensus.fasta	H1N1	M	A_MP	982	31	3.16	Aceptable	Correcto
+IonXpress_076_232568611	IonXpress_076_232568611.consensus.fasta	H3N2	HA	A_HA_H3	1718	169	9.84	Dudosa	Revisar por N
+IonXpress_076_232568611	IonXpress_076_232568611.consensus.fasta	H3N2	NA	A_NA_N2	1439	116	8.06	Dudosa	Revisar por N
+IonXpress_076_232568611	IonXpress_076_232568611.consensus.fasta	H3N2	PB1	A_PB1	2274	41	1.8	Aceptable	Correcto
+IonXpress_076_232568611	IonXpress_076_232568611.consensus.fasta	H3N2	PB2	A_PB2	2280	699	30.66	Mala	Muchos N
+IonXpress_076_232568611	IonXpress_076_232568611.consensus.fasta	H3N2	PA	A_PA	2151	59	2.74	Aceptable	Correcto
+IonXpress_076_232568611	IonXpress_076_232568611.consensus.fasta	H3N2	NP	A_NP	1496	7	0.47	Buena	Correcto
+IonXpress_076_232568611	IonXpress_076_232568611.consensus.fasta	H3N2	NS	A_NS	863	255	29.55	Mala	Muchos N
+IonXpress_076_232568611	IonXpress_076_232568611.consensus.fasta	H3N2	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_076_232575078	IonXpress_076_232575078.consensus.fasta	H1N1	HA	A_HA_H1	1752	323	18.44	Mala	Muchos N
+IonXpress_076_232575078	IonXpress_076_232575078.consensus.fasta	H1N1	NA	A_NA_N1	1433	72	5.02	Dudosa	Revisar por N
+IonXpress_076_232575078	IonXpress_076_232575078.consensus.fasta	H1N1	PB1	A_PB1	2274	419	18.43	Mala	Muchos N
+IonXpress_076_232575078	IonXpress_076_232575078.consensus.fasta	H1N1	PB2	A_PB2	2280	118	5.18	Dudosa	Revisar por N
+IonXpress_076_232575078	IonXpress_076_232575078.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_076_232575078	IonXpress_076_232575078.consensus.fasta	H1N1	NP	A_NP	1497	243	16.23	Mala	Muchos N
+IonXpress_076_232575078	IonXpress_076_232575078.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_076_232575078	IonXpress_076_232575078.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_076_232581370	IonXpress_076_232581370.consensus.fasta	H1N1	HA	A_HA_H1	1752	882	50.34	Mala	Muchos N
+IonXpress_076_232581370	IonXpress_076_232581370.consensus.fasta	H1N1	NA	A_NA_N1	1433	637	44.45	Mala	Muchos N
+IonXpress_076_232581370	IonXpress_076_232581370.consensus.fasta	H1N1	PB1	A_PB1	2274	1034	45.47	Mala	Muchos N
+IonXpress_076_232581370	IonXpress_076_232581370.consensus.fasta	H1N1	PB2	A_PB2	2280	1174	51.49	Mala	Muchos N
+IonXpress_076_232581370	IonXpress_076_232581370.consensus.fasta	H1N1	PA	A_PA	2156	990	45.92	Mala	Muchos N
+IonXpress_076_232581370	IonXpress_076_232581370.consensus.fasta	H1N1	NP	A_NP	1496	539	36.03	Mala	Muchos N
+IonXpress_076_232581370	IonXpress_076_232581370.consensus.fasta	H1N1	NS	A_NS	863	627	72.65	Mala	Muchos N
+IonXpress_076_232581370	IonXpress_076_232581370.consensus.fasta	H1N1	M	A_MP	982	462	47.05	Mala	Muchos N
+IonXpress_076_232585263	IonXpress_076_232585263.consensus.fasta	H1N1	HA	A_HA_H1	1752	278	15.87	Mala	Muchos N
+IonXpress_076_232585263	IonXpress_076_232585263.consensus.fasta	H1N1	NA	A_NA_N1	1433	177	12.35	Mala	Muchos N
+IonXpress_076_232585263	IonXpress_076_232585263.consensus.fasta	H1N1	PB1	A_PB1	2274	166	7.3	Dudosa	Revisar por N
+IonXpress_076_232585263	IonXpress_076_232585263.consensus.fasta	H1N1	PB2	A_PB2	2280	227	9.96	Dudosa	Revisar por N
+IonXpress_076_232585263	IonXpress_076_232585263.consensus.fasta	H1N1	PA	A_PA	2151	54	2.51	Aceptable	Correcto
+IonXpress_076_232585263	IonXpress_076_232585263.consensus.fasta	H1N1	NP	A_NP	1497	190	12.69	Mala	Muchos N
+IonXpress_076_232585263	IonXpress_076_232585263.consensus.fasta	H1N1	NS	A_NS	863	63	7.3	Dudosa	Revisar por N
+IonXpress_076_232585263	IonXpress_076_232585263.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_076_232588675	IonXpress_076_232588675.consensus.fasta	H1N1	HA	A_HA_H1	1752	1029	58.73	Mala	Muchos N
+IonXpress_076_232588675	IonXpress_076_232588675.consensus.fasta	H1N1	NA	A_NA_N1	1433	1113	77.67	Mala	Muchos N
+IonXpress_076_232588675	IonXpress_076_232588675.consensus.fasta	H1N1	PB1	A_PB1	2274	670	29.46	Mala	Muchos N
+IonXpress_076_232588675	IonXpress_076_232588675.consensus.fasta	H1N1	PB2	A_PB2	2280	1722	75.53	Mala	Muchos N
+IonXpress_076_232588675	IonXpress_076_232588675.consensus.fasta	H1N1	PA	A_PA	2151	938	43.61	Mala	Muchos N
+IonXpress_076_232588675	IonXpress_076_232588675.consensus.fasta	H1N1	NP	A_NP	1497	424	28.32	Mala	Muchos N
+IonXpress_076_232588675	IonXpress_076_232588675.consensus.fasta	H1N1	NS	A_NS	863	571	66.16	Mala	Muchos N
+IonXpress_076_232588675	IonXpress_076_232588675.consensus.fasta	H1N1	M	A_MP	982	568	57.84	Mala	Muchos N
+IonXpress_076_232600149	IonXpress_076_232600149.consensus.fasta	H3N2	HA	A_HA_H3	1718	169	9.84	Dudosa	Revisar por N
+IonXpress_076_232600149	IonXpress_076_232600149.consensus.fasta	H3N2	NA	A_NA_N2	1439	116	8.06	Dudosa	Revisar por N
+IonXpress_076_232600149	IonXpress_076_232600149.consensus.fasta	H3N2	PB1	A_PB1	2274	41	1.8	Aceptable	Correcto
+IonXpress_076_232600149	IonXpress_076_232600149.consensus.fasta	H3N2	PB2	A_PB2	2280	699	30.66	Mala	Muchos N
+IonXpress_076_232600149	IonXpress_076_232600149.consensus.fasta	H3N2	PA	A_PA	2151	59	2.74	Aceptable	Correcto
+IonXpress_076_232600149	IonXpress_076_232600149.consensus.fasta	H3N2	NP	A_NP	1496	7	0.47	Buena	Correcto
+IonXpress_076_232600149	IonXpress_076_232600149.consensus.fasta	H3N2	NS	A_NS	863	255	29.55	Mala	Muchos N
+IonXpress_076_232600149	IonXpress_076_232600149.consensus.fasta	H3N2	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_076_232605391	IonXpress_076_232605391.consensus.fasta	H3N2	HA	A_HA_H3	1718	162	9.43	Dudosa	Revisar por N
+IonXpress_076_232605391	IonXpress_076_232605391.consensus.fasta	H3N2	NA	A_NA_N2	1440	116	8.06	Dudosa	Revisar por N
+IonXpress_076_232605391	IonXpress_076_232605391.consensus.fasta	H3N2	PB1	A_PB1	2274	41	1.8	Aceptable	Correcto
+IonXpress_076_232605391	IonXpress_076_232605391.consensus.fasta	H3N2	PB2	A_PB2	2280	515	22.59	Mala	Muchos N
+IonXpress_076_232605391	IonXpress_076_232605391.consensus.fasta	H3N2	PA	A_PA	2151	58	2.7	Aceptable	Correcto
+IonXpress_076_232605391	IonXpress_076_232605391.consensus.fasta	H3N2	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_076_232605391	IonXpress_076_232605391.consensus.fasta	H3N2	NS	A_NS	863	314	36.38	Mala	Muchos N
+IonXpress_076_232605391	IonXpress_076_232605391.consensus.fasta	H3N2	M	A_MP	982	23	2.34	Aceptable	Correcto
+IonXpress_077_232568618	IonXpress_077_232568618.consensus.fasta	H1N1	HA	A_HA_H1	1752	82	4.68	Aceptable	Correcto
+IonXpress_077_232568618	IonXpress_077_232568618.consensus.fasta	H1N1	NA	A_NA_N1	1433	57	3.98	Aceptable	Correcto
+IonXpress_077_232568618	IonXpress_077_232568618.consensus.fasta	H1N1	PB1	A_PB1	2275	25	1.1	Aceptable	Correcto
+IonXpress_077_232568618	IonXpress_077_232568618.consensus.fasta	H1N1	PB2	A_PB2	2280	67	2.94	Aceptable	Correcto
+IonXpress_077_232568618	IonXpress_077_232568618.consensus.fasta	H1N1	PA	A_PA	2151	38	1.77	Aceptable	Correcto
+IonXpress_077_232568618	IonXpress_077_232568618.consensus.fasta	H1N1	NP	A_NP	1497	18	1.2	Aceptable	Correcto
+IonXpress_077_232568618	IonXpress_077_232568618.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_077_232568618	IonXpress_077_232568618.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_077_232575083	IonXpress_077_232575083.consensus.fasta	H1N1	HA	A_HA_H1	1752	112	6.39	Dudosa	Revisar por N
+IonXpress_077_232575083	IonXpress_077_232575083.consensus.fasta	H1N1	NA	A_NA_N1	1433	69	4.82	Aceptable	Correcto
+IonXpress_077_232575083	IonXpress_077_232575083.consensus.fasta	H1N1	PB1	A_PB1	2273	48	2.11	Aceptable	Correcto
+IonXpress_077_232575083	IonXpress_077_232575083.consensus.fasta	H1N1	PB2	A_PB2	2280	108	4.74	Aceptable	Correcto
+IonXpress_077_232575083	IonXpress_077_232575083.consensus.fasta	H1N1	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_077_232575083	IonXpress_077_232575083.consensus.fasta	H1N1	NP	A_NP	1497	73	4.88	Aceptable	Correcto
+IonXpress_077_232575083	IonXpress_077_232575083.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_077_232575083	IonXpress_077_232575083.consensus.fasta	H1N1	M	A_MP	982	26	2.65	Aceptable	Correcto
+IonXpress_077_232581382	IonXpress_077_232581382.consensus.fasta	H1N1	HA	A_HA_H1	1752	1210	69.06	Mala	Muchos N
+IonXpress_077_232581382	IonXpress_077_232581382.consensus.fasta	H1N1	NA	A_NA_N1	1433	804	56.11	Mala	Muchos N
+IonXpress_077_232581382	IonXpress_077_232581382.consensus.fasta	H1N1	PB1	A_PB1	2274	1325	58.27	Mala	Muchos N
+IonXpress_077_232581382	IonXpress_077_232581382.consensus.fasta	H1N1	PB2	A_PB2	2280	1397	61.27	Mala	Muchos N
+IonXpress_077_232581382	IonXpress_077_232581382.consensus.fasta	H1N1	PA	A_PA	2156	1110	51.48	Mala	Muchos N
+IonXpress_077_232581382	IonXpress_077_232581382.consensus.fasta	H1N1	NP	A_NP	1505	827	54.95	Mala	Muchos N
+IonXpress_077_232581382	IonXpress_077_232581382.consensus.fasta	H1N1	NS	A_NS	863	453	52.49	Mala	Muchos N
+IonXpress_077_232581382	IonXpress_077_232581382.consensus.fasta	H1N1	M	A_MP	982	546	55.6	Mala	Muchos N
+IonXpress_077_232585462	IonXpress_077_232585462.consensus.fasta	H3N2	HA	A_HA_H3	1718	266	15.48	Mala	Muchos N
+IonXpress_077_232585462	IonXpress_077_232585462.consensus.fasta	H1N1	NA	A_NA_N1	1433	156	10.89	Mala	Muchos N
+IonXpress_077_232585462	IonXpress_077_232585462.consensus.fasta	H1N1	PB1	A_PB1	2275	24	1.05	Aceptable	Correcto
+IonXpress_077_232585462	IonXpress_077_232585462.consensus.fasta	H1N1	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_077_232585462	IonXpress_077_232585462.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_077_232585462	IonXpress_077_232585462.consensus.fasta	H1N1	NP	A_NP	1497	11	0.73	Buena	Correcto
+IonXpress_077_232585462	IonXpress_077_232585462.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_077_232585462	IonXpress_077_232585462.consensus.fasta	H1N1	M	A_MP	982	23	2.34	Aceptable	Correcto
+IonXpress_077_232588702	IonXpress_077_232588702.consensus.fasta	H1N1	HA	A_HA_H1	1752	178	10.16	Mala	Muchos N
+IonXpress_077_232588702	IonXpress_077_232588702.consensus.fasta	H1N1	NA	A_NA_N1	1433	153	10.68	Mala	Muchos N
+IonXpress_077_232588702	IonXpress_077_232588702.consensus.fasta	H1N1	PB1	A_PB1	2274	122	5.36	Dudosa	Revisar por N
+IonXpress_077_232588702	IonXpress_077_232588702.consensus.fasta	H1N1	PB2	A_PB2	2280	125	5.48	Dudosa	Revisar por N
+IonXpress_077_232588702	IonXpress_077_232588702.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_077_232588702	IonXpress_077_232588702.consensus.fasta	H1N1	NP	A_NP	1497	58	3.87	Aceptable	Correcto
+IonXpress_077_232588702	IonXpress_077_232588702.consensus.fasta	H1N1	NS	A_NS	863	177	20.51	Mala	Muchos N
+IonXpress_077_232588702	IonXpress_077_232588702.consensus.fasta	H1N1	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_077_232600174	IonXpress_077_232600174.consensus.fasta	H1N1	HA	A_HA_H1	1752	82	4.68	Aceptable	Correcto
+IonXpress_077_232600174	IonXpress_077_232600174.consensus.fasta	H1N1	NA	A_NA_N1	1433	57	3.98	Aceptable	Correcto
+IonXpress_077_232600174	IonXpress_077_232600174.consensus.fasta	H1N1	PB1	A_PB1	2275	25	1.1	Aceptable	Correcto
+IonXpress_077_232600174	IonXpress_077_232600174.consensus.fasta	H1N1	PB2	A_PB2	2280	67	2.94	Aceptable	Correcto
+IonXpress_077_232600174	IonXpress_077_232600174.consensus.fasta	H1N1	PA	A_PA	2151	38	1.77	Aceptable	Correcto
+IonXpress_077_232600174	IonXpress_077_232600174.consensus.fasta	H1N1	NP	A_NP	1497	18	1.2	Aceptable	Correcto
+IonXpress_077_232600174	IonXpress_077_232600174.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_077_232600174	IonXpress_077_232600174.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_077_232605418	IonXpress_077_232605418.consensus.fasta	H3N2	HA	A_HA_H3	1718	28	1.63	Aceptable	Correcto
+IonXpress_077_232605418	IonXpress_077_232605418.consensus.fasta	H3N2	NA	A_NA_N2	1439	79	5.49	Dudosa	Revisar por N
+IonXpress_077_232605418	IonXpress_077_232605418.consensus.fasta	H3N2	PB1	A_PB1	2274	14	0.62	Buena	Correcto
+IonXpress_077_232605418	IonXpress_077_232605418.consensus.fasta	H3N2	PB2	A_PB2	2280	107	4.69	Aceptable	Correcto
+IonXpress_077_232605418	IonXpress_077_232605418.consensus.fasta	H3N2	PA	A_PA	2151	47	2.19	Aceptable	Correcto
+IonXpress_077_232605418	IonXpress_077_232605418.consensus.fasta	H3N2	NP	A_NP	1497	5	0.33	Buena	Correcto
+IonXpress_077_232605418	IonXpress_077_232605418.consensus.fasta	H3N2	NS	A_NS	863	254	29.43	Mala	Muchos N
+IonXpress_077_232605418	IonXpress_077_232605418.consensus.fasta	H3N2	M	A_MP	982	20	2.04	Aceptable	Correcto
+IonXpress_078_232568804	IonXpress_078_232568804.consensus.fasta	H1N1	HA	A_HA_H1	1752	127	7.25	Dudosa	Revisar por N
+IonXpress_078_232568804	IonXpress_078_232568804.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_078_232568804	IonXpress_078_232568804.consensus.fasta	H1N1	PB1	A_PB1	2273	25	1.1	Aceptable	Correcto
+IonXpress_078_232568804	IonXpress_078_232568804.consensus.fasta	H1N1	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_078_232568804	IonXpress_078_232568804.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_078_232568804	IonXpress_078_232568804.consensus.fasta	H1N1	NP	A_NP	1497	16	1.07	Aceptable	Correcto
+IonXpress_078_232568804	IonXpress_078_232568804.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_078_232568804	IonXpress_078_232568804.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_078_232575158	IonXpress_078_232575158.consensus.fasta	H1N1	HA	A_HA_H1	1752	114	6.51	Dudosa	Revisar por N
+IonXpress_078_232575158	IonXpress_078_232575158.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_078_232575158	IonXpress_078_232575158.consensus.fasta	H1N1	PB1	A_PB1	2274	24	1.06	Aceptable	Correcto
+IonXpress_078_232575158	IonXpress_078_232575158.consensus.fasta	H1N1	PB2	A_PB2	2280	108	4.74	Aceptable	Correcto
+IonXpress_078_232575158	IonXpress_078_232575158.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_078_232575158	IonXpress_078_232575158.consensus.fasta	H1N1	NP	A_NP	1497	249	16.63	Mala	Muchos N
+IonXpress_078_232575158	IonXpress_078_232575158.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_078_232575158	IonXpress_078_232575158.consensus.fasta	H1N1	M	A_MP	982	26	2.65	Aceptable	Correcto
+IonXpress_078_232581500	IonXpress_078_232581500.consensus.fasta	H1N1	HA	A_HA_H1	1752	1725	98.46	Mala	Muchos N
+IonXpress_078_232581500	IonXpress_078_232581500.consensus.fasta	H1N1	NA	A_NA_N1	1433	1433	100.0	Mala	Muchos N
+IonXpress_078_232581500	IonXpress_078_232581500.consensus.fasta	H1N1	PB1	A_PB1	2274	2041	89.75	Mala	Muchos N
+IonXpress_078_232581500	IonXpress_078_232581500.consensus.fasta	H1N1	PB2	A_PB2	2280	2213	97.06	Mala	Muchos N
+IonXpress_078_232581500	IonXpress_078_232581500.consensus.fasta	H1N1	PA	A_PA	2151	2011	93.49	Mala	Muchos N
+IonXpress_078_232581500	IonXpress_078_232581500.consensus.fasta	H1N1	NP	A_NP	1497	1304	87.11	Mala	Muchos N
+IonXpress_078_232581500	IonXpress_078_232581500.consensus.fasta	H1N1	NS	A_NS	863	837	96.99	Mala	Muchos N
+IonXpress_078_232581500	IonXpress_078_232581500.consensus.fasta	H1N1	M	A_MP	982	971	98.88	Mala	Muchos N
+IonXpress_078_232585903	IonXpress_078_232585903.consensus.fasta	H3N2	HA	A_HA_H3	1718	135	7.86	Dudosa	Revisar por N
+IonXpress_078_232585903	IonXpress_078_232585903.consensus.fasta	H3N2	NA	A_NA_N2	1440	109	7.57	Dudosa	Revisar por N
+IonXpress_078_232585903	IonXpress_078_232585903.consensus.fasta	H3N2	PB1	A_PB1	2274	28	1.23	Aceptable	Correcto
+IonXpress_078_232585903	IonXpress_078_232585903.consensus.fasta	H3N2	PB2	A_PB2	2280	447	19.61	Mala	Muchos N
+IonXpress_078_232585903	IonXpress_078_232585903.consensus.fasta	H3N2	PA	A_PA	2151	53	2.46	Aceptable	Correcto
+IonXpress_078_232585903	IonXpress_078_232585903.consensus.fasta	H3N2	NP	A_NP	1497	20	1.34	Aceptable	Correcto
+IonXpress_078_232585903	IonXpress_078_232585903.consensus.fasta	H3N2	NS	A_NS	863	292	33.84	Mala	Muchos N
+IonXpress_078_232585903	IonXpress_078_232585903.consensus.fasta	H3N2	M	A_MP	982	13	1.32	Aceptable	Correcto
+IonXpress_078_232587302	IonXpress_078_232587302.consensus.fasta	H3N2	HA	A_HA_H3	1718	1355	78.87	Mala	Muchos N
+IonXpress_078_232587302	IonXpress_078_232587302.consensus.fasta	H3N2	NA	A_NA_N2	1439	584	40.58	Mala	Muchos N
+IonXpress_078_232587302	IonXpress_078_232587302.consensus.fasta	H3N2	PB1	A_PB1	2274	773	33.99	Mala	Muchos N
+IonXpress_078_232587302	IonXpress_078_232587302.consensus.fasta	H3N2	PB2	A_PB2	2280	1458	63.95	Mala	Muchos N
+IonXpress_078_232587302	IonXpress_078_232587302.consensus.fasta	H3N2	PA	A_PA	2153	832	38.64	Mala	Muchos N
+IonXpress_078_232587302	IonXpress_078_232587302.consensus.fasta	H3N2	NP	A_NP	1497	783	52.3	Mala	Muchos N
+IonXpress_078_232587302	IonXpress_078_232587302.consensus.fasta	H3N2	NS	A_NS	863	560	64.89	Mala	Muchos N
+IonXpress_078_232587302	IonXpress_078_232587302.consensus.fasta	H3N2	M	A_MP	982	236	24.03	Mala	Muchos N
+IonXpress_078_232600200	IonXpress_078_232600200.consensus.fasta	H1N1	HA	A_HA_H1	1752	127	7.25	Dudosa	Revisar por N
+IonXpress_078_232600200	IonXpress_078_232600200.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_078_232600200	IonXpress_078_232600200.consensus.fasta	H1N1	PB1	A_PB1	2273	25	1.1	Aceptable	Correcto
+IonXpress_078_232600200	IonXpress_078_232600200.consensus.fasta	H1N1	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_078_232600200	IonXpress_078_232600200.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_078_232600200	IonXpress_078_232600200.consensus.fasta	H1N1	NP	A_NP	1497	16	1.07	Aceptable	Correcto
+IonXpress_078_232600200	IonXpress_078_232600200.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_078_232600200	IonXpress_078_232600200.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_078_232606150	IonXpress_078_232606150.consensus.fasta	H1N1	HA	A_HA_H1	1752	95	5.42	Dudosa	Revisar por N
+IonXpress_078_232606150	IonXpress_078_232606150.consensus.fasta	H1N1	NA	A_NA_N1	1433	151	10.54	Mala	Muchos N
+IonXpress_078_232606150	IonXpress_078_232606150.consensus.fasta	H1N1	PB1	A_PB1	2274	76	3.34	Aceptable	Correcto
+IonXpress_078_232606150	IonXpress_078_232606150.consensus.fasta	H1N1	PB2	A_PB2	2251	178	7.91	Dudosa	Revisar por N
+IonXpress_078_232606150	IonXpress_078_232606150.consensus.fasta	H1N1	PA	A_PA	2151	36	1.67	Aceptable	Correcto
+IonXpress_078_232606150	IonXpress_078_232606150.consensus.fasta	H1N1	NP	A_NP	1497	16	1.07	Aceptable	Correcto
+IonXpress_078_232606150	IonXpress_078_232606150.consensus.fasta	H1N1	NS	A_NS	863	173	20.05	Mala	Muchos N
+IonXpress_078_232606150	IonXpress_078_232606150.consensus.fasta	H1N1	M	A_MP	982	20	2.04	Aceptable	Correcto
+IonXpress_079_232568932	IonXpress_079_232568932.consensus.fasta	H1N1	HA	A_HA_H1	1752	112	6.39	Dudosa	Revisar por N
+IonXpress_079_232568932	IonXpress_079_232568932.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_079_232568932	IonXpress_079_232568932.consensus.fasta	H1N1	PB1	A_PB1	2274	22	0.97	Buena	Correcto
+IonXpress_079_232568932	IonXpress_079_232568932.consensus.fasta	H1N1	PB2	A_PB2	2280	66	2.89	Aceptable	Correcto
+IonXpress_079_232568932	IonXpress_079_232568932.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_079_232568932	IonXpress_079_232568932.consensus.fasta	H1N1	NP	A_NP	1497	8	0.53	Buena	Correcto
+IonXpress_079_232568932	IonXpress_079_232568932.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_079_232568932	IonXpress_079_232568932.consensus.fasta	H1N1	M	A_MP	982	31	3.16	Aceptable	Correcto
+IonXpress_079_232575178	IonXpress_079_232575178.consensus.fasta	H1N1	HA	A_HA_H1	1752	102	5.82	Dudosa	Revisar por N
+IonXpress_079_232575178	IonXpress_079_232575178.consensus.fasta	H1N1	NA	A_NA_N1	1433	62	4.33	Aceptable	Correcto
+IonXpress_079_232575178	IonXpress_079_232575178.consensus.fasta	H1N1	PB1	A_PB1	2274	162	7.12	Dudosa	Revisar por N
+IonXpress_079_232575178	IonXpress_079_232575178.consensus.fasta	H1N1	PB2	A_PB2	2280	113	4.96	Aceptable	Correcto
+IonXpress_079_232575178	IonXpress_079_232575178.consensus.fasta	H1N1	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_079_232575178	IonXpress_079_232575178.consensus.fasta	H1N1	NP	A_NP	1497	237	15.83	Mala	Muchos N
+IonXpress_079_232575178	IonXpress_079_232575178.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_079_232575178	IonXpress_079_232575178.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_079_232581637	IonXpress_079_232581637.consensus.fasta	H3N2	HA	A_HA_H3	1718	1351	78.64	Mala	Muchos N
+IonXpress_079_232581637	IonXpress_079_232581637.consensus.fasta	H3N2	NA	A_NA_N2	1439	1213	84.29	Mala	Muchos N
+IonXpress_079_232581637	IonXpress_079_232581637.consensus.fasta	H3N2	PB1	A_PB1	2274	1437	63.19	Mala	Muchos N
+IonXpress_079_232581637	IonXpress_079_232581637.consensus.fasta	H3N2	PB2	A_PB2	2280	2060	90.35	Mala	Muchos N
+IonXpress_079_232581637	IonXpress_079_232581637.consensus.fasta	H3N2	PA	A_PA	2151	1554	72.25	Mala	Muchos N
+IonXpress_079_232581637	IonXpress_079_232581637.consensus.fasta	H3N2	NP	A_NP	1497	1056	70.54	Mala	Muchos N
+IonXpress_079_232581637	IonXpress_079_232581637.consensus.fasta	H3N2	NS	A_NS	863	619	71.73	Mala	Muchos N
+IonXpress_079_232581637	IonXpress_079_232581637.consensus.fasta	H3N2	M	A_MP	982	552	56.21	Mala	Muchos N
+IonXpress_079_232585968	IonXpress_079_232585968.consensus.fasta	H1N1	HA	A_HA_H1	1752	67	3.82	Aceptable	Correcto
+IonXpress_079_232585968	IonXpress_079_232585968.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_079_232585968	IonXpress_079_232585968.consensus.fasta	H1N1	PB1	A_PB1	2274	22	0.97	Buena	Correcto
+IonXpress_079_232585968	IonXpress_079_232585968.consensus.fasta	H1N1	PB2	A_PB2	2280	63	2.76	Aceptable	Correcto
+IonXpress_079_232585968	IonXpress_079_232585968.consensus.fasta	H1N1	PA	A_PA	2151	40	1.86	Aceptable	Correcto
+IonXpress_079_232585968	IonXpress_079_232585968.consensus.fasta	H1N1	NP	A_NP	1497	10	0.67	Buena	Correcto
+IonXpress_079_232585968	IonXpress_079_232585968.consensus.fasta	H1N1	NS	A_NS	863	44	5.1	Dudosa	Revisar por N
+IonXpress_079_232585968	IonXpress_079_232585968.consensus.fasta	H1N1	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_079_232589581	IonXpress_079_232589581.consensus.fasta	H3N2	HA	A_HA_H3	1718	105	6.11	Dudosa	Revisar por N
+IonXpress_079_232589581	IonXpress_079_232589581.consensus.fasta	H3N2	NA	A_NA_N2	1439	115	7.99	Dudosa	Revisar por N
+IonXpress_079_232589581	IonXpress_079_232589581.consensus.fasta	H3N2	PB1	A_PB1	2274	16	0.7	Buena	Correcto
+IonXpress_079_232589581	IonXpress_079_232589581.consensus.fasta	H3N2	PB2	A_PB2	2280	433	18.99	Mala	Muchos N
+IonXpress_079_232589581	IonXpress_079_232589581.consensus.fasta	H3N2	PA	A_PA	2151	56	2.6	Aceptable	Correcto
+IonXpress_079_232589581	IonXpress_079_232589581.consensus.fasta	H3N2	NP	A_NP	1496	8	0.53	Buena	Correcto
+IonXpress_079_232589581	IonXpress_079_232589581.consensus.fasta	H3N2	NS	A_NS	863	224	25.96	Mala	Muchos N
+IonXpress_079_232589581	IonXpress_079_232589581.consensus.fasta	H3N2	M	A_MP	982	13	1.32	Aceptable	Correcto
+IonXpress_079_232600202	IonXpress_079_232600202.consensus.fasta	H1N1	HA	A_HA_H1	1752	112	6.39	Dudosa	Revisar por N
+IonXpress_079_232600202	IonXpress_079_232600202.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_079_232600202	IonXpress_079_232600202.consensus.fasta	H1N1	PB1	A_PB1	2274	22	0.97	Buena	Correcto
+IonXpress_079_232600202	IonXpress_079_232600202.consensus.fasta	H1N1	PB2	A_PB2	2280	66	2.89	Aceptable	Correcto
+IonXpress_079_232600202	IonXpress_079_232600202.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_079_232600202	IonXpress_079_232600202.consensus.fasta	H1N1	NP	A_NP	1497	8	0.53	Buena	Correcto
+IonXpress_079_232600202	IonXpress_079_232600202.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_079_232600202	IonXpress_079_232600202.consensus.fasta	H1N1	M	A_MP	982	31	3.16	Aceptable	Correcto
+IonXpress_079_232606453	IonXpress_079_232606453.consensus.fasta	H1N1	HA	A_HA_H1	1752	74	4.22	Aceptable	Correcto
+IonXpress_079_232606453	IonXpress_079_232606453.consensus.fasta	H1N1	NA	A_NA_N1	1433	147	10.26	Mala	Muchos N
+IonXpress_079_232606453	IonXpress_079_232606453.consensus.fasta	H1N1	PB1	A_PB1	2274	9	0.4	Buena	Correcto
+IonXpress_079_232606453	IonXpress_079_232606453.consensus.fasta	H1N1	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_079_232606453	IonXpress_079_232606453.consensus.fasta	H1N1	PA	A_PA	2151	36	1.67	Aceptable	Correcto
+IonXpress_079_232606453	IonXpress_079_232606453.consensus.fasta	H1N1	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_079_232606453	IonXpress_079_232606453.consensus.fasta	H1N1	NS	A_NS	863	100	11.59	Mala	Muchos N
+IonXpress_079_232606453	IonXpress_079_232606453.consensus.fasta	H1N1	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_080_232569629	IonXpress_080_232569629.consensus.fasta	H1N1	HA	A_HA_H1	1752	112	6.39	Dudosa	Revisar por N
+IonXpress_080_232569629	IonXpress_080_232569629.consensus.fasta	H1N1	NA	A_NA_N1	1433	57	3.98	Aceptable	Correcto
+IonXpress_080_232569629	IonXpress_080_232569629.consensus.fasta	H1N1	PB1	A_PB1	2273	22	0.97	Buena	Correcto
+IonXpress_080_232569629	IonXpress_080_232569629.consensus.fasta	H1N1	PB2	A_PB2	2280	63	2.76	Aceptable	Correcto
+IonXpress_080_232569629	IonXpress_080_232569629.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_080_232569629	IonXpress_080_232569629.consensus.fasta	H1N1	NP	A_NP	1497	18	1.2	Aceptable	Correcto
+IonXpress_080_232569629	IonXpress_080_232569629.consensus.fasta	H1N1	NS	A_NS	863	47	5.45	Dudosa	Revisar por N
+IonXpress_080_232569629	IonXpress_080_232569629.consensus.fasta	H1N1	M	A_MP	982	28	2.85	Aceptable	Correcto
+IonXpress_080_232575181	IonXpress_080_232575181.consensus.fasta	H1N1	HA	A_HA_H1	1752	352	20.09	Mala	Muchos N
+IonXpress_080_232575181	IonXpress_080_232575181.consensus.fasta	H1N1	NA	A_NA_N1	1433	85	5.93	Dudosa	Revisar por N
+IonXpress_080_232575181	IonXpress_080_232575181.consensus.fasta	H1N1	PB1	A_PB1	2273	142	6.25	Dudosa	Revisar por N
+IonXpress_080_232575181	IonXpress_080_232575181.consensus.fasta	H1N1	PB2	A_PB2	2280	70	3.07	Aceptable	Correcto
+IonXpress_080_232575181	IonXpress_080_232575181.consensus.fasta	H1N1	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_080_232575181	IonXpress_080_232575181.consensus.fasta	H1N1	NP	A_NP	1497	20	1.34	Aceptable	Correcto
+IonXpress_080_232575181	IonXpress_080_232575181.consensus.fasta	H1N1	NS	A_NS	863	49	5.68	Dudosa	Revisar por N
+IonXpress_080_232575181	IonXpress_080_232575181.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_080_232581656	IonXpress_080_232581656.consensus.fasta	H1N1	HA	A_HA_H1	1752	1330	75.91	Mala	Muchos N
+IonXpress_080_232581656	IonXpress_080_232581656.consensus.fasta	H1N1	NA	A_NA_N1	1433	1001	69.85	Mala	Muchos N
+IonXpress_080_232581656	IonXpress_080_232581656.consensus.fasta	H1N1	PB1	A_PB1	2274	1382	60.77	Mala	Muchos N
+IonXpress_080_232581656	IonXpress_080_232581656.consensus.fasta	H1N1	PB2	A_PB2	2280	1778	77.98	Mala	Muchos N
+IonXpress_080_232581656	IonXpress_080_232581656.consensus.fasta	H1N1	PA	A_PA	2157	1281	59.39	Mala	Muchos N
+IonXpress_080_232581656	IonXpress_080_232581656.consensus.fasta	H1N1	NP	A_NP	1497	1227	81.96	Mala	Muchos N
+IonXpress_080_232581656	IonXpress_080_232581656.consensus.fasta	H1N1	NS	A_NS	863	796	92.24	Mala	Muchos N
+IonXpress_080_232581656	IonXpress_080_232581656.consensus.fasta	H1N1	M	A_MP	982	562	57.23	Mala	Muchos N
+IonXpress_080_232584576	IonXpress_080_232584576.consensus.fasta	H1N1	HA	A_HA_H1	1752	148	8.45	Dudosa	Revisar por N
+IonXpress_080_232584576	IonXpress_080_232584576.consensus.fasta	H1N1	NA	A_NA_N1	1433	129	9.0	Dudosa	Revisar por N
+IonXpress_080_232584576	IonXpress_080_232584576.consensus.fasta	H1N1	PB1	A_PB1	2275	159	6.99	Dudosa	Revisar por N
+IonXpress_080_232584576	IonXpress_080_232584576.consensus.fasta	H1N1	PB2	A_PB2	2273	183	8.05	Dudosa	Revisar por N
+IonXpress_080_232584576	IonXpress_080_232584576.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_080_232584576	IonXpress_080_232584576.consensus.fasta	H1N1	NP	A_NP	1497	9	0.6	Buena	Correcto
+IonXpress_080_232584576	IonXpress_080_232584576.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_080_232584576	IonXpress_080_232584576.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_080_232586037	IonXpress_080_232586037.consensus.fasta	H3N2	HA	A_HA_H3	1718	30	1.75	Aceptable	Correcto
+IonXpress_080_232586037	IonXpress_080_232586037.consensus.fasta	H3N2	NA	A_NA_N2	1440	81	5.62	Dudosa	Revisar por N
+IonXpress_080_232586037	IonXpress_080_232586037.consensus.fasta	H3N2	PB1	A_PB1	2274	16	0.7	Buena	Correcto
+IonXpress_080_232586037	IonXpress_080_232586037.consensus.fasta	H3N2	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_080_232586037	IonXpress_080_232586037.consensus.fasta	H3N2	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_080_232586037	IonXpress_080_232586037.consensus.fasta	H3N2	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_080_232586037	IonXpress_080_232586037.consensus.fasta	H3N2	NS	A_NS	863	163	18.89	Mala	Muchos N
+IonXpress_080_232586037	IonXpress_080_232586037.consensus.fasta	H3N2	M	A_MP	982	23	2.34	Aceptable	Correcto
+IonXpress_080_232590051	IonXpress_080_232590051.consensus.fasta	H3N2	HA	A_HA_H3	1718	31	1.8	Aceptable	Correcto
+IonXpress_080_232590051	IonXpress_080_232590051.consensus.fasta	H3N2	NA	A_NA_N2	1440	71	4.93	Aceptable	Correcto
+IonXpress_080_232590051	IonXpress_080_232590051.consensus.fasta	H3N2	PB1	A_PB1	2274	24	1.06	Aceptable	Correcto
+IonXpress_080_232590051	IonXpress_080_232590051.consensus.fasta	H3N2	PB2	A_PB2	2280	65	2.85	Aceptable	Correcto
+IonXpress_080_232590051	IonXpress_080_232590051.consensus.fasta	H3N2	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_080_232590051	IonXpress_080_232590051.consensus.fasta	H3N2	NP	A_NP	1497	9	0.6	Buena	Correcto
+IonXpress_080_232590051	IonXpress_080_232590051.consensus.fasta	H3N2	NS	A_NS	863	164	19.0	Mala	Muchos N
+IonXpress_080_232590051	IonXpress_080_232590051.consensus.fasta	H3N2	M	A_MP	982	13	1.32	Aceptable	Correcto
+IonXpress_080_232600309	IonXpress_080_232600309.consensus.fasta	H1N1	HA	A_HA_H1	1752	112	6.39	Dudosa	Revisar por N
+IonXpress_080_232600309	IonXpress_080_232600309.consensus.fasta	H1N1	NA	A_NA_N1	1433	57	3.98	Aceptable	Correcto
+IonXpress_080_232600309	IonXpress_080_232600309.consensus.fasta	H1N1	PB1	A_PB1	2273	22	0.97	Buena	Correcto
+IonXpress_080_232600309	IonXpress_080_232600309.consensus.fasta	H1N1	PB2	A_PB2	2280	63	2.76	Aceptable	Correcto
+IonXpress_080_232600309	IonXpress_080_232600309.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_080_232600309	IonXpress_080_232600309.consensus.fasta	H1N1	NP	A_NP	1497	18	1.2	Aceptable	Correcto
+IonXpress_080_232600309	IonXpress_080_232600309.consensus.fasta	H1N1	NS	A_NS	863	47	5.45	Dudosa	Revisar por N
+IonXpress_080_232600309	IonXpress_080_232600309.consensus.fasta	H1N1	M	A_MP	982	28	2.85	Aceptable	Correcto
+IonXpress_080_232606701	IonXpress_080_232606701.consensus.fasta	H3N2	HA	A_HA_H3	1718	1343	78.17	Mala	Muchos N
+IonXpress_080_232606701	IonXpress_080_232606701.consensus.fasta	H1N1	NA	A_NA_N1	1433	429	29.94	Mala	Muchos N
+IonXpress_080_232606701	IonXpress_080_232606701.consensus.fasta	H1N1	PB1	A_PB1	2274	178	7.83	Dudosa	Revisar por N
+IonXpress_080_232606701	IonXpress_080_232606701.consensus.fasta	H1N1	PB2	A_PB2	2280	905	39.69	Mala	Muchos N
+IonXpress_080_232606701	IonXpress_080_232606701.consensus.fasta	H1N1	PA	A_PA	2149	123	5.72	Dudosa	Revisar por N
+IonXpress_080_232606701	IonXpress_080_232606701.consensus.fasta	H1N1	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_080_232606701	IonXpress_080_232606701.consensus.fasta	H1N1	NS	A_NS	863	318	36.85	Mala	Muchos N
+IonXpress_080_232606701	IonXpress_080_232606701.consensus.fasta	H1N1	M	A_MP	982	218	22.2	Mala	Muchos N
+IonXpress_081_025720637	IonXpress_081_025720637.consensus.fasta	H1N1	HA	A_HA_H1	1752	223	12.73	Mala	Muchos N
+IonXpress_081_025720637	IonXpress_081_025720637.consensus.fasta	H1N1	NA	A_NA_N1	1433	71	4.95	Aceptable	Correcto
+IonXpress_081_025720637	IonXpress_081_025720637.consensus.fasta	H1N1	PB1	A_PB1	2273	235	10.34	Mala	Muchos N
+IonXpress_081_025720637	IonXpress_081_025720637.consensus.fasta	H1N1	PB2	A_PB2	2280	59	2.59	Aceptable	Correcto
+IonXpress_081_025720637	IonXpress_081_025720637.consensus.fasta	H1N1	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_081_025720637	IonXpress_081_025720637.consensus.fasta	H1N1	NP	A_NP	1497	12	0.8	Buena	Correcto
+IonXpress_081_025720637	IonXpress_081_025720637.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_081_025720637	IonXpress_081_025720637.consensus.fasta	H1N1	M	A_MP	982	46	4.68	Aceptable	Correcto
+IonXpress_081_232569671	IonXpress_081_232569671.consensus.fasta	H3N2	HA	A_HA_H3	1718	298	17.35	Mala	Muchos N
+IonXpress_081_232569671	IonXpress_081_232569671.consensus.fasta	H3N2	NA	A_NA_N2	1439	125	8.69	Dudosa	Revisar por N
+IonXpress_081_232569671	IonXpress_081_232569671.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_081_232569671	IonXpress_081_232569671.consensus.fasta	H3N2	PB2	A_PB2	2280	462	20.26	Mala	Muchos N
+IonXpress_081_232569671	IonXpress_081_232569671.consensus.fasta	H3N2	PA	A_PA	2151	57	2.65	Aceptable	Correcto
+IonXpress_081_232569671	IonXpress_081_232569671.consensus.fasta	H3N2	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_081_232569671	IonXpress_081_232569671.consensus.fasta	H3N2	NS	A_NS	863	297	34.41	Mala	Muchos N
+IonXpress_081_232569671	IonXpress_081_232569671.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_081_232575190	IonXpress_081_232575190.consensus.fasta	H1N1	HA	A_HA_H1	1752	352	20.09	Mala	Muchos N
+IonXpress_081_232575190	IonXpress_081_232575190.consensus.fasta	H1N1	NA	A_NA_N1	1433	86	6.0	Dudosa	Revisar por N
+IonXpress_081_232575190	IonXpress_081_232575190.consensus.fasta	H1N1	PB1	A_PB1	2274	130	5.72	Dudosa	Revisar por N
+IonXpress_081_232575190	IonXpress_081_232575190.consensus.fasta	H1N1	PB2	A_PB2	2280	396	17.37	Mala	Muchos N
+IonXpress_081_232575190	IonXpress_081_232575190.consensus.fasta	H1N1	PA	A_PA	2151	52	2.42	Aceptable	Correcto
+IonXpress_081_232575190	IonXpress_081_232575190.consensus.fasta	H1N1	NP	A_NP	1497	242	16.17	Mala	Muchos N
+IonXpress_081_232575190	IonXpress_081_232575190.consensus.fasta	H1N1	NS	A_NS	863	292	33.84	Mala	Muchos N
+IonXpress_081_232575190	IonXpress_081_232575190.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_081_232581665	IonXpress_081_232581665.consensus.fasta	H1N1	HA	A_HA_H1	1752	1239	70.72	Mala	Muchos N
+IonXpress_081_232581665	IonXpress_081_232581665.consensus.fasta	H1N1	NA	A_NA_N1	1433	863	60.22	Mala	Muchos N
+IonXpress_081_232581665	IonXpress_081_232581665.consensus.fasta	H1N1	PB1	A_PB1	2274	1090	47.93	Mala	Muchos N
+IonXpress_081_232581665	IonXpress_081_232581665.consensus.fasta	H1N1	PB2	A_PB2	2280	1526	66.93	Mala	Muchos N
+IonXpress_081_232581665	IonXpress_081_232581665.consensus.fasta	H1N1	PA	A_PA	2156	1118	51.86	Mala	Muchos N
+IonXpress_081_232581665	IonXpress_081_232581665.consensus.fasta	H1N1	NP	A_NP	1504	798	53.06	Mala	Muchos N
+IonXpress_081_232581665	IonXpress_081_232581665.consensus.fasta	H1N1	NS	A_NS	863	776	89.92	Mala	Muchos N
+IonXpress_081_232581665	IonXpress_081_232581665.consensus.fasta	H1N1	M	A_MP	982	546	55.6	Mala	Muchos N
+IonXpress_081_232584596	IonXpress_081_232584596.consensus.fasta	H1N1	HA	A_HA_H1	1752	161	9.19	Dudosa	Revisar por N
+IonXpress_081_232584596	IonXpress_081_232584596.consensus.fasta	H1N1	NA	A_NA_N1	1433	133	9.28	Dudosa	Revisar por N
+IonXpress_081_232584596	IonXpress_081_232584596.consensus.fasta	H1N1	PB1	A_PB1	2274	162	7.12	Dudosa	Revisar por N
+IonXpress_081_232584596	IonXpress_081_232584596.consensus.fasta	H1N1	PB2	A_PB2	2280	203	8.9	Dudosa	Revisar por N
+IonXpress_081_232584596	IonXpress_081_232584596.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_081_232584596	IonXpress_081_232584596.consensus.fasta	H1N1	NP	A_NP	1497	96	6.41	Dudosa	Revisar por N
+IonXpress_081_232584596	IonXpress_081_232584596.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_081_232584596	IonXpress_081_232584596.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_081_232586184	IonXpress_081_232586184.consensus.fasta	H3N2	HA	A_HA_H3	1718	328	19.09	Mala	Muchos N
+IonXpress_081_232586184	IonXpress_081_232586184.consensus.fasta	H3N2	NA	A_NA_N2	1439	228	15.84	Mala	Muchos N
+IonXpress_081_232586184	IonXpress_081_232586184.consensus.fasta	H3N2	PB1	A_PB1	2274	225	9.89	Dudosa	Revisar por N
+IonXpress_081_232586184	IonXpress_081_232586184.consensus.fasta	H3N2	PB2	A_PB2	2280	625	27.41	Mala	Muchos N
+IonXpress_081_232586184	IonXpress_081_232586184.consensus.fasta	H3N2	PA	A_PA	2151	73	3.39	Aceptable	Correcto
+IonXpress_081_232586184	IonXpress_081_232586184.consensus.fasta	H3N2	NP	A_NP	1496	21	1.4	Aceptable	Correcto
+IonXpress_081_232586184	IonXpress_081_232586184.consensus.fasta	H3N2	NS	A_NS	863	547	63.38	Mala	Muchos N
+IonXpress_081_232586184	IonXpress_081_232586184.consensus.fasta	H3N2	M	A_MP	982	46	4.68	Aceptable	Correcto
+IonXpress_081_232590092	IonXpress_081_232590092.consensus.fasta	H3N2	HA	A_HA_H3	1718	29	1.69	Aceptable	Correcto
+IonXpress_081_232590092	IonXpress_081_232590092.consensus.fasta	H3N2	NA	A_NA_N2	1439	82	5.7	Dudosa	Revisar por N
+IonXpress_081_232590092	IonXpress_081_232590092.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_081_232590092	IonXpress_081_232590092.consensus.fasta	H3N2	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_081_232590092	IonXpress_081_232590092.consensus.fasta	H3N2	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_081_232590092	IonXpress_081_232590092.consensus.fasta	H3N2	NP	A_NP	1497	5	0.33	Buena	Correcto
+IonXpress_081_232590092	IonXpress_081_232590092.consensus.fasta	H3N2	NS	A_NS	863	55	6.37	Dudosa	Revisar por N
+IonXpress_081_232590092	IonXpress_081_232590092.consensus.fasta	H3N2	M	A_MP	982	13	1.32	Aceptable	Correcto
+IonXpress_081_232606997	IonXpress_081_232606997.consensus.fasta	H1N1	HA	A_HA_H1	1752	1172	66.89	Mala	Muchos N
+IonXpress_081_232606997	IonXpress_081_232606997.consensus.fasta	H1N1	NA	A_NA_N1	1433	170	11.86	Mala	Muchos N
+IonXpress_081_232606997	IonXpress_081_232606997.consensus.fasta	H1N1	PB1	A_PB1	2275	455	20.0	Mala	Muchos N
+IonXpress_081_232606997	IonXpress_081_232606997.consensus.fasta	H1N1	PB2	A_PB2	2280	943	41.36	Mala	Muchos N
+IonXpress_081_232606997	IonXpress_081_232606997.consensus.fasta	H1N1	PA	A_PA	2151	124	5.76	Dudosa	Revisar por N
+IonXpress_081_232606997	IonXpress_081_232606997.consensus.fasta	H1N1	NP	A_NP	1501	478	31.85	Mala	Muchos N
+IonXpress_081_232606997	IonXpress_081_232606997.consensus.fasta	H1N1	NS	A_NS	863	428	49.59	Mala	Muchos N
+IonXpress_081_232606997	IonXpress_081_232606997.consensus.fasta	H1N1	M	A_MP	982	82	8.35	Dudosa	Revisar por N
+IonXpress_082_232569760	IonXpress_082_232569760.consensus.fasta	H1N1	HA	A_HA_H1	1752	192	10.96	Mala	Muchos N
+IonXpress_082_232569760	IonXpress_082_232569760.consensus.fasta	H1N1	NA	A_NA_N1	1433	70	4.88	Aceptable	Correcto
+IonXpress_082_232569760	IonXpress_082_232569760.consensus.fasta	H1N1	PB1	A_PB1	2274	230	10.11	Mala	Muchos N
+IonXpress_082_232569760	IonXpress_082_232569760.consensus.fasta	H1N1	PB2	A_PB2	2280	124	5.44	Dudosa	Revisar por N
+IonXpress_082_232569760	IonXpress_082_232569760.consensus.fasta	H1N1	PA	A_PA	2151	40	1.86	Aceptable	Correcto
+IonXpress_082_232569760	IonXpress_082_232569760.consensus.fasta	H1N1	NP	A_NP	1497	218	14.56	Mala	Muchos N
+IonXpress_082_232569760	IonXpress_082_232569760.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_082_232569760	IonXpress_082_232569760.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_082_232575248	IonXpress_082_232575248.consensus.fasta	H1N1	HA	A_HA_H1	1752	167	9.53	Dudosa	Revisar por N
+IonXpress_082_232575248	IonXpress_082_232575248.consensus.fasta	H1N1	NA	A_NA_N1	1433	70	4.88	Aceptable	Correcto
+IonXpress_082_232575248	IonXpress_082_232575248.consensus.fasta	H1N1	PB1	A_PB1	2273	157	6.91	Dudosa	Revisar por N
+IonXpress_082_232575248	IonXpress_082_232575248.consensus.fasta	H1N1	PB2	A_PB2	2280	188	8.25	Dudosa	Revisar por N
+IonXpress_082_232575248	IonXpress_082_232575248.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_082_232575248	IonXpress_082_232575248.consensus.fasta	H1N1	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_082_232575248	IonXpress_082_232575248.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_082_232575248	IonXpress_082_232575248.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_082_232581678	IonXpress_082_232581678.consensus.fasta	H1N1	HA	A_HA_H1	1752	1683	96.06	Mala	Muchos N
+IonXpress_082_232581678	IonXpress_082_232581678.consensus.fasta	H1N1	NA	A_NA_N1	1433	1358	94.77	Mala	Muchos N
+IonXpress_082_232581678	IonXpress_082_232581678.consensus.fasta	H1N1	PB1	A_PB1	2274	2274	100.0	Mala	Muchos N
+IonXpress_082_232581678	IonXpress_082_232581678.consensus.fasta	H1N1	PB2	A_PB2	2280	2280	100.0	Mala	Muchos N
+IonXpress_082_232581678	IonXpress_082_232581678.consensus.fasta	H1N1	PA	A_PA	2151	2016	93.72	Mala	Muchos N
+IonXpress_082_232581678	IonXpress_082_232581678.consensus.fasta	H1N1	NP	A_NP	1497	1390	92.85	Mala	Muchos N
+IonXpress_082_232581678	IonXpress_082_232581678.consensus.fasta	H1N1	NS	A_NS	863	799	92.58	Mala	Muchos N
+IonXpress_082_232581678	IonXpress_082_232581678.consensus.fasta	H1N1	M	A_MP	982	982	100.0	Mala	Muchos N
+IonXpress_082_232584604	IonXpress_082_232584604.consensus.fasta	H1N1	HA	A_HA_H1	1752	153	8.73	Dudosa	Revisar por N
+IonXpress_082_232584604	IonXpress_082_232584604.consensus.fasta	H1N1	NA	A_NA_N1	1433	157	10.96	Mala	Muchos N
+IonXpress_082_232584604	IonXpress_082_232584604.consensus.fasta	H1N1	PB1	A_PB1	2274	192	8.44	Dudosa	Revisar por N
+IonXpress_082_232584604	IonXpress_082_232584604.consensus.fasta	H1N1	PB2	A_PB2	2280	181	7.94	Dudosa	Revisar por N
+IonXpress_082_232584604	IonXpress_082_232584604.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_082_232584604	IonXpress_082_232584604.consensus.fasta	H1N1	NP	A_NP	1497	104	6.95	Dudosa	Revisar por N
+IonXpress_082_232584604	IonXpress_082_232584604.consensus.fasta	H1N1	NS	A_NS	863	231	26.77	Mala	Muchos N
+IonXpress_082_232584604	IonXpress_082_232584604.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_082_232586185	IonXpress_082_232586185.consensus.fasta	H1N1	HA	A_HA_H1	1752	185	10.56	Mala	Muchos N
+IonXpress_082_232586185	IonXpress_082_232586185.consensus.fasta	H1N1	NA	A_NA_N1	1433	72	5.02	Dudosa	Revisar por N
+IonXpress_082_232586185	IonXpress_082_232586185.consensus.fasta	H1N1	PB1	A_PB1	2274	387	17.02	Mala	Muchos N
+IonXpress_082_232586185	IonXpress_082_232586185.consensus.fasta	H1N1	PB2	A_PB2	2280	247	10.83	Mala	Muchos N
+IonXpress_082_232586185	IonXpress_082_232586185.consensus.fasta	H1N1	PA	A_PA	2151	51	2.37	Aceptable	Correcto
+IonXpress_082_232586185	IonXpress_082_232586185.consensus.fasta	H1N1	NP	A_NP	1497	186	12.42	Mala	Muchos N
+IonXpress_082_232586185	IonXpress_082_232586185.consensus.fasta	H1N1	NS	A_NS	863	158	18.31	Mala	Muchos N
+IonXpress_082_232586185	IonXpress_082_232586185.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_082_232590175	IonXpress_082_232590175.consensus.fasta	H1N1	HA	A_HA_H1	1752	116	6.62	Dudosa	Revisar por N
+IonXpress_082_232590175	IonXpress_082_232590175.consensus.fasta	H1N1	NA	A_NA_N1	1433	156	10.89	Mala	Muchos N
+IonXpress_082_232590175	IonXpress_082_232590175.consensus.fasta	H1N1	PB1	A_PB1	2273	226	9.94	Dudosa	Revisar por N
+IonXpress_082_232590175	IonXpress_082_232590175.consensus.fasta	H1N1	PB2	A_PB2	2280	238	10.44	Mala	Muchos N
+IonXpress_082_232590175	IonXpress_082_232590175.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_082_232590175	IonXpress_082_232590175.consensus.fasta	H1N1	NP	A_NP	1497	117	7.82	Dudosa	Revisar por N
+IonXpress_082_232590175	IonXpress_082_232590175.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_082_232590175	IonXpress_082_232590175.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_082_232600391	IonXpress_082_232600391.consensus.fasta	H3N2	HA	A_HA_H3	1718	140	8.15	Dudosa	Revisar por N
+IonXpress_082_232600391	IonXpress_082_232600391.consensus.fasta	H3N2	NA	A_NA_N2	1439	104	7.23	Dudosa	Revisar por N
+IonXpress_082_232600391	IonXpress_082_232600391.consensus.fasta	H3N2	PB1	A_PB1	2274	19	0.84	Buena	Correcto
+IonXpress_082_232600391	IonXpress_082_232600391.consensus.fasta	H3N2	PB2	A_PB2	2280	56	2.46	Aceptable	Correcto
+IonXpress_082_232600391	IonXpress_082_232600391.consensus.fasta	H3N2	PA	A_PA	2151	48	2.23	Aceptable	Correcto
+IonXpress_082_232600391	IonXpress_082_232600391.consensus.fasta	H3N2	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_082_232600391	IonXpress_082_232600391.consensus.fasta	H3N2	NS	A_NS	863	173	20.05	Mala	Muchos N
+IonXpress_082_232600391	IonXpress_082_232600391.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_082_232607264	IonXpress_082_232607264.consensus.fasta	H3N2	HA	A_HA_H3	1718	154	8.96	Dudosa	Revisar por N
+IonXpress_082_232607264	IonXpress_082_232607264.consensus.fasta	H3N2	NA	A_NA_N2	1439	111	7.71	Dudosa	Revisar por N
+IonXpress_082_232607264	IonXpress_082_232607264.consensus.fasta	H3N2	PB1	A_PB1	2274	26	1.14	Aceptable	Correcto
+IonXpress_082_232607264	IonXpress_082_232607264.consensus.fasta	H3N2	PB2	A_PB2	2280	314	13.77	Mala	Muchos N
+IonXpress_082_232607264	IonXpress_082_232607264.consensus.fasta	H3N2	PA	A_PA	2151	56	2.6	Aceptable	Correcto
+IonXpress_082_232607264	IonXpress_082_232607264.consensus.fasta	H3N2	NP	A_NP	1497	18	1.2	Aceptable	Correcto
+IonXpress_082_232607264	IonXpress_082_232607264.consensus.fasta	H3N2	NS	A_NS	863	266	30.82	Mala	Muchos N
+IonXpress_082_232607264	IonXpress_082_232607264.consensus.fasta	H3N2	M	A_MP	982	23	2.34	Aceptable	Correcto
+IonXpress_083_232569809	IonXpress_083_232569809.consensus.fasta	H1N1	HA	A_HA_H1	1752	177	10.1	Mala	Muchos N
+IonXpress_083_232569809	IonXpress_083_232569809.consensus.fasta	H1N1	NA	A_NA_N1	1433	87	6.07	Dudosa	Revisar por N
+IonXpress_083_232569809	IonXpress_083_232569809.consensus.fasta	H1N1	PB1	A_PB1	2274	447	19.66	Mala	Muchos N
+IonXpress_083_232569809	IonXpress_083_232569809.consensus.fasta	H1N1	PB2	A_PB2	2281	401	17.58	Mala	Muchos N
+IonXpress_083_232569809	IonXpress_083_232569809.consensus.fasta	H1N1	PA	A_PA	2151	88	4.09	Aceptable	Correcto
+IonXpress_083_232569809	IonXpress_083_232569809.consensus.fasta	H1N1	NP	A_NP	1497	205	13.69	Mala	Muchos N
+IonXpress_083_232569809	IonXpress_083_232569809.consensus.fasta	H1N1	NS	A_NS	863	287	33.26	Mala	Muchos N
+IonXpress_083_232569809	IonXpress_083_232569809.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_083_232575270	IonXpress_083_232575270.consensus.fasta	H1N1	HA	A_HA_H1	1752	364	20.78	Mala	Muchos N
+IonXpress_083_232575270	IonXpress_083_232575270.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_083_232575270	IonXpress_083_232575270.consensus.fasta	H1N1	PB1	A_PB1	2274	260	11.43	Mala	Muchos N
+IonXpress_083_232575270	IonXpress_083_232575270.consensus.fasta	H1N1	PB2	A_PB2	2280	383	16.8	Mala	Muchos N
+IonXpress_083_232575270	IonXpress_083_232575270.consensus.fasta	H1N1	PA	A_PA	2151	40	1.86	Aceptable	Correcto
+IonXpress_083_232575270	IonXpress_083_232575270.consensus.fasta	H1N1	NP	A_NP	1497	219	14.63	Mala	Muchos N
+IonXpress_083_232575270	IonXpress_083_232575270.consensus.fasta	H1N1	NS	A_NS	863	64	7.42	Dudosa	Revisar por N
+IonXpress_083_232575270	IonXpress_083_232575270.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_083_232581922	IonXpress_083_232581922.consensus.fasta	H1N1	HA	A_HA_H1	1751	1162	66.36	Mala	Muchos N
+IonXpress_083_232581922	IonXpress_083_232581922.consensus.fasta	H1N1	NA	A_NA_N1	1433	833	58.13	Mala	Muchos N
+IonXpress_083_232581922	IonXpress_083_232581922.consensus.fasta	H1N1	PB1	A_PB1	2274	1379	60.64	Mala	Muchos N
+IonXpress_083_232581922	IonXpress_083_232581922.consensus.fasta	H1N1	PB2	A_PB2	2280	1598	70.09	Mala	Muchos N
+IonXpress_083_232581922	IonXpress_083_232581922.consensus.fasta	H1N1	PA	A_PA	2156	1211	56.17	Mala	Muchos N
+IonXpress_083_232581922	IonXpress_083_232581922.consensus.fasta	H1N1	NP	A_NP	1504	944	62.77	Mala	Muchos N
+IonXpress_083_232581922	IonXpress_083_232581922.consensus.fasta	H1N1	NS	A_NS	863	558	64.66	Mala	Muchos N
+IonXpress_083_232581922	IonXpress_083_232581922.consensus.fasta	H1N1	M	A_MP	982	400	40.73	Mala	Muchos N
+IonXpress_083_232584738	IonXpress_083_232584738.consensus.fasta	H1N1	HA	A_HA_H1	1752	856	48.86	Mala	Muchos N
+IonXpress_083_232584738	IonXpress_083_232584738.consensus.fasta	H1N1	NA	A_NA_N1	1433	1021	71.25	Mala	Muchos N
+IonXpress_083_232584738	IonXpress_083_232584738.consensus.fasta	H1N1	PB1	A_PB1	2274	222	9.76	Dudosa	Revisar por N
+IonXpress_083_232584738	IonXpress_083_232584738.consensus.fasta	H1N1	PB2	A_PB2	2280	313	13.73	Mala	Muchos N
+IonXpress_083_232584738	IonXpress_083_232584738.consensus.fasta	H1N1	PA	A_PA	2158	308	14.27	Mala	Muchos N
+IonXpress_083_232584738	IonXpress_083_232584738.consensus.fasta	H1N1	NP	A_NP	1497	437	29.19	Mala	Muchos N
+IonXpress_083_232584738	IonXpress_083_232584738.consensus.fasta	H1N1	NS	A_NS	863	325	37.66	Mala	Muchos N
+IonXpress_083_232584738	IonXpress_083_232584738.consensus.fasta	H1N1	M	A_MP	982	128	13.03	Mala	Muchos N
+IonXpress_083_232586262	IonXpress_083_232586262.consensus.fasta	H1N1	HA	A_HA_H1	1752	87	4.97	Aceptable	Correcto
+IonXpress_083_232586262	IonXpress_083_232586262.consensus.fasta	H1N1	NA	A_NA_N1	1433	51	3.56	Aceptable	Correcto
+IonXpress_083_232586262	IonXpress_083_232586262.consensus.fasta	H1N1	PB1	A_PB1	2273	22	0.97	Buena	Correcto
+IonXpress_083_232586262	IonXpress_083_232586262.consensus.fasta	H1N1	PB2	A_PB2	2280	136	5.96	Dudosa	Revisar por N
+IonXpress_083_232586262	IonXpress_083_232586262.consensus.fasta	H1N1	PA	A_PA	2151	38	1.77	Aceptable	Correcto
+IonXpress_083_232586262	IonXpress_083_232586262.consensus.fasta	H1N1	NP	A_NP	1497	18	1.2	Aceptable	Correcto
+IonXpress_083_232586262	IonXpress_083_232586262.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_083_232586262	IonXpress_083_232586262.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_083_232590224	IonXpress_083_232590224.consensus.fasta	H3N2	HA	A_HA_H3	1718	36	2.1	Aceptable	Correcto
+IonXpress_083_232590224	IonXpress_083_232590224.consensus.fasta	H3N2	NA	A_NA_N2	1440	95	6.6	Dudosa	Revisar por N
+IonXpress_083_232590224	IonXpress_083_232590224.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_083_232590224	IonXpress_083_232590224.consensus.fasta	H3N2	PB2	A_PB2	2280	59	2.59	Aceptable	Correcto
+IonXpress_083_232590224	IonXpress_083_232590224.consensus.fasta	H3N2	PA	A_PA	2151	45	2.09	Aceptable	Correcto
+IonXpress_083_232590224	IonXpress_083_232590224.consensus.fasta	H3N2	NP	A_NP	1497	7	0.47	Buena	Correcto
+IonXpress_083_232590224	IonXpress_083_232590224.consensus.fasta	H3N2	NS	A_NS	863	193	22.36	Mala	Muchos N
+IonXpress_083_232590224	IonXpress_083_232590224.consensus.fasta	H3N2	M	A_MP	982	14	1.43	Aceptable	Correcto
+IonXpress_083_232600461	IonXpress_083_232600461.consensus.fasta	H1N1	HA	A_HA_H1	1752	181	10.33	Mala	Muchos N
+IonXpress_083_232600461	IonXpress_083_232600461.consensus.fasta	H1N1	NA	A_NA_N1	1433	70	4.88	Aceptable	Correcto
+IonXpress_083_232600461	IonXpress_083_232600461.consensus.fasta	H1N1	PB1	A_PB1	2273	66	2.9	Aceptable	Correcto
+IonXpress_083_232600461	IonXpress_083_232600461.consensus.fasta	H1N1	PB2	A_PB2	2280	69	3.03	Aceptable	Correcto
+IonXpress_083_232600461	IonXpress_083_232600461.consensus.fasta	H1N1	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_083_232600461	IonXpress_083_232600461.consensus.fasta	H1N1	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_083_232600461	IonXpress_083_232600461.consensus.fasta	H1N1	NS	A_NS	863	49	5.68	Dudosa	Revisar por N
+IonXpress_083_232600461	IonXpress_083_232600461.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_083_232607711	IonXpress_083_232607711.consensus.fasta	H1N1	HA	A_HA_H1	1752	220	12.56	Mala	Muchos N
+IonXpress_083_232607711	IonXpress_083_232607711.consensus.fasta	H1N1	NA	A_NA_N1	1433	158	11.03	Mala	Muchos N
+IonXpress_083_232607711	IonXpress_083_232607711.consensus.fasta	H1N1	PB1	A_PB1	2274	50	2.2	Aceptable	Correcto
+IonXpress_083_232607711	IonXpress_083_232607711.consensus.fasta	H1N1	PB2	A_PB2	2280	69	3.03	Aceptable	Correcto
+IonXpress_083_232607711	IonXpress_083_232607711.consensus.fasta	H1N1	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_083_232607711	IonXpress_083_232607711.consensus.fasta	H1N1	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_083_232607711	IonXpress_083_232607711.consensus.fasta	H1N1	NS	A_NS	863	285	33.02	Mala	Muchos N
+IonXpress_083_232607711	IonXpress_083_232607711.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_084_232575280	IonXpress_084_232575280.consensus.fasta	H1N1	HA	A_HA_H1	1752	290	16.55	Mala	Muchos N
+IonXpress_084_232575280	IonXpress_084_232575280.consensus.fasta	H1N1	NA	A_NA_N1	1433	344	24.01	Mala	Muchos N
+IonXpress_084_232575280	IonXpress_084_232575280.consensus.fasta	H1N1	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_084_232575280	IonXpress_084_232575280.consensus.fasta	H1N1	PB2	A_PB2	2280	386	16.93	Mala	Muchos N
+IonXpress_084_232575280	IonXpress_084_232575280.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_084_232575280	IonXpress_084_232575280.consensus.fasta	H1N1	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_084_232575280	IonXpress_084_232575280.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_084_232575280	IonXpress_084_232575280.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_084_232582082	IonXpress_084_232582082.consensus.fasta	H3N2	HA	A_HA_H3	1718	986	57.39	Mala	Muchos N
+IonXpress_084_232582082	IonXpress_084_232582082.consensus.fasta	H3N2	NA	A_NA_N2	1439	830	57.68	Mala	Muchos N
+IonXpress_084_232582082	IonXpress_084_232582082.consensus.fasta	H3N2	PB1	A_PB1	2274	814	35.8	Mala	Muchos N
+IonXpress_084_232582082	IonXpress_084_232582082.consensus.fasta	H3N2	PB2	A_PB2	2280	1645	72.15	Mala	Muchos N
+IonXpress_084_232582082	IonXpress_084_232582082.consensus.fasta	H3N2	PA	A_PA	2150	1437	66.84	Mala	Muchos N
+IonXpress_084_232582082	IonXpress_084_232582082.consensus.fasta	H3N2	NP	A_NP	1497	635	42.42	Mala	Muchos N
+IonXpress_084_232582082	IonXpress_084_232582082.consensus.fasta	H3N2	NS	A_NS	863	325	37.66	Mala	Muchos N
+IonXpress_084_232582082	IonXpress_084_232582082.consensus.fasta	H3N2	M	A_MP	982	408	41.55	Mala	Muchos N
+IonXpress_084_232584863	IonXpress_084_232584863.consensus.fasta	H3N2	HA	A_HA_H3	1718	69	4.02	Aceptable	Correcto
+IonXpress_084_232584863	IonXpress_084_232584863.consensus.fasta	H3N2	NA	A_NA_N2	1439	108	7.51	Dudosa	Revisar por N
+IonXpress_084_232584863	IonXpress_084_232584863.consensus.fasta	H3N2	PB1	A_PB1	2274	26	1.14	Aceptable	Correcto
+IonXpress_084_232584863	IonXpress_084_232584863.consensus.fasta	H3N2	PB2	A_PB2	2280	65	2.85	Aceptable	Correcto
+IonXpress_084_232584863	IonXpress_084_232584863.consensus.fasta	H3N2	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_084_232584863	IonXpress_084_232584863.consensus.fasta	H3N2	NP	A_NP	1497	5	0.33	Buena	Correcto
+IonXpress_084_232584863	IonXpress_084_232584863.consensus.fasta	H3N2	NS	A_NS	863	251	29.08	Mala	Muchos N
+IonXpress_084_232584863	IonXpress_084_232584863.consensus.fasta	H3N2	M	A_MP	982	23	2.34	Aceptable	Correcto
+IonXpress_084_232586265	IonXpress_084_232586265.consensus.fasta	H3N2	HA	A_HA_H3	1718	164	9.55	Dudosa	Revisar por N
+IonXpress_084_232586265	IonXpress_084_232586265.consensus.fasta	H3N2	NA	A_NA_N2	1439	98	6.81	Dudosa	Revisar por N
+IonXpress_084_232586265	IonXpress_084_232586265.consensus.fasta	H3N2	PB1	A_PB1	2274	23	1.01	Aceptable	Correcto
+IonXpress_084_232586265	IonXpress_084_232586265.consensus.fasta	H3N2	PB2	A_PB2	2280	63	2.76	Aceptable	Correcto
+IonXpress_084_232586265	IonXpress_084_232586265.consensus.fasta	H3N2	PA	A_PA	2151	46	2.14	Aceptable	Correcto
+IonXpress_084_232586265	IonXpress_084_232586265.consensus.fasta	H3N2	NP	A_NP	1496	18	1.2	Aceptable	Correcto
+IonXpress_084_232586265	IonXpress_084_232586265.consensus.fasta	H3N2	NS	A_NS	863	308	35.69	Mala	Muchos N
+IonXpress_084_232586265	IonXpress_084_232586265.consensus.fasta	H3N2	M	A_MP	982	13	1.32	Aceptable	Correcto
+IonXpress_084_232590248	IonXpress_084_232590248.consensus.fasta	H3N2	HA	A_HA_H3	1718	115	6.69	Dudosa	Revisar por N
+IonXpress_084_232590248	IonXpress_084_232590248.consensus.fasta	H3N2	NA	A_NA_N2	1439	107	7.44	Dudosa	Revisar por N
+IonXpress_084_232590248	IonXpress_084_232590248.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_084_232590248	IonXpress_084_232590248.consensus.fasta	H3N2	PB2	A_PB2	2280	63	2.76	Aceptable	Correcto
+IonXpress_084_232590248	IonXpress_084_232590248.consensus.fasta	H3N2	PA	A_PA	2151	49	2.28	Aceptable	Correcto
+IonXpress_084_232590248	IonXpress_084_232590248.consensus.fasta	H3N2	NP	A_NP	1496	7	0.47	Buena	Correcto
+IonXpress_084_232590248	IonXpress_084_232590248.consensus.fasta	H3N2	NS	A_NS	863	61	7.07	Dudosa	Revisar por N
+IonXpress_084_232590248	IonXpress_084_232590248.consensus.fasta	H3N2	M	A_MP	982	14	1.43	Aceptable	Correcto
+IonXpress_084_232600473	IonXpress_084_232600473.consensus.fasta	H3N2	HA	A_HA_H3	1718	141	8.21	Dudosa	Revisar por N
+IonXpress_084_232600473	IonXpress_084_232600473.consensus.fasta	H3N2	NA	A_NA_N2	1439	95	6.6	Dudosa	Revisar por N
+IonXpress_084_232600473	IonXpress_084_232600473.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_084_232600473	IonXpress_084_232600473.consensus.fasta	H3N2	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_084_232600473	IonXpress_084_232600473.consensus.fasta	H3N2	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_084_232600473	IonXpress_084_232600473.consensus.fasta	H3N2	NP	A_NP	1497	20	1.34	Aceptable	Correcto
+IonXpress_084_232600473	IonXpress_084_232600473.consensus.fasta	H3N2	NS	A_NS	863	177	20.51	Mala	Muchos N
+IonXpress_084_232600473	IonXpress_084_232600473.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_084_232607971	IonXpress_084_232607971.consensus.fasta	H1N1	HA	A_HA_H1	1752	944	53.88	Mala	Muchos N
+IonXpress_084_232607971	IonXpress_084_232607971.consensus.fasta	H1N1	NA	A_NA_N1	1433	826	57.64	Mala	Muchos N
+IonXpress_084_232607971	IonXpress_084_232607971.consensus.fasta	H1N1	PB1	A_PB1	2274	500	21.99	Mala	Muchos N
+IonXpress_084_232607971	IonXpress_084_232607971.consensus.fasta	H1N1	PB2	A_PB2	2280	871	38.2	Mala	Muchos N
+IonXpress_084_232607971	IonXpress_084_232607971.consensus.fasta	H1N1	PA	A_PA	2152	507	23.56	Mala	Muchos N
+IonXpress_084_232607971	IonXpress_084_232607971.consensus.fasta	H1N1	NP	A_NP	1497	199	13.29	Mala	Muchos N
+IonXpress_084_232607971	IonXpress_084_232607971.consensus.fasta	H1N1	NS	A_NS	863	578	66.98	Mala	Muchos N
+IonXpress_084_232607971	IonXpress_084_232607971.consensus.fasta	H1N1	M	A_MP	982	46	4.68	Aceptable	Correcto
+IonXpress_084_232669834	IonXpress_084_232669834.consensus.fasta	H1N1	HA	A_HA_H1	1752	1326	75.68	Mala	Muchos N
+IonXpress_084_232669834	IonXpress_084_232669834.consensus.fasta	H1N1	NA	A_NA_N1	1433	1376	96.02	Mala	Muchos N
+IonXpress_084_232669834	IonXpress_084_232669834.consensus.fasta	H1N1	PB1	A_PB1	2274	1777	78.14	Mala	Muchos N
+IonXpress_084_232669834	IonXpress_084_232669834.consensus.fasta	H1N1	PB2	A_PB2	2280	1597	70.04	Mala	Muchos N
+IonXpress_084_232669834	IonXpress_084_232669834.consensus.fasta	H1N1	PA	A_PA	2155	1651	76.61	Mala	Muchos N
+IonXpress_084_232669834	IonXpress_084_232669834.consensus.fasta	H1N1	NP	A_NP	1497	1020	68.14	Mala	Muchos N
+IonXpress_084_232669834	IonXpress_084_232669834.consensus.fasta	H1N1	NS	A_NS	863	666	77.17	Mala	Muchos N
+IonXpress_084_232669834	IonXpress_084_232669834.consensus.fasta	H1N1	M	A_MP	982	676	68.84	Mala	Muchos N
+IonXpress_085_232575286	IonXpress_085_232575286.consensus.fasta	H3N2	HA	A_HA_H3	1718	351	20.43	Mala	Muchos N
+IonXpress_085_232575286	IonXpress_085_232575286.consensus.fasta	H3N2	NA	A_NA_N2	1439	223	15.5	Mala	Muchos N
+IonXpress_085_232575286	IonXpress_085_232575286.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_085_232575286	IonXpress_085_232575286.consensus.fasta	H3N2	PB2	A_PB2	2280	124	5.44	Dudosa	Revisar por N
+IonXpress_085_232575286	IonXpress_085_232575286.consensus.fasta	H3N2	PA	A_PA	2151	57	2.65	Aceptable	Correcto
+IonXpress_085_232575286	IonXpress_085_232575286.consensus.fasta	H3N2	NP	A_NP	1497	20	1.34	Aceptable	Correcto
+IonXpress_085_232575286	IonXpress_085_232575286.consensus.fasta	H3N2	NS	A_NS	863	265	30.71	Mala	Muchos N
+IonXpress_085_232575286	IonXpress_085_232575286.consensus.fasta	H3N2	M	A_MP	982	14	1.43	Aceptable	Correcto
+IonXpress_085_232580481	IonXpress_085_232580481.consensus.fasta	H1N1	HA	A_HA_H1	1752	1401	79.97	Mala	Muchos N
+IonXpress_085_232580481	IonXpress_085_232580481.consensus.fasta	H1N1	NA	A_NA_N1	1433	827	57.71	Mala	Muchos N
+IonXpress_085_232580481	IonXpress_085_232580481.consensus.fasta	H1N1	PB1	A_PB1	2274	1533	67.41	Mala	Muchos N
+IonXpress_085_232580481	IonXpress_085_232580481.consensus.fasta	H1N1	PB2	A_PB2	2280	1458	63.95	Mala	Muchos N
+IonXpress_085_232580481	IonXpress_085_232580481.consensus.fasta	H1N1	PA	A_PA	2157	1262	58.51	Mala	Muchos N
+IonXpress_085_232580481	IonXpress_085_232580481.consensus.fasta	H1N1	NP	A_NP	1505	1156	76.81	Mala	Muchos N
+IonXpress_085_232580481	IonXpress_085_232580481.consensus.fasta	H1N1	NS	A_NS	863	521	60.37	Mala	Muchos N
+IonXpress_085_232580481	IonXpress_085_232580481.consensus.fasta	H1N1	M	A_MP	982	553	56.31	Mala	Muchos N
+IonXpress_085_232584866	IonXpress_085_232584866.consensus.fasta	H3N2	HA	A_HA_H3	1718	556	32.36	Mala	Muchos N
+IonXpress_085_232584866	IonXpress_085_232584866.consensus.fasta	H3N2	NA	A_NA_N2	1439	263	18.28	Mala	Muchos N
+IonXpress_085_232584866	IonXpress_085_232584866.consensus.fasta	H3N2	PB1	A_PB1	2274	41	1.8	Aceptable	Correcto
+IonXpress_085_232584866	IonXpress_085_232584866.consensus.fasta	H3N2	PB2	A_PB2	2280	781	34.25	Mala	Muchos N
+IonXpress_085_232584866	IonXpress_085_232584866.consensus.fasta	H3N2	PA	A_PA	2151	388	18.04	Mala	Muchos N
+IonXpress_085_232584866	IonXpress_085_232584866.consensus.fasta	H3N2	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_085_232584866	IonXpress_085_232584866.consensus.fasta	H3N2	NS	A_NS	863	311	36.04	Mala	Muchos N
+IonXpress_085_232584866	IonXpress_085_232584866.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_085_232586266	IonXpress_085_232586266.consensus.fasta	H1N1	HA	A_HA_H1	1752	88	5.02	Dudosa	Revisar por N
+IonXpress_085_232586266	IonXpress_085_232586266.consensus.fasta	H1N1	NA	A_NA_N1	1433	43	3.0	Aceptable	Correcto
+IonXpress_085_232586266	IonXpress_085_232586266.consensus.fasta	H1N1	PB1	A_PB1	2273	93	4.09	Aceptable	Correcto
+IonXpress_085_232586266	IonXpress_085_232586266.consensus.fasta	H1N1	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_085_232586266	IonXpress_085_232586266.consensus.fasta	H1N1	PA	A_PA	2151	24	1.12	Aceptable	Correcto
+IonXpress_085_232586266	IonXpress_085_232586266.consensus.fasta	H1N1	NP	A_NP	1497	16	1.07	Aceptable	Correcto
+IonXpress_085_232586266	IonXpress_085_232586266.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_085_232586266	IonXpress_085_232586266.consensus.fasta	H1N1	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_085_232590262	IonXpress_085_232590262.consensus.fasta	H1N1	HA	A_HA_H1	1752	909	51.88	Mala	Muchos N
+IonXpress_085_232590262	IonXpress_085_232590262.consensus.fasta	H1N1	NA	A_NA_N1	1433	890	62.11	Mala	Muchos N
+IonXpress_085_232590262	IonXpress_085_232590262.consensus.fasta	H1N1	PB1	A_PB1	2274	841	36.98	Mala	Muchos N
+IonXpress_085_232590262	IonXpress_085_232590262.consensus.fasta	H1N1	PB2	A_PB2	2280	878	38.51	Mala	Muchos N
+IonXpress_085_232590262	IonXpress_085_232590262.consensus.fasta	H1N1	PA	A_PA	2151	1061	49.33	Mala	Muchos N
+IonXpress_085_232590262	IonXpress_085_232590262.consensus.fasta	H1N1	NP	A_NP	1497	609	40.68	Mala	Muchos N
+IonXpress_085_232590262	IonXpress_085_232590262.consensus.fasta	H1N1	NS	A_NS	863	577	66.86	Mala	Muchos N
+IonXpress_085_232590262	IonXpress_085_232590262.consensus.fasta	H1N1	M	A_MP	982	46	4.68	Aceptable	Correcto
+IonXpress_085_232600524	IonXpress_085_232600524.consensus.fasta	H1N1	HA	A_HA_H1	1752	104	5.94	Dudosa	Revisar por N
+IonXpress_085_232600524	IonXpress_085_232600524.consensus.fasta	H1N1	NA	A_NA_N1	1433	58	4.05	Aceptable	Correcto
+IonXpress_085_232600524	IonXpress_085_232600524.consensus.fasta	H1N1	PB1	A_PB1	2273	22	0.97	Buena	Correcto
+IonXpress_085_232600524	IonXpress_085_232600524.consensus.fasta	H1N1	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_085_232600524	IonXpress_085_232600524.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_085_232600524	IonXpress_085_232600524.consensus.fasta	H1N1	NP	A_NP	1497	9	0.6	Buena	Correcto
+IonXpress_085_232600524	IonXpress_085_232600524.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_085_232600524	IonXpress_085_232600524.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_085_232607987	IonXpress_085_232607987.consensus.fasta	H1N1	HA	A_HA_H1	1752	345	19.69	Mala	Muchos N
+IonXpress_085_232607987	IonXpress_085_232607987.consensus.fasta	H1N1	NA	A_NA_N1	1433	107	7.47	Dudosa	Revisar por N
+IonXpress_085_232607987	IonXpress_085_232607987.consensus.fasta	H1N1	PB1	A_PB1	2273	161	7.08	Dudosa	Revisar por N
+IonXpress_085_232607987	IonXpress_085_232607987.consensus.fasta	H1N1	PB2	A_PB2	2280	136	5.96	Dudosa	Revisar por N
+IonXpress_085_232607987	IonXpress_085_232607987.consensus.fasta	H1N1	PA	A_PA	2150	43	2.0	Aceptable	Correcto
+IonXpress_085_232607987	IonXpress_085_232607987.consensus.fasta	H1N1	NP	A_NP	1497	107	7.15	Dudosa	Revisar por N
+IonXpress_085_232607987	IonXpress_085_232607987.consensus.fasta	H1N1	NS	A_NS	863	58	6.72	Dudosa	Revisar por N
+IonXpress_085_232607987	IonXpress_085_232607987.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_086_232570240	IonXpress_086_232570240.consensus.fasta	H1N1	HA	A_HA_H1	1752	109	6.22	Dudosa	Revisar por N
+IonXpress_086_232570240	IonXpress_086_232570240.consensus.fasta	H1N1	NA	A_NA_N1	1433	118	8.23	Dudosa	Revisar por N
+IonXpress_086_232570240	IonXpress_086_232570240.consensus.fasta	H1N1	PB1	A_PB1	2273	117	5.15	Dudosa	Revisar por N
+IonXpress_086_232570240	IonXpress_086_232570240.consensus.fasta	H1N1	PB2	A_PB2	2280	229	10.04	Mala	Muchos N
+IonXpress_086_232570240	IonXpress_086_232570240.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_086_232570240	IonXpress_086_232570240.consensus.fasta	H1N1	NP	A_NP	1496	54	3.61	Aceptable	Correcto
+IonXpress_086_232570240	IonXpress_086_232570240.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_086_232570240	IonXpress_086_232570240.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_086_232575616	IonXpress_086_232575616.consensus.fasta	H1N1	HA	A_HA_H1	1752	115	6.56	Dudosa	Revisar por N
+IonXpress_086_232575616	IonXpress_086_232575616.consensus.fasta	H1N1	NA	A_NA_N1	1433	62	4.33	Aceptable	Correcto
+IonXpress_086_232575616	IonXpress_086_232575616.consensus.fasta	H1N1	PB1	A_PB1	2275	26	1.14	Aceptable	Correcto
+IonXpress_086_232575616	IonXpress_086_232575616.consensus.fasta	H1N1	PB2	A_PB2	2280	284	12.46	Mala	Muchos N
+IonXpress_086_232575616	IonXpress_086_232575616.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_086_232575616	IonXpress_086_232575616.consensus.fasta	H1N1	NP	A_NP	1497	12	0.8	Buena	Correcto
+IonXpress_086_232575616	IonXpress_086_232575616.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_086_232575616	IonXpress_086_232575616.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_086_232582581	IonXpress_086_232582581.consensus.fasta	H1N1	HA	A_HA_H1	1752	1091	62.27	Mala	Muchos N
+IonXpress_086_232582581	IonXpress_086_232582581.consensus.fasta	H1N1	NA	A_NA_N1	1433	721	50.31	Mala	Muchos N
+IonXpress_086_232582581	IonXpress_086_232582581.consensus.fasta	H1N1	PB1	A_PB1	2278	1113	48.86	Mala	Muchos N
+IonXpress_086_232582581	IonXpress_086_232582581.consensus.fasta	H1N1	PB2	A_PB2	2280	1391	61.01	Mala	Muchos N
+IonXpress_086_232582581	IonXpress_086_232582581.consensus.fasta	H1N1	PA	A_PA	2148	990	46.09	Mala	Muchos N
+IonXpress_086_232582581	IonXpress_086_232582581.consensus.fasta	H1N1	NP	A_NP	1497	586	39.14	Mala	Muchos N
+IonXpress_086_232582581	IonXpress_086_232582581.consensus.fasta	H1N1	NS	A_NS	863	339	39.28	Mala	Muchos N
+IonXpress_086_232582581	IonXpress_086_232582581.consensus.fasta	H1N1	M	A_MP	982	538	54.79	Mala	Muchos N
+IonXpress_086_232584881	IonXpress_086_232584881.consensus.fasta	H3N2	HA	A_HA_H3	1718	225	13.1	Mala	Muchos N
+IonXpress_086_232584881	IonXpress_086_232584881.consensus.fasta	H3N2	NA	A_NA_N2	1439	135	9.38	Dudosa	Revisar por N
+IonXpress_086_232584881	IonXpress_086_232584881.consensus.fasta	H3N2	PB1	A_PB1	2274	25	1.1	Aceptable	Correcto
+IonXpress_086_232584881	IonXpress_086_232584881.consensus.fasta	H3N2	PB2	A_PB2	2280	494	21.67	Mala	Muchos N
+IonXpress_086_232584881	IonXpress_086_232584881.consensus.fasta	H3N2	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_086_232584881	IonXpress_086_232584881.consensus.fasta	H3N2	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_086_232584881	IonXpress_086_232584881.consensus.fasta	H3N2	NS	A_NS	863	286	33.14	Mala	Muchos N
+IonXpress_086_232584881	IonXpress_086_232584881.consensus.fasta	H3N2	M	A_MP	982	22	2.24	Aceptable	Correcto
+IonXpress_086_232586347	IonXpress_086_232586347.consensus.fasta	H1N1	HA	A_HA_H1	1752	353	20.15	Mala	Muchos N
+IonXpress_086_232586347	IonXpress_086_232586347.consensus.fasta	H1N1	NA	A_NA_N1	1433	62	4.33	Aceptable	Correcto
+IonXpress_086_232586347	IonXpress_086_232586347.consensus.fasta	H1N1	PB1	A_PB1	2274	128	5.63	Dudosa	Revisar por N
+IonXpress_086_232586347	IonXpress_086_232586347.consensus.fasta	H1N1	PB2	A_PB2	2280	227	9.96	Dudosa	Revisar por N
+IonXpress_086_232586347	IonXpress_086_232586347.consensus.fasta	H1N1	PA	A_PA	2151	84	3.91	Aceptable	Correcto
+IonXpress_086_232586347	IonXpress_086_232586347.consensus.fasta	H1N1	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_086_232586347	IonXpress_086_232586347.consensus.fasta	H1N1	NS	A_NS	863	444	51.45	Mala	Muchos N
+IonXpress_086_232586347	IonXpress_086_232586347.consensus.fasta	H1N1	M	A_MP	982	13	1.32	Aceptable	Correcto
+IonXpress_086_232590407	IonXpress_086_232590407.consensus.fasta	H1N1	HA	A_HA_H1	1752	95	5.42	Dudosa	Revisar por N
+IonXpress_086_232590407	IonXpress_086_232590407.consensus.fasta	H1N1	NA	A_NA_N1	1433	41	2.86	Aceptable	Correcto
+IonXpress_086_232590407	IonXpress_086_232590407.consensus.fasta	H1N1	PB1	A_PB1	2273	20	0.88	Buena	Correcto
+IonXpress_086_232590407	IonXpress_086_232590407.consensus.fasta	H1N1	PB2	A_PB2	2280	53	2.32	Aceptable	Correcto
+IonXpress_086_232590407	IonXpress_086_232590407.consensus.fasta	H1N1	PA	A_PA	2151	29	1.35	Aceptable	Correcto
+IonXpress_086_232590407	IonXpress_086_232590407.consensus.fasta	H1N1	NP	A_NP	1497	4	0.27	Buena	Correcto
+IonXpress_086_232590407	IonXpress_086_232590407.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_086_232590407	IonXpress_086_232590407.consensus.fasta	H1N1	M	A_MP	982	17	1.73	Aceptable	Correcto
+IonXpress_086_232600535	IonXpress_086_232600535.consensus.fasta	H3N2	HA	A_HA_H3	1718	21	1.22	Aceptable	Correcto
+IonXpress_086_232600535	IonXpress_086_232600535.consensus.fasta	H3N2	NA	A_NA_N2	1439	86	5.98	Dudosa	Revisar por N
+IonXpress_086_232600535	IonXpress_086_232600535.consensus.fasta	H3N2	PB1	A_PB1	2274	34	1.5	Aceptable	Correcto
+IonXpress_086_232600535	IonXpress_086_232600535.consensus.fasta	H3N2	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_086_232600535	IonXpress_086_232600535.consensus.fasta	H3N2	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_086_232600535	IonXpress_086_232600535.consensus.fasta	H3N2	NP	A_NP	1497	15	1.0	Aceptable	Correcto
+IonXpress_086_232600535	IonXpress_086_232600535.consensus.fasta	H3N2	NS	A_NS	863	153	17.73	Mala	Muchos N
+IonXpress_086_232600535	IonXpress_086_232600535.consensus.fasta	H3N2	M	A_MP	982	21	2.14	Aceptable	Correcto
+IonXpress_086_232608277	IonXpress_086_232608277.consensus.fasta	H3N2	HA	A_HA_H3	1718	678	39.46	Mala	Muchos N
+IonXpress_086_232608277	IonXpress_086_232608277.consensus.fasta	H3N2	NA	A_NA_N2	1439	251	17.44	Mala	Muchos N
+IonXpress_086_232608277	IonXpress_086_232608277.consensus.fasta	H3N2	PB1	A_PB1	2274	241	10.6	Mala	Muchos N
+IonXpress_086_232608277	IonXpress_086_232608277.consensus.fasta	H3N2	PB2	A_PB2	2280	584	25.61	Mala	Muchos N
+IonXpress_086_232608277	IonXpress_086_232608277.consensus.fasta	H3N2	PA	A_PA	2151	270	12.55	Mala	Muchos N
+IonXpress_086_232608277	IonXpress_086_232608277.consensus.fasta	H3N2	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_086_232608277	IonXpress_086_232608277.consensus.fasta	H3N2	NS	A_NS	863	557	64.54	Mala	Muchos N
+IonXpress_086_232608277	IonXpress_086_232608277.consensus.fasta	H3N2	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_087_232570440	IonXpress_087_232570440.consensus.fasta	H1N1	HA	A_HA_H1	1752	329	18.78	Mala	Muchos N
+IonXpress_087_232570440	IonXpress_087_232570440.consensus.fasta	H1N1	NA	A_NA_N1	1433	158	11.03	Mala	Muchos N
+IonXpress_087_232570440	IonXpress_087_232570440.consensus.fasta	H1N1	PB1	A_PB1	2274	272	11.96	Mala	Muchos N
+IonXpress_087_232570440	IonXpress_087_232570440.consensus.fasta	H1N1	PB2	A_PB2	2280	388	17.02	Mala	Muchos N
+IonXpress_087_232570440	IonXpress_087_232570440.consensus.fasta	H1N1	PA	A_PA	2151	108	5.02	Dudosa	Revisar por N
+IonXpress_087_232570440	IonXpress_087_232570440.consensus.fasta	H1N1	NP	A_NP	1497	241	16.1	Mala	Muchos N
+IonXpress_087_232570440	IonXpress_087_232570440.consensus.fasta	H1N1	NS	A_NS	863	500	57.94	Mala	Muchos N
+IonXpress_087_232570440	IonXpress_087_232570440.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_087_232575621	IonXpress_087_232575621.consensus.fasta	H1N1	HA	A_HA_H1	1752	344	19.63	Mala	Muchos N
+IonXpress_087_232575621	IonXpress_087_232575621.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_087_232575621	IonXpress_087_232575621.consensus.fasta	H1N1	PB1	A_PB1	2274	168	7.39	Dudosa	Revisar por N
+IonXpress_087_232575621	IonXpress_087_232575621.consensus.fasta	H1N1	PB2	A_PB2	2280	391	17.15	Mala	Muchos N
+IonXpress_087_232575621	IonXpress_087_232575621.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_087_232575621	IonXpress_087_232575621.consensus.fasta	H1N1	NP	A_NP	1497	13	0.87	Buena	Correcto
+IonXpress_087_232575621	IonXpress_087_232575621.consensus.fasta	H1N1	NS	A_NS	863	52	6.03	Dudosa	Revisar por N
+IonXpress_087_232575621	IonXpress_087_232575621.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_087_232582612	IonXpress_087_232582612.consensus.fasta	H3N2	HA	A_HA_H3	1718	1004	58.44	Mala	Muchos N
+IonXpress_087_232582612	IonXpress_087_232582612.consensus.fasta	H3N2	NA	A_NA_N2	1301	863	66.33	Mala	Muchos N
+IonXpress_087_232582612	IonXpress_087_232582612.consensus.fasta	H3N2	PB1	A_PB1	2274	890	39.14	Mala	Muchos N
+IonXpress_087_232582612	IonXpress_087_232582612.consensus.fasta	H3N2	PB2	A_PB2	2280	1637	71.8	Mala	Muchos N
+IonXpress_087_232582612	IonXpress_087_232582612.consensus.fasta	H3N2	PA	A_PA	2150	1470	68.37	Mala	Muchos N
+IonXpress_087_232582612	IonXpress_087_232582612.consensus.fasta	H3N2	NP	A_NP	1502	758	50.47	Mala	Muchos N
+IonXpress_087_232582612	IonXpress_087_232582612.consensus.fasta	H3N2	NS	A_NS	863	395	45.77	Mala	Muchos N
+IonXpress_087_232582612	IonXpress_087_232582612.consensus.fasta	H3N2	M	A_MP	982	530	53.97	Mala	Muchos N
+IonXpress_087_232585254	IonXpress_087_232585254.consensus.fasta	H1N1	HA	A_HA_H1	1752	142	8.11	Dudosa	Revisar por N
+IonXpress_087_232585254	IonXpress_087_232585254.consensus.fasta	H1N1	NA	A_NA_N1	1433	69	4.82	Aceptable	Correcto
+IonXpress_087_232585254	IonXpress_087_232585254.consensus.fasta	H1N1	PB1	A_PB1	2274	250	10.99	Mala	Muchos N
+IonXpress_087_232585254	IonXpress_087_232585254.consensus.fasta	H1N1	PB2	A_PB2	2280	191	8.38	Dudosa	Revisar por N
+IonXpress_087_232585254	IonXpress_087_232585254.consensus.fasta	H1N1	PA	A_PA	2151	38	1.77	Aceptable	Correcto
+IonXpress_087_232585254	IonXpress_087_232585254.consensus.fasta	H1N1	NP	A_NP	1497	9	0.6	Buena	Correcto
+IonXpress_087_232585254	IonXpress_087_232585254.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_087_232585254	IonXpress_087_232585254.consensus.fasta	H1N1	M	A_MP	982	31	3.16	Aceptable	Correcto
+IonXpress_087_232586430	IonXpress_087_232586430.consensus.fasta	H1N1	HA	A_HA_H1	1752	83	4.74	Aceptable	Correcto
+IonXpress_087_232586430	IonXpress_087_232586430.consensus.fasta	H1N1	NA	A_NA_N1	1433	45	3.14	Aceptable	Correcto
+IonXpress_087_232586430	IonXpress_087_232586430.consensus.fasta	H1N1	PB1	A_PB1	2274	21	0.92	Buena	Correcto
+IonXpress_087_232586430	IonXpress_087_232586430.consensus.fasta	H1N1	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_087_232586430	IonXpress_087_232586430.consensus.fasta	H1N1	PA	A_PA	2151	11	0.51	Buena	Correcto
+IonXpress_087_232586430	IonXpress_087_232586430.consensus.fasta	H1N1	NP	A_NP	1497	15	1.0	Aceptable	Correcto
+IonXpress_087_232586430	IonXpress_087_232586430.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_087_232586430	IonXpress_087_232586430.consensus.fasta	H1N1	M	A_MP	982	23	2.34	Aceptable	Correcto
+IonXpress_087_232590591	IonXpress_087_232590591.consensus.fasta	H1N1	HA	A_HA_H1	1752	103	5.88	Dudosa	Revisar por N
+IonXpress_087_232590591	IonXpress_087_232590591.consensus.fasta	H1N1	NA	A_NA_N1	1433	56	3.91	Aceptable	Correcto
+IonXpress_087_232590591	IonXpress_087_232590591.consensus.fasta	H1N1	PB1	A_PB1	2273	25	1.1	Aceptable	Correcto
+IonXpress_087_232590591	IonXpress_087_232590591.consensus.fasta	H1N1	PB2	A_PB2	2280	68	2.98	Aceptable	Correcto
+IonXpress_087_232590591	IonXpress_087_232590591.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_087_232590591	IonXpress_087_232590591.consensus.fasta	H1N1	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_087_232590591	IonXpress_087_232590591.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_087_232590591	IonXpress_087_232590591.consensus.fasta	H1N1	M	A_MP	982	27	2.75	Aceptable	Correcto
+IonXpress_087_232600538	IonXpress_087_232600538.consensus.fasta	H3N2	HA	A_HA_H3	1718	147	8.56	Dudosa	Revisar por N
+IonXpress_087_232600538	IonXpress_087_232600538.consensus.fasta	H3N2	NA	A_NA_N2	1439	107	7.44	Dudosa	Revisar por N
+IonXpress_087_232600538	IonXpress_087_232600538.consensus.fasta	H3N2	PB1	A_PB1	2274	26	1.14	Aceptable	Correcto
+IonXpress_087_232600538	IonXpress_087_232600538.consensus.fasta	H3N2	PB2	A_PB2	2280	79	3.46	Aceptable	Correcto
+IonXpress_087_232600538	IonXpress_087_232600538.consensus.fasta	H3N2	PA	A_PA	2151	48	2.23	Aceptable	Correcto
+IonXpress_087_232600538	IonXpress_087_232600538.consensus.fasta	H3N2	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_087_232600538	IonXpress_087_232600538.consensus.fasta	H3N2	NS	A_NS	863	224	25.96	Mala	Muchos N
+IonXpress_087_232600538	IonXpress_087_232600538.consensus.fasta	H3N2	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_087_232608523	IonXpress_087_232608523.consensus.fasta	H1N1	HA	A_HA_H1	1752	138	7.88	Dudosa	Revisar por N
+IonXpress_087_232608523	IonXpress_087_232608523.consensus.fasta	H1N1	NA	A_NA_N1	1433	153	10.68	Mala	Muchos N
+IonXpress_087_232608523	IonXpress_087_232608523.consensus.fasta	H1N1	PB1	A_PB1	2273	112	4.93	Aceptable	Correcto
+IonXpress_087_232608523	IonXpress_087_232608523.consensus.fasta	H1N1	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_087_232608523	IonXpress_087_232608523.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_087_232608523	IonXpress_087_232608523.consensus.fasta	H1N1	NP	A_NP	1497	10	0.67	Buena	Correcto
+IonXpress_087_232608523	IonXpress_087_232608523.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_087_232608523	IonXpress_087_232608523.consensus.fasta	H1N1	M	A_MP	982	31	3.16	Aceptable	Correcto
+IonXpress_088_232570914	IonXpress_088_232570914.consensus.fasta	H3N2	HA	A_HA_H3	1718	264	15.37	Mala	Muchos N
+IonXpress_088_232570914	IonXpress_088_232570914.consensus.fasta	H3N2	NA	A_NA_N2	1439	189	13.13	Mala	Muchos N
+IonXpress_088_232570914	IonXpress_088_232570914.consensus.fasta	H3N2	PB1	A_PB1	2274	144	6.33	Dudosa	Revisar por N
+IonXpress_088_232570914	IonXpress_088_232570914.consensus.fasta	H3N2	PB2	A_PB2	2280	650	28.51	Mala	Muchos N
+IonXpress_088_232570914	IonXpress_088_232570914.consensus.fasta	H3N2	PA	A_PA	2151	114	5.3	Dudosa	Revisar por N
+IonXpress_088_232570914	IonXpress_088_232570914.consensus.fasta	H3N2	NP	A_NP	1497	146	9.75	Dudosa	Revisar por N
+IonXpress_088_232570914	IonXpress_088_232570914.consensus.fasta	H3N2	NS	A_NS	863	304	35.23	Mala	Muchos N
+IonXpress_088_232570914	IonXpress_088_232570914.consensus.fasta	H3N2	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_088_232575641	IonXpress_088_232575641.consensus.fasta	H1N1	HA	A_HA_H1	1752	67	3.82	Aceptable	Correcto
+IonXpress_088_232575641	IonXpress_088_232575641.consensus.fasta	H1N1	NA	A_NA_N1	1433	55	3.84	Aceptable	Correcto
+IonXpress_088_232575641	IonXpress_088_232575641.consensus.fasta	H1N1	PB1	A_PB1	2273	21	0.92	Buena	Correcto
+IonXpress_088_232575641	IonXpress_088_232575641.consensus.fasta	H1N1	PB2	A_PB2	2280	62	2.72	Aceptable	Correcto
+IonXpress_088_232575641	IonXpress_088_232575641.consensus.fasta	H1N1	PA	A_PA	2151	34	1.58	Aceptable	Correcto
+IonXpress_088_232575641	IonXpress_088_232575641.consensus.fasta	H1N1	NP	A_NP	1497	13	0.87	Buena	Correcto
+IonXpress_088_232575641	IonXpress_088_232575641.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_088_232575641	IonXpress_088_232575641.consensus.fasta	H1N1	M	A_MP	982	23	2.34	Aceptable	Correcto
+IonXpress_088_232582617	IonXpress_088_232582617.consensus.fasta	H1N1	HA	A_HA_H1	1752	1501	85.67	Mala	Muchos N
+IonXpress_088_232582617	IonXpress_088_232582617.consensus.fasta	H1N1	NA	A_NA_N1	1433	977	68.18	Mala	Muchos N
+IonXpress_088_232582617	IonXpress_088_232582617.consensus.fasta	H1N1	PB1	A_PB1	2274	1729	76.03	Mala	Muchos N
+IonXpress_088_232582617	IonXpress_088_232582617.consensus.fasta	H1N1	PB2	A_PB2	2280	1472	64.56	Mala	Muchos N
+IonXpress_088_232582617	IonXpress_088_232582617.consensus.fasta	H1N1	PA	A_PA	2151	1259	58.53	Mala	Muchos N
+IonXpress_088_232582617	IonXpress_088_232582617.consensus.fasta	H1N1	NP	A_NP	1497	1136	75.89	Mala	Muchos N
+IonXpress_088_232582617	IonXpress_088_232582617.consensus.fasta	H1N1	NS	A_NS	863	592	68.6	Mala	Muchos N
+IonXpress_088_232582617	IonXpress_088_232582617.consensus.fasta	H1N1	M	A_MP	982	412	41.96	Mala	Muchos N
+IonXpress_088_232585268	IonXpress_088_232585268.consensus.fasta	H3N2	HA	A_HA_H3	1718	125	7.28	Dudosa	Revisar por N
+IonXpress_088_232585268	IonXpress_088_232585268.consensus.fasta	H3N2	NA	A_NA_N2	1440	93	6.46	Dudosa	Revisar por N
+IonXpress_088_232585268	IonXpress_088_232585268.consensus.fasta	H3N2	PB1	A_PB1	2274	26	1.14	Aceptable	Correcto
+IonXpress_088_232585268	IonXpress_088_232585268.consensus.fasta	H3N2	PB2	A_PB2	2280	79	3.46	Aceptable	Correcto
+IonXpress_088_232585268	IonXpress_088_232585268.consensus.fasta	H3N2	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_088_232585268	IonXpress_088_232585268.consensus.fasta	H3N2	NP	A_NP	1497	9	0.6	Buena	Correcto
+IonXpress_088_232585268	IonXpress_088_232585268.consensus.fasta	H3N2	NS	A_NS	863	180	20.86	Mala	Muchos N
+IonXpress_088_232585268	IonXpress_088_232585268.consensus.fasta	H3N2	M	A_MP	982	23	2.34	Aceptable	Correcto
+IonXpress_088_232586449	IonXpress_088_232586449.consensus.fasta	H3N2	HA	A_HA_H3	1718	22	1.28	Aceptable	Correcto
+IonXpress_088_232586449	IonXpress_088_232586449.consensus.fasta	H3N2	NA	A_NA_N2	1439	46	3.2	Aceptable	Correcto
+IonXpress_088_232586449	IonXpress_088_232586449.consensus.fasta	H3N2	PB1	A_PB1	2274	15	0.66	Buena	Correcto
+IonXpress_088_232586449	IonXpress_088_232586449.consensus.fasta	H3N2	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_088_232586449	IonXpress_088_232586449.consensus.fasta	H3N2	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_088_232586449	IonXpress_088_232586449.consensus.fasta	H3N2	NP	A_NP	1496	1	0.07	Buena	Correcto
+IonXpress_088_232586449	IonXpress_088_232586449.consensus.fasta	H3N2	NS	A_NS	863	45	5.21	Dudosa	Revisar por N
+IonXpress_088_232586449	IonXpress_088_232586449.consensus.fasta	H3N2	M	A_MP	982	18	1.83	Aceptable	Correcto
+IonXpress_088_232600623	IonXpress_088_232600623.consensus.fasta	H3N2	HA	A_HA_H3	1718	41	2.39	Aceptable	Correcto
+IonXpress_088_232600623	IonXpress_088_232600623.consensus.fasta	H3N2	NA	A_NA_N2	1439	78	5.42	Dudosa	Revisar por N
+IonXpress_088_232600623	IonXpress_088_232600623.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_088_232600623	IonXpress_088_232600623.consensus.fasta	H3N2	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_088_232600623	IonXpress_088_232600623.consensus.fasta	H3N2	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_088_232600623	IonXpress_088_232600623.consensus.fasta	H3N2	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_088_232600623	IonXpress_088_232600623.consensus.fasta	H3N2	NS	A_NS	863	150	17.38	Mala	Muchos N
+IonXpress_088_232600623	IonXpress_088_232600623.consensus.fasta	H3N2	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_088_232608703	IonXpress_088_232608703.consensus.fasta	H3N2	HA	A_HA_H3	1718	93	5.41	Dudosa	Revisar por N
+IonXpress_088_232608703	IonXpress_088_232608703.consensus.fasta	H3N2	NA	A_NA_N2	1439	83	5.77	Dudosa	Revisar por N
+IonXpress_088_232608703	IonXpress_088_232608703.consensus.fasta	H3N2	PB1	A_PB1	2274	26	1.14	Aceptable	Correcto
+IonXpress_088_232608703	IonXpress_088_232608703.consensus.fasta	H3N2	PB2	A_PB2	2280	260	11.4	Mala	Muchos N
+IonXpress_088_232608703	IonXpress_088_232608703.consensus.fasta	H3N2	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_088_232608703	IonXpress_088_232608703.consensus.fasta	H3N2	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_088_232608703	IonXpress_088_232608703.consensus.fasta	H3N2	NS	A_NS	863	193	22.36	Mala	Muchos N
+IonXpress_088_232608703	IonXpress_088_232608703.consensus.fasta	H3N2	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_089_232571343	IonXpress_089_232571343.consensus.fasta	H1N1	HA	A_HA_H1	1752	241	13.76	Mala	Muchos N
+IonXpress_089_232571343	IonXpress_089_232571343.consensus.fasta	H1N1	NA	A_NA_N1	1433	90	6.28	Dudosa	Revisar por N
+IonXpress_089_232571343	IonXpress_089_232571343.consensus.fasta	H1N1	PB1	A_PB1	2274	373	16.4	Mala	Muchos N
+IonXpress_089_232571343	IonXpress_089_232571343.consensus.fasta	H1N1	PB2	A_PB2	2280	191	8.38	Dudosa	Revisar por N
+IonXpress_089_232571343	IonXpress_089_232571343.consensus.fasta	H1N1	PA	A_PA	2151	77	3.58	Aceptable	Correcto
+IonXpress_089_232571343	IonXpress_089_232571343.consensus.fasta	H1N1	NP	A_NP	1497	251	16.77	Mala	Muchos N
+IonXpress_089_232571343	IonXpress_089_232571343.consensus.fasta	H1N1	NS	A_NS	863	265	30.71	Mala	Muchos N
+IonXpress_089_232571343	IonXpress_089_232571343.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_089_232575649	IonXpress_089_232575649.consensus.fasta	H3N2	HA	A_HA_H3	1718	50	2.91	Aceptable	Correcto
+IonXpress_089_232575649	IonXpress_089_232575649.consensus.fasta	H3N2	NA	A_NA_N2	1439	93	6.46	Dudosa	Revisar por N
+IonXpress_089_232575649	IonXpress_089_232575649.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_089_232575649	IonXpress_089_232575649.consensus.fasta	H3N2	PB2	A_PB2	2280	99	4.34	Aceptable	Correcto
+IonXpress_089_232575649	IonXpress_089_232575649.consensus.fasta	H3N2	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_089_232575649	IonXpress_089_232575649.consensus.fasta	H3N2	NP	A_NP	1497	3	0.2	Buena	Correcto
+IonXpress_089_232575649	IonXpress_089_232575649.consensus.fasta	H3N2	NS	A_NS	863	92	10.66	Mala	Muchos N
+IonXpress_089_232575649	IonXpress_089_232575649.consensus.fasta	H3N2	M	A_MP	982	15	1.53	Aceptable	Correcto
+IonXpress_089_232582696	IonXpress_089_232582696.consensus.fasta	H1N1	HA	A_HA_H1	1752	1668	95.21	Mala	Muchos N
+IonXpress_089_232582696	IonXpress_089_232582696.consensus.fasta	H1N1	NA	A_NA_N1	1433	1322	92.25	Mala	Muchos N
+IonXpress_089_232582696	IonXpress_089_232582696.consensus.fasta	H1N1	PB1	A_PB1	2274	1848	81.27	Mala	Muchos N
+IonXpress_089_232582696	IonXpress_089_232582696.consensus.fasta	H1N1	PB2	A_PB2	2280	1948	85.44	Mala	Muchos N
+IonXpress_089_232582696	IonXpress_089_232582696.consensus.fasta	H1N1	PA	A_PA	2151	1860	86.47	Mala	Muchos N
+IonXpress_089_232582696	IonXpress_089_232582696.consensus.fasta	H1N1	NP	A_NP	1497	1211	80.9	Mala	Muchos N
+IonXpress_089_232582696	IonXpress_089_232582696.consensus.fasta	H1N1	NS	A_NS	863	849	98.38	Mala	Muchos N
+IonXpress_089_232582696	IonXpress_089_232582696.consensus.fasta	H1N1	M	A_MP	982	803	81.77	Mala	Muchos N
+IonXpress_089_232585398	IonXpress_089_232585398.consensus.fasta	H3N2	HA	A_HA_H3	1717	368	21.43	Mala	Muchos N
+IonXpress_089_232585398	IonXpress_089_232585398.consensus.fasta	H3N2	NA	A_NA_N2	1439	215	14.94	Mala	Muchos N
+IonXpress_089_232585398	IonXpress_089_232585398.consensus.fasta	H3N2	PB1	A_PB1	2274	38	1.67	Aceptable	Correcto
+IonXpress_089_232585398	IonXpress_089_232585398.consensus.fasta	H3N2	PB2	A_PB2	2280	555	24.34	Mala	Muchos N
+IonXpress_089_232585398	IonXpress_089_232585398.consensus.fasta	H3N2	PA	A_PA	2151	60	2.79	Aceptable	Correcto
+IonXpress_089_232585398	IonXpress_089_232585398.consensus.fasta	H3N2	NP	A_NP	1497	20	1.34	Aceptable	Correcto
+IonXpress_089_232585398	IonXpress_089_232585398.consensus.fasta	H3N2	NS	A_NS	863	73	8.46	Dudosa	Revisar por N
+IonXpress_089_232585398	IonXpress_089_232585398.consensus.fasta	H3N2	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_089_232586540	IonXpress_089_232586540.consensus.fasta	H3N2	HA	A_HA_H3	1718	126	7.33	Dudosa	Revisar por N
+IonXpress_089_232586540	IonXpress_089_232586540.consensus.fasta	H3N2	NA	A_NA_N2	1439	113	7.85	Dudosa	Revisar por N
+IonXpress_089_232586540	IonXpress_089_232586540.consensus.fasta	H3N2	PB1	A_PB1	2274	16	0.7	Buena	Correcto
+IonXpress_089_232586540	IonXpress_089_232586540.consensus.fasta	H3N2	PB2	A_PB2	2280	322	14.12	Mala	Muchos N
+IonXpress_089_232586540	IonXpress_089_232586540.consensus.fasta	H3N2	PA	A_PA	2151	57	2.65	Aceptable	Correcto
+IonXpress_089_232586540	IonXpress_089_232586540.consensus.fasta	H3N2	NP	A_NP	1496	21	1.4	Aceptable	Correcto
+IonXpress_089_232586540	IonXpress_089_232586540.consensus.fasta	H3N2	NS	A_NS	863	197	22.83	Mala	Muchos N
+IonXpress_089_232586540	IonXpress_089_232586540.consensus.fasta	H3N2	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_089_232590630	IonXpress_089_232590630.consensus.fasta	H1N1	HA	A_HA_H1	1752	112	6.39	Dudosa	Revisar por N
+IonXpress_089_232590630	IonXpress_089_232590630.consensus.fasta	H1N1	NA	A_NA_N1	1433	55	3.84	Aceptable	Correcto
+IonXpress_089_232590630	IonXpress_089_232590630.consensus.fasta	H1N1	PB1	A_PB1	2275	26	1.14	Aceptable	Correcto
+IonXpress_089_232590630	IonXpress_089_232590630.consensus.fasta	H1N1	PB2	A_PB2	2280	63	2.76	Aceptable	Correcto
+IonXpress_089_232590630	IonXpress_089_232590630.consensus.fasta	H1N1	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_089_232590630	IonXpress_089_232590630.consensus.fasta	H1N1	NP	A_NP	1497	18	1.2	Aceptable	Correcto
+IonXpress_089_232590630	IonXpress_089_232590630.consensus.fasta	H1N1	NS	A_NS	863	41	4.75	Aceptable	Correcto
+IonXpress_089_232590630	IonXpress_089_232590630.consensus.fasta	H1N1	M	A_MP	982	14	1.43	Aceptable	Correcto
+IonXpress_089_232600628	IonXpress_089_232600628.consensus.fasta	H3N2	HA	A_HA_H3	1718	150	8.73	Dudosa	Revisar por N
+IonXpress_089_232600628	IonXpress_089_232600628.consensus.fasta	H3N2	NA	A_NA_N2	1439	94	6.53	Dudosa	Revisar por N
+IonXpress_089_232600628	IonXpress_089_232600628.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_089_232600628	IonXpress_089_232600628.consensus.fasta	H3N2	PB2	A_PB2	2280	142	6.23	Dudosa	Revisar por N
+IonXpress_089_232600628	IonXpress_089_232600628.consensus.fasta	H3N2	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_089_232600628	IonXpress_089_232600628.consensus.fasta	H3N2	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_089_232600628	IonXpress_089_232600628.consensus.fasta	H3N2	NS	A_NS	863	148	17.15	Mala	Muchos N
+IonXpress_089_232600628	IonXpress_089_232600628.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_089_232612987	IonXpress_089_232612987.consensus.fasta	H1N1	HA	A_HA_H1	1752	87	4.97	Aceptable	Correcto
+IonXpress_089_232612987	IonXpress_089_232612987.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_089_232612987	IonXpress_089_232612987.consensus.fasta	H1N1	PB1	A_PB1	2273	15	0.66	Buena	Correcto
+IonXpress_089_232612987	IonXpress_089_232612987.consensus.fasta	H1N1	PB2	A_PB2	2280	69	3.03	Aceptable	Correcto
+IonXpress_089_232612987	IonXpress_089_232612987.consensus.fasta	H1N1	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_089_232612987	IonXpress_089_232612987.consensus.fasta	H1N1	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_089_232612987	IonXpress_089_232612987.consensus.fasta	H1N1	NS	A_NS	863	35	4.06	Aceptable	Correcto
+IonXpress_089_232612987	IonXpress_089_232612987.consensus.fasta	H1N1	M	A_MP	982	23	2.34	Aceptable	Correcto
+IonXpress_090_232571430	IonXpress_090_232571430.consensus.fasta	H1N1	HA	A_HA_H1	1752	235	13.41	Mala	Muchos N
+IonXpress_090_232571430	IonXpress_090_232571430.consensus.fasta	H1N1	NA	A_NA_N1	1433	88	6.14	Dudosa	Revisar por N
+IonXpress_090_232571430	IonXpress_090_232571430.consensus.fasta	H1N1	PB1	A_PB1	2274	261	11.48	Mala	Muchos N
+IonXpress_090_232571430	IonXpress_090_232571430.consensus.fasta	H1N1	PB2	A_PB2	2280	224	9.82	Dudosa	Revisar por N
+IonXpress_090_232571430	IonXpress_090_232571430.consensus.fasta	H1N1	PA	A_PA	2151	76	3.53	Aceptable	Correcto
+IonXpress_090_232571430	IonXpress_090_232571430.consensus.fasta	H1N1	NP	A_NP	1497	244	16.3	Mala	Muchos N
+IonXpress_090_232571430	IonXpress_090_232571430.consensus.fasta	H1N1	NS	A_NS	863	285	33.02	Mala	Muchos N
+IonXpress_090_232571430	IonXpress_090_232571430.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_090_232575651	IonXpress_090_232575651.consensus.fasta	H1N1	HA	A_HA_H1	1752	354	20.21	Mala	Muchos N
+IonXpress_090_232575651	IonXpress_090_232575651.consensus.fasta	H1N1	NA	A_NA_N1	1433	169	11.79	Mala	Muchos N
+IonXpress_090_232575651	IonXpress_090_232575651.consensus.fasta	H1N1	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_090_232575651	IonXpress_090_232575651.consensus.fasta	H1N1	PB2	A_PB2	2280	282	12.37	Mala	Muchos N
+IonXpress_090_232575651	IonXpress_090_232575651.consensus.fasta	H1N1	PA	A_PA	2151	40	1.86	Aceptable	Correcto
+IonXpress_090_232575651	IonXpress_090_232575651.consensus.fasta	H1N1	NP	A_NP	1497	20	1.34	Aceptable	Correcto
+IonXpress_090_232575651	IonXpress_090_232575651.consensus.fasta	H1N1	NS	A_NS	863	53	6.14	Dudosa	Revisar por N
+IonXpress_090_232575651	IonXpress_090_232575651.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_090_232582696	IonXpress_090_232582696.consensus.fasta	H3N2	HA	A_HA_H3	1718	1718	100.0	Mala	Muchos N
+IonXpress_090_232582696	IonXpress_090_232582696.consensus.fasta	H1N1	NA	A_NA_N1	1433	1413	98.6	Mala	Muchos N
+IonXpress_090_232582696	IonXpress_090_232582696.consensus.fasta	H1N1	PB1	A_PB1	2274	2164	95.16	Mala	Muchos N
+IonXpress_090_232582696	IonXpress_090_232582696.consensus.fasta	H1N1	PB2	A_PB2	2280	2176	95.44	Mala	Muchos N
+IonXpress_090_232582696	IonXpress_090_232582696.consensus.fasta	H1N1	PA	A_PA	2151	2027	94.24	Mala	Muchos N
+IonXpress_090_232582696	IonXpress_090_232582696.consensus.fasta	H1N1	NP	A_NP	1497	1381	92.25	Mala	Muchos N
+IonXpress_090_232582696	IonXpress_090_232582696.consensus.fasta	H1N1	NS	A_NS	863	717	83.08	Mala	Muchos N
+IonXpress_090_232582696	IonXpress_090_232582696.consensus.fasta	H1N1	M	A_MP	982	624	63.54	Mala	Muchos N
+IonXpress_090_232585591	IonXpress_090_232585591.consensus.fasta	H3N2	HA	A_HA_H3	1718	743	43.25	Mala	Muchos N
+IonXpress_090_232585591	IonXpress_090_232585591.consensus.fasta	H3N2	NA	A_NA_N2	1439	347	24.11	Mala	Muchos N
+IonXpress_090_232585591	IonXpress_090_232585591.consensus.fasta	H3N2	PB1	A_PB1	2274	41	1.8	Aceptable	Correcto
+IonXpress_090_232585591	IonXpress_090_232585591.consensus.fasta	H3N2	PB2	A_PB2	2280	386	16.93	Mala	Muchos N
+IonXpress_090_232585591	IonXpress_090_232585591.consensus.fasta	H3N2	PA	A_PA	2151	182	8.46	Dudosa	Revisar por N
+IonXpress_090_232585591	IonXpress_090_232585591.consensus.fasta	H3N2	NP	A_NP	1497	85	5.68	Dudosa	Revisar por N
+IonXpress_090_232585591	IonXpress_090_232585591.consensus.fasta	H3N2	NS	A_NS	863	271	31.4	Mala	Muchos N
+IonXpress_090_232585591	IonXpress_090_232585591.consensus.fasta	H3N2	M	A_MP	983	33	3.36	Aceptable	Correcto
+IonXpress_090_232586597	IonXpress_090_232586597.consensus.fasta	H1N1	HA	A_HA_H1	1752	233	13.3	Mala	Muchos N
+IonXpress_090_232586597	IonXpress_090_232586597.consensus.fasta	H1N1	NA	A_NA_N1	1433	168	11.72	Mala	Muchos N
+IonXpress_090_232586597	IonXpress_090_232586597.consensus.fasta	H1N1	PB1	A_PB1	2274	259	11.39	Mala	Muchos N
+IonXpress_090_232586597	IonXpress_090_232586597.consensus.fasta	H1N1	PB2	A_PB2	2280	216	9.47	Dudosa	Revisar por N
+IonXpress_090_232586597	IonXpress_090_232586597.consensus.fasta	H1N1	PA	A_PA	2151	46	2.14	Aceptable	Correcto
+IonXpress_090_232586597	IonXpress_090_232586597.consensus.fasta	H1N1	NP	A_NP	1497	242	16.17	Mala	Muchos N
+IonXpress_090_232586597	IonXpress_090_232586597.consensus.fasta	H1N1	NS	A_NS	863	204	23.64	Mala	Muchos N
+IonXpress_090_232586597	IonXpress_090_232586597.consensus.fasta	H1N1	M	A_MP	982	31	3.16	Aceptable	Correcto
+IonXpress_090_232590650	IonXpress_090_232590650.consensus.fasta	H3N2	HA	A_HA_H3	1718	23	1.34	Aceptable	Correcto
+IonXpress_090_232590650	IonXpress_090_232590650.consensus.fasta	H3N2	NA	A_NA_N2	1439	77	5.35	Dudosa	Revisar por N
+IonXpress_090_232590650	IonXpress_090_232590650.consensus.fasta	H3N2	PB1	A_PB1	2274	15	0.66	Buena	Correcto
+IonXpress_090_232590650	IonXpress_090_232590650.consensus.fasta	H3N2	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_090_232590650	IonXpress_090_232590650.consensus.fasta	H3N2	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_090_232590650	IonXpress_090_232590650.consensus.fasta	H3N2	NP	A_NP	1497	2	0.13	Buena	Correcto
+IonXpress_090_232590650	IonXpress_090_232590650.consensus.fasta	H3N2	NS	A_NS	863	121	14.02	Mala	Muchos N
+IonXpress_090_232590650	IonXpress_090_232590650.consensus.fasta	H3N2	M	A_MP	982	12	1.22	Aceptable	Correcto
+IonXpress_090_232600698	IonXpress_090_232600698.consensus.fasta	H1N1	HA	A_HA_H1	1752	171	9.76	Dudosa	Revisar por N
+IonXpress_090_232600698	IonXpress_090_232600698.consensus.fasta	H1N1	NA	A_NA_N1	1433	155	10.82	Mala	Muchos N
+IonXpress_090_232600698	IonXpress_090_232600698.consensus.fasta	H1N1	PB1	A_PB1	2273	218	9.59	Dudosa	Revisar por N
+IonXpress_090_232600698	IonXpress_090_232600698.consensus.fasta	H1N1	PB2	A_PB2	2280	142	6.23	Dudosa	Revisar por N
+IonXpress_090_232600698	IonXpress_090_232600698.consensus.fasta	H1N1	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_090_232600698	IonXpress_090_232600698.consensus.fasta	H1N1	NP	A_NP	1497	81	5.41	Dudosa	Revisar por N
+IonXpress_090_232600698	IonXpress_090_232600698.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_090_232600698	IonXpress_090_232600698.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_090_232612989	IonXpress_090_232612989.consensus.fasta	NO_DETECTADO	HA	A_HA_H5	1704	1534	90.02	Mala	Muchos N
+IonXpress_090_232612989	IonXpress_090_232612989.consensus.fasta	H1N1	NA	A_NA_N1	1433	843	58.83	Mala	Muchos N
+IonXpress_090_232612989	IonXpress_090_232612989.consensus.fasta	H1N1	PB1	A_PB1	2274	113	4.97	Aceptable	Correcto
+IonXpress_090_232612989	IonXpress_090_232612989.consensus.fasta	H1N1	PB2	A_PB2	2280	997	43.73	Mala	Muchos N
+IonXpress_090_232612989	IonXpress_090_232612989.consensus.fasta	H1N1	PA	A_PA	2151	456	21.2	Mala	Muchos N
+IonXpress_090_232612989	IonXpress_090_232612989.consensus.fasta	H1N1	NP	A_NP	1497	219	14.63	Mala	Muchos N
+IonXpress_090_232612989	IonXpress_090_232612989.consensus.fasta	H1N1	NS	A_NS	863	539	62.46	Mala	Muchos N
+IonXpress_090_232612989	IonXpress_090_232612989.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_091_232571889	IonXpress_091_232571889.consensus.fasta	H1N1	HA	A_HA_H1	1756	358	20.39	Mala	Muchos N
+IonXpress_091_232571889	IonXpress_091_232571889.consensus.fasta	H1N1	NA	A_NA_N1	1433	59	4.12	Aceptable	Correcto
+IonXpress_091_232571889	IonXpress_091_232571889.consensus.fasta	H1N1	PB1	A_PB1	2274	469	20.62	Mala	Muchos N
+IonXpress_091_232571889	IonXpress_091_232571889.consensus.fasta	H1N1	PB2	A_PB2	2280	566	24.82	Mala	Muchos N
+IonXpress_091_232571889	IonXpress_091_232571889.consensus.fasta	H1N1	PA	A_PA	2151	92	4.28	Aceptable	Correcto
+IonXpress_091_232571889	IonXpress_091_232571889.consensus.fasta	H1N1	NP	A_NP	1497	245	16.37	Mala	Muchos N
+IonXpress_091_232571889	IonXpress_091_232571889.consensus.fasta	H1N1	NS	A_NS	863	321	37.2	Mala	Muchos N
+IonXpress_091_232571889	IonXpress_091_232571889.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_091_232575655	IonXpress_091_232575655.consensus.fasta	H1N1	HA	A_HA_H1	1752	104	5.94	Dudosa	Revisar por N
+IonXpress_091_232575655	IonXpress_091_232575655.consensus.fasta	H1N1	NA	A_NA_N1	1433	59	4.12	Aceptable	Correcto
+IonXpress_091_232575655	IonXpress_091_232575655.consensus.fasta	H1N1	PB1	A_PB1	2274	25	1.1	Aceptable	Correcto
+IonXpress_091_232575655	IonXpress_091_232575655.consensus.fasta	H1N1	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_091_232575655	IonXpress_091_232575655.consensus.fasta	H1N1	PA	A_PA	2151	40	1.86	Aceptable	Correcto
+IonXpress_091_232575655	IonXpress_091_232575655.consensus.fasta	H1N1	NP	A_NP	1497	213	14.23	Mala	Muchos N
+IonXpress_091_232575655	IonXpress_091_232575655.consensus.fasta	H1N1	NS	A_NS	863	49	5.68	Dudosa	Revisar por N
+IonXpress_091_232575655	IonXpress_091_232575655.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_091_232582700	IonXpress_091_232582700.consensus.fasta	H1N1	HA	A_HA_H1	1752	1339	76.43	Mala	Muchos N
+IonXpress_091_232582700	IonXpress_091_232582700.consensus.fasta	H1N1	NA	A_NA_N1	1433	1028	71.74	Mala	Muchos N
+IonXpress_091_232582700	IonXpress_091_232582700.consensus.fasta	H1N1	PB1	A_PB1	2274	2121	93.27	Mala	Muchos N
+IonXpress_091_232582700	IonXpress_091_232582700.consensus.fasta	H1N1	PB2	A_PB2	2280	1883	82.59	Mala	Muchos N
+IonXpress_091_232582700	IonXpress_091_232582700.consensus.fasta	H1N1	PA	A_PA	2151	1563	72.66	Mala	Muchos N
+IonXpress_091_232582700	IonXpress_091_232582700.consensus.fasta	H1N1	NP	A_NP	1497	1303	87.04	Mala	Muchos N
+IonXpress_091_232582700	IonXpress_091_232582700.consensus.fasta	H1N1	NS	A_NS	863	778	90.15	Mala	Muchos N
+IonXpress_091_232582700	IonXpress_091_232582700.consensus.fasta	H1N1	M	A_MP	982	548	55.8	Mala	Muchos N
+IonXpress_091_232585633	IonXpress_091_232585633.consensus.fasta	H3N2	HA	A_HA_H3	1718	837	48.72	Mala	Muchos N
+IonXpress_091_232585633	IonXpress_091_232585633.consensus.fasta	H3N2	NA	A_NA_N2	1439	279	19.39	Mala	Muchos N
+IonXpress_091_232585633	IonXpress_091_232585633.consensus.fasta	H3N2	PB1	A_PB1	2274	53	2.33	Aceptable	Correcto
+IonXpress_091_232585633	IonXpress_091_232585633.consensus.fasta	H3N2	PB2	A_PB2	2280	726	31.84	Mala	Muchos N
+IonXpress_091_232585633	IonXpress_091_232585633.consensus.fasta	H3N2	PA	A_PA	2151	154	7.16	Dudosa	Revisar por N
+IonXpress_091_232585633	IonXpress_091_232585633.consensus.fasta	H3N2	NP	A_NP	1497	217	14.5	Mala	Muchos N
+IonXpress_091_232585633	IonXpress_091_232585633.consensus.fasta	H3N2	NS	A_NS	863	111	12.86	Mala	Muchos N
+IonXpress_091_232585633	IonXpress_091_232585633.consensus.fasta	H3N2	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_091_232586892	IonXpress_091_232586892.consensus.fasta	H1N1	HA	A_HA_H1	1752	238	13.58	Mala	Muchos N
+IonXpress_091_232586892	IonXpress_091_232586892.consensus.fasta	H1N1	NA	A_NA_N1	1433	152	10.61	Mala	Muchos N
+IonXpress_091_232586892	IonXpress_091_232586892.consensus.fasta	H1N1	PB1	A_PB1	2274	111	4.88	Aceptable	Correcto
+IonXpress_091_232586892	IonXpress_091_232586892.consensus.fasta	H1N1	PB2	A_PB2	2280	224	9.82	Dudosa	Revisar por N
+IonXpress_091_232586892	IonXpress_091_232586892.consensus.fasta	H1N1	PA	A_PA	2151	40	1.86	Aceptable	Correcto
+IonXpress_091_232586892	IonXpress_091_232586892.consensus.fasta	H1N1	NP	A_NP	1497	18	1.2	Aceptable	Correcto
+IonXpress_091_232586892	IonXpress_091_232586892.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_091_232586892	IonXpress_091_232586892.consensus.fasta	H1N1	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_091_232590913	IonXpress_091_232590913.consensus.fasta	H1N1	HA	A_HA_H1	1752	112	6.39	Dudosa	Revisar por N
+IonXpress_091_232590913	IonXpress_091_232590913.consensus.fasta	H1N1	NA	A_NA_N1	1433	59	4.12	Aceptable	Correcto
+IonXpress_091_232590913	IonXpress_091_232590913.consensus.fasta	H1N1	PB1	A_PB1	2272	23	1.01	Aceptable	Correcto
+IonXpress_091_232590913	IonXpress_091_232590913.consensus.fasta	H1N1	PB2	A_PB2	2280	55	2.41	Aceptable	Correcto
+IonXpress_091_232590913	IonXpress_091_232590913.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_091_232590913	IonXpress_091_232590913.consensus.fasta	H1N1	NP	A_NP	1497	20	1.34	Aceptable	Correcto
+IonXpress_091_232590913	IonXpress_091_232590913.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_091_232590913	IonXpress_091_232590913.consensus.fasta	H1N1	M	A_MP	982	30	3.05	Aceptable	Correcto
+IonXpress_091_232600710	IonXpress_091_232600710.consensus.fasta	H3N2	HA	A_HA_H3	1718	41	2.39	Aceptable	Correcto
+IonXpress_091_232600710	IonXpress_091_232600710.consensus.fasta	H3N2	NA	A_NA_N2	1439	106	7.37	Dudosa	Revisar por N
+IonXpress_091_232600710	IonXpress_091_232600710.consensus.fasta	H3N2	PB1	A_PB1	2274	40	1.76	Aceptable	Correcto
+IonXpress_091_232600710	IonXpress_091_232600710.consensus.fasta	H3N2	PB2	A_PB2	2280	294	12.89	Mala	Muchos N
+IonXpress_091_232600710	IonXpress_091_232600710.consensus.fasta	H3N2	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_091_232600710	IonXpress_091_232600710.consensus.fasta	H3N2	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_091_232600710	IonXpress_091_232600710.consensus.fasta	H3N2	NS	A_NS	863	241	27.93	Mala	Muchos N
+IonXpress_091_232600710	IonXpress_091_232600710.consensus.fasta	H3N2	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_091_232612990	IonXpress_091_232612990.consensus.fasta	H3N2	HA	A_HA_H3	1718	70	4.07	Aceptable	Correcto
+IonXpress_091_232612990	IonXpress_091_232612990.consensus.fasta	H3N2	NA	A_NA_N2	1439	88	6.12	Dudosa	Revisar por N
+IonXpress_091_232612990	IonXpress_091_232612990.consensus.fasta	H3N2	PB1	A_PB1	2274	26	1.14	Aceptable	Correcto
+IonXpress_091_232612990	IonXpress_091_232612990.consensus.fasta	H3N2	PB2	A_PB2	2280	193	8.46	Dudosa	Revisar por N
+IonXpress_091_232612990	IonXpress_091_232612990.consensus.fasta	H3N2	PA	A_PA	2151	42	1.95	Aceptable	Correcto
+IonXpress_091_232612990	IonXpress_091_232612990.consensus.fasta	H3N2	NP	A_NP	1497	20	1.34	Aceptable	Correcto
+IonXpress_091_232612990	IonXpress_091_232612990.consensus.fasta	H3N2	NS	A_NS	863	48	5.56	Dudosa	Revisar por N
+IonXpress_091_232612990	IonXpress_091_232612990.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_092_232571922	IonXpress_092_232571922.consensus.fasta	H1N1	HA	A_HA_H1	1752	149	8.5	Dudosa	Revisar por N
+IonXpress_092_232571922	IonXpress_092_232571922.consensus.fasta	H1N1	NA	A_NA_N1	1433	60	4.19	Aceptable	Correcto
+IonXpress_092_232571922	IonXpress_092_232571922.consensus.fasta	H1N1	PB1	A_PB1	2274	277	12.18	Mala	Muchos N
+IonXpress_092_232571922	IonXpress_092_232571922.consensus.fasta	H1N1	PB2	A_PB2	2280	434	19.04	Mala	Muchos N
+IonXpress_092_232571922	IonXpress_092_232571922.consensus.fasta	H1N1	PA	A_PA	2151	54	2.51	Aceptable	Correcto
+IonXpress_092_232571922	IonXpress_092_232571922.consensus.fasta	H1N1	NP	A_NP	1497	186	12.42	Mala	Muchos N
+IonXpress_092_232571922	IonXpress_092_232571922.consensus.fasta	H1N1	NS	A_NS	863	374	43.34	Mala	Muchos N
+IonXpress_092_232571922	IonXpress_092_232571922.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_092_232582712	IonXpress_092_232582712.consensus.fasta	H3N2	HA	A_HA_H3	1721	874	50.78	Mala	Muchos N
+IonXpress_092_232582712	IonXpress_092_232582712.consensus.fasta	H3N2	NA	A_NA_N2	1439	724	50.31	Mala	Muchos N
+IonXpress_092_232582712	IonXpress_092_232582712.consensus.fasta	H3N2	PB1	A_PB1	2274	425	18.69	Mala	Muchos N
+IonXpress_092_232582712	IonXpress_092_232582712.consensus.fasta	H3N2	PB2	A_PB2	2280	1346	59.04	Mala	Muchos N
+IonXpress_092_232582712	IonXpress_092_232582712.consensus.fasta	H3N2	PA	A_PA	2150	852	39.63	Mala	Muchos N
+IonXpress_092_232582712	IonXpress_092_232582712.consensus.fasta	H3N2	NP	A_NP	1497	449	29.99	Mala	Muchos N
+IonXpress_092_232582712	IonXpress_092_232582712.consensus.fasta	H3N2	NS	A_NS	864	282	32.64	Mala	Muchos N
+IonXpress_092_232582712	IonXpress_092_232582712.consensus.fasta	H3N2	M	A_MP	982	174	17.72	Mala	Muchos N
+IonXpress_092_232585735	IonXpress_092_232585735.consensus.fasta	H1N1	HA	A_HA_H1	1752	168	9.59	Dudosa	Revisar por N
+IonXpress_092_232585735	IonXpress_092_232585735.consensus.fasta	H1N1	NA	A_NA_N1	1433	180	12.56	Mala	Muchos N
+IonXpress_092_232585735	IonXpress_092_232585735.consensus.fasta	H1N1	PB1	A_PB1	2274	208	9.15	Dudosa	Revisar por N
+IonXpress_092_232585735	IonXpress_092_232585735.consensus.fasta	H1N1	PB2	A_PB2	2280	68	2.98	Aceptable	Correcto
+IonXpress_092_232585735	IonXpress_092_232585735.consensus.fasta	H1N1	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_092_232585735	IonXpress_092_232585735.consensus.fasta	H1N1	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_092_232585735	IonXpress_092_232585735.consensus.fasta	H1N1	NS	A_NS	863	40	4.63	Aceptable	Correcto
+IonXpress_092_232585735	IonXpress_092_232585735.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_092_232587060	IonXpress_092_232587060.consensus.fasta	H1N1	HA	A_HA_H1	1752	156	8.9	Dudosa	Revisar por N
+IonXpress_092_232587060	IonXpress_092_232587060.consensus.fasta	H1N1	NA	A_NA_N1	1433	146	10.19	Mala	Muchos N
+IonXpress_092_232587060	IonXpress_092_232587060.consensus.fasta	H1N1	PB1	A_PB1	2274	116	5.1	Dudosa	Revisar por N
+IonXpress_092_232587060	IonXpress_092_232587060.consensus.fasta	H1N1	PB2	A_PB2	2280	106	4.65	Aceptable	Correcto
+IonXpress_092_232587060	IonXpress_092_232587060.consensus.fasta	H1N1	PA	A_PA	2151	40	1.86	Aceptable	Correcto
+IonXpress_092_232587060	IonXpress_092_232587060.consensus.fasta	H1N1	NP	A_NP	1497	119	7.95	Dudosa	Revisar por N
+IonXpress_092_232587060	IonXpress_092_232587060.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_092_232587060	IonXpress_092_232587060.consensus.fasta	H1N1	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_092_232600024	IonXpress_092_232600024.consensus.fasta	H3N2	HA	A_HA_H3	1718	387	22.53	Mala	Muchos N
+IonXpress_092_232600024	IonXpress_092_232600024.consensus.fasta	H3N2	NA	A_NA_N2	1439	188	13.06	Mala	Muchos N
+IonXpress_092_232600024	IonXpress_092_232600024.consensus.fasta	H3N2	PB1	A_PB1	2274	41	1.8	Aceptable	Correcto
+IonXpress_092_232600024	IonXpress_092_232600024.consensus.fasta	H3N2	PB2	A_PB2	2280	104	4.56	Aceptable	Correcto
+IonXpress_092_232600024	IonXpress_092_232600024.consensus.fasta	H3N2	PA	A_PA	2151	58	2.7	Aceptable	Correcto
+IonXpress_092_232600024	IonXpress_092_232600024.consensus.fasta	H3N2	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_092_232600024	IonXpress_092_232600024.consensus.fasta	H3N2	NS	A_NS	863	308	35.69	Mala	Muchos N
+IonXpress_092_232600024	IonXpress_092_232600024.consensus.fasta	H3N2	M	A_MP	982	14	1.43	Aceptable	Correcto
+IonXpress_092_232600784	IonXpress_092_232600784.consensus.fasta	H3N2	HA	A_HA_H3	1718	120	6.98	Dudosa	Revisar por N
+IonXpress_092_232600784	IonXpress_092_232600784.consensus.fasta	H3N2	NA	A_NA_N2	1439	94	6.53	Dudosa	Revisar por N
+IonXpress_092_232600784	IonXpress_092_232600784.consensus.fasta	H3N2	PB1	A_PB1	2274	23	1.01	Aceptable	Correcto
+IonXpress_092_232600784	IonXpress_092_232600784.consensus.fasta	H3N2	PB2	A_PB2	2280	180	7.89	Dudosa	Revisar por N
+IonXpress_092_232600784	IonXpress_092_232600784.consensus.fasta	H3N2	PA	A_PA	2151	56	2.6	Aceptable	Correcto
+IonXpress_092_232600784	IonXpress_092_232600784.consensus.fasta	H3N2	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_092_232600784	IonXpress_092_232600784.consensus.fasta	H3N2	NS	A_NS	863	212	24.57	Mala	Muchos N
+IonXpress_092_232600784	IonXpress_092_232600784.consensus.fasta	H3N2	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_092_232612991	IonXpress_092_232612991.consensus.fasta	H1N1	HA	A_HA_H1	1752	156	8.9	Dudosa	Revisar por N
+IonXpress_092_232612991	IonXpress_092_232612991.consensus.fasta	H1N1	NA	A_NA_N1	1433	136	9.49	Dudosa	Revisar por N
+IonXpress_092_232612991	IonXpress_092_232612991.consensus.fasta	H1N1	PB1	A_PB1	2273	23	1.01	Aceptable	Correcto
+IonXpress_092_232612991	IonXpress_092_232612991.consensus.fasta	H1N1	PB2	A_PB2	2280	60	2.63	Aceptable	Correcto
+IonXpress_092_232612991	IonXpress_092_232612991.consensus.fasta	H1N1	PA	A_PA	2151	39	1.81	Aceptable	Correcto
+IonXpress_092_232612991	IonXpress_092_232612991.consensus.fasta	H1N1	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_092_232612991	IonXpress_092_232612991.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_092_232612991	IonXpress_092_232612991.consensus.fasta	H1N1	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_093_232571978	IonXpress_093_232571978.consensus.fasta	H1N1	HA	A_HA_H1	1752	244	13.93	Mala	Muchos N
+IonXpress_093_232571978	IonXpress_093_232571978.consensus.fasta	H1N1	NA	A_NA_N1	1433	254	17.73	Mala	Muchos N
+IonXpress_093_232571978	IonXpress_093_232571978.consensus.fasta	H1N1	PB1	A_PB1	2274	524	23.04	Mala	Muchos N
+IonXpress_093_232571978	IonXpress_093_232571978.consensus.fasta	H1N1	PB2	A_PB2	2280	569	24.96	Mala	Muchos N
+IonXpress_093_232571978	IonXpress_093_232571978.consensus.fasta	H1N1	PA	A_PA	2151	107	4.97	Aceptable	Correcto
+IonXpress_093_232571978	IonXpress_093_232571978.consensus.fasta	H1N1	NP	A_NP	1497	254	16.97	Mala	Muchos N
+IonXpress_093_232571978	IonXpress_093_232571978.consensus.fasta	H1N1	NS	A_NS	863	391	45.31	Mala	Muchos N
+IonXpress_093_232571978	IonXpress_093_232571978.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_093_232575684	IonXpress_093_232575684.consensus.fasta	H3N2	HA	A_HA_H3	1718	160	9.31	Dudosa	Revisar por N
+IonXpress_093_232575684	IonXpress_093_232575684.consensus.fasta	H3N2	NA	A_NA_N2	1439	99	6.88	Dudosa	Revisar por N
+IonXpress_093_232575684	IonXpress_093_232575684.consensus.fasta	H3N2	PB1	A_PB1	2274	102	4.49	Aceptable	Correcto
+IonXpress_093_232575684	IonXpress_093_232575684.consensus.fasta	H3N2	PB2	A_PB2	2280	715	31.36	Mala	Muchos N
+IonXpress_093_232575684	IonXpress_093_232575684.consensus.fasta	H3N2	PA	A_PA	2151	89	4.14	Aceptable	Correcto
+IonXpress_093_232575684	IonXpress_093_232575684.consensus.fasta	H3N2	NP	A_NP	1497	20	1.34	Aceptable	Correcto
+IonXpress_093_232575684	IonXpress_093_232575684.consensus.fasta	H3N2	NS	A_NS	863	211	24.45	Mala	Muchos N
+IonXpress_093_232575684	IonXpress_093_232575684.consensus.fasta	H3N2	M	A_MP	982	13	1.32	Aceptable	Correcto
+IonXpress_093_232585766	IonXpress_093_232585766.consensus.fasta	H3N2	HA	A_HA_H3	1718	95	5.53	Dudosa	Revisar por N
+IonXpress_093_232585766	IonXpress_093_232585766.consensus.fasta	H3N2	NA	A_NA_N2	1439	186	12.93	Mala	Muchos N
+IonXpress_093_232585766	IonXpress_093_232585766.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_093_232585766	IonXpress_093_232585766.consensus.fasta	H3N2	PB2	A_PB2	2280	80	3.51	Aceptable	Correcto
+IonXpress_093_232585766	IonXpress_093_232585766.consensus.fasta	H3N2	PA	A_PA	2151	63	2.93	Aceptable	Correcto
+IonXpress_093_232585766	IonXpress_093_232585766.consensus.fasta	H3N2	NP	A_NP	1497	19	1.27	Aceptable	Correcto
+IonXpress_093_232585766	IonXpress_093_232585766.consensus.fasta	H3N2	NS	A_NS	863	141	16.34	Mala	Muchos N
+IonXpress_093_232585766	IonXpress_093_232585766.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_093_232587086	IonXpress_093_232587086.consensus.fasta	H1N1	HA	A_HA_H1	1752	91	5.19	Dudosa	Revisar por N
+IonXpress_093_232587086	IonXpress_093_232587086.consensus.fasta	H1N1	NA	A_NA_N1	1433	46	3.21	Aceptable	Correcto
+IonXpress_093_232587086	IonXpress_093_232587086.consensus.fasta	H1N1	PB1	A_PB1	2273	21	0.92	Buena	Correcto
+IonXpress_093_232587086	IonXpress_093_232587086.consensus.fasta	H1N1	PB2	A_PB2	2272	55	2.42	Aceptable	Correcto
+IonXpress_093_232587086	IonXpress_093_232587086.consensus.fasta	H1N1	PA	A_PA	2151	23	1.07	Aceptable	Correcto
+IonXpress_093_232587086	IonXpress_093_232587086.consensus.fasta	H1N1	NP	A_NP	1497	8	0.53	Buena	Correcto
+IonXpress_093_232587086	IonXpress_093_232587086.consensus.fasta	H1N1	NS	A_NS	863	51	5.91	Dudosa	Revisar por N
+IonXpress_093_232587086	IonXpress_093_232587086.consensus.fasta	H1N1	M	A_MP	982	32	3.26	Aceptable	Correcto
+IonXpress_093_232600042	IonXpress_093_232600042.consensus.fasta	H3N2	HA	A_HA_H3	1718	277	16.12	Mala	Muchos N
+IonXpress_093_232600042	IonXpress_093_232600042.consensus.fasta	H3N2	NA	A_NA_N2	1439	226	15.71	Mala	Muchos N
+IonXpress_093_232600042	IonXpress_093_232600042.consensus.fasta	H3N2	PB1	A_PB1	2274	27	1.19	Aceptable	Correcto
+IonXpress_093_232600042	IonXpress_093_232600042.consensus.fasta	H3N2	PB2	A_PB2	2280	322	14.12	Mala	Muchos N
+IonXpress_093_232600042	IonXpress_093_232600042.consensus.fasta	H3N2	PA	A_PA	2151	57	2.65	Aceptable	Correcto
+IonXpress_093_232600042	IonXpress_093_232600042.consensus.fasta	H3N2	NP	A_NP	1496	16	1.07	Aceptable	Correcto
+IonXpress_093_232600042	IonXpress_093_232600042.consensus.fasta	H3N2	NS	A_NS	863	302	34.99	Mala	Muchos N
+IonXpress_093_232600042	IonXpress_093_232600042.consensus.fasta	H3N2	M	A_MP	982	14	1.43	Aceptable	Correcto
+IonXpress_093_232600792	IonXpress_093_232600792.consensus.fasta	H3N2	HA	A_HA_H3	1718	143	8.32	Dudosa	Revisar por N
+IonXpress_093_232600792	IonXpress_093_232600792.consensus.fasta	H3N2	NA	A_NA_N2	1439	120	8.34	Dudosa	Revisar por N
+IonXpress_093_232600792	IonXpress_093_232600792.consensus.fasta	H3N2	PB1	A_PB1	2274	41	1.8	Aceptable	Correcto
+IonXpress_093_232600792	IonXpress_093_232600792.consensus.fasta	H3N2	PB2	A_PB2	2280	104	4.56	Aceptable	Correcto
+IonXpress_093_232600792	IonXpress_093_232600792.consensus.fasta	H3N2	PA	A_PA	2151	57	2.65	Aceptable	Correcto
+IonXpress_093_232600792	IonXpress_093_232600792.consensus.fasta	H3N2	NP	A_NP	1497	7	0.47	Buena	Correcto
+IonXpress_093_232600792	IonXpress_093_232600792.consensus.fasta	H3N2	NS	A_NS	863	252	29.2	Mala	Muchos N
+IonXpress_093_232600792	IonXpress_093_232600792.consensus.fasta	H3N2	M	A_MP	982	25	2.55	Aceptable	Correcto
+IonXpress_093_232612992	IonXpress_093_232612992.consensus.fasta	NO_DETECTADO	HA	A_HA_H5	1704	1021	59.92	Mala	Muchos N
+IonXpress_093_232612992	IonXpress_093_232612992.consensus.fasta	H1N1	NA	A_NA_N1	1433	729	50.87	Mala	Muchos N
+IonXpress_093_232612992	IonXpress_093_232612992.consensus.fasta	H1N1	PB1	A_PB1	2274	23	1.01	Aceptable	Correcto
+IonXpress_093_232612992	IonXpress_093_232612992.consensus.fasta	H1N1	PB2	A_PB2	2280	412	18.07	Mala	Muchos N
+IonXpress_093_232612992	IonXpress_093_232612992.consensus.fasta	H1N1	PA	A_PA	2151	452	21.01	Mala	Muchos N
+IonXpress_093_232612992	IonXpress_093_232612992.consensus.fasta	H1N1	NP	A_NP	1497	12	0.8	Buena	Correcto
+IonXpress_093_232612992	IonXpress_093_232612992.consensus.fasta	H1N1	NS	A_NS	863	49	5.68	Dudosa	Revisar por N
+IonXpress_093_232612992	IonXpress_093_232612992.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_094_232572106	IonXpress_094_232572106.consensus.fasta	H1N1	HA	A_HA_H1	1752	241	13.76	Mala	Muchos N
+IonXpress_094_232572106	IonXpress_094_232572106.consensus.fasta	H1N1	NA	A_NA_N1	1433	415	28.96	Mala	Muchos N
+IonXpress_094_232572106	IonXpress_094_232572106.consensus.fasta	H1N1	PB1	A_PB1	2274	514	22.6	Mala	Muchos N
+IonXpress_094_232572106	IonXpress_094_232572106.consensus.fasta	H1N1	PB2	A_PB2	2280	375	16.45	Mala	Muchos N
+IonXpress_094_232572106	IonXpress_094_232572106.consensus.fasta	H1N1	PA	A_PA	2151	99	4.6	Aceptable	Correcto
+IonXpress_094_232572106	IonXpress_094_232572106.consensus.fasta	H1N1	NP	A_NP	1497	248	16.57	Mala	Muchos N
+IonXpress_094_232572106	IonXpress_094_232572106.consensus.fasta	H1N1	NS	A_NS	863	277	32.1	Mala	Muchos N
+IonXpress_094_232572106	IonXpress_094_232572106.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_094_232575901	IonXpress_094_232575901.consensus.fasta	H1N1	HA	A_HA_H1	1752	106	6.05	Dudosa	Revisar por N
+IonXpress_094_232575901	IonXpress_094_232575901.consensus.fasta	H1N1	NA	A_NA_N1	1433	58	4.05	Aceptable	Correcto
+IonXpress_094_232575901	IonXpress_094_232575901.consensus.fasta	H1N1	PB1	A_PB1	2273	69	3.04	Aceptable	Correcto
+IonXpress_094_232575901	IonXpress_094_232575901.consensus.fasta	H1N1	PB2	A_PB2	2280	213	9.34	Dudosa	Revisar por N
+IonXpress_094_232575901	IonXpress_094_232575901.consensus.fasta	H1N1	PA	A_PA	2151	43	2.0	Aceptable	Correcto
+IonXpress_094_232575901	IonXpress_094_232575901.consensus.fasta	H1N1	NP	A_NP	1497	29	1.94	Aceptable	Correcto
+IonXpress_094_232575901	IonXpress_094_232575901.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_094_232575901	IonXpress_094_232575901.consensus.fasta	H1N1	M	A_MP	982	28	2.85	Aceptable	Correcto
+IonXpress_094_232585825	IonXpress_094_232585825.consensus.fasta	H1N1	HA	A_HA_H1	1752	246	14.04	Mala	Muchos N
+IonXpress_094_232585825	IonXpress_094_232585825.consensus.fasta	H1N1	NA	A_NA_N1	1433	189	13.19	Mala	Muchos N
+IonXpress_094_232585825	IonXpress_094_232585825.consensus.fasta	H1N1	PB1	A_PB1	2273	226	9.94	Dudosa	Revisar por N
+IonXpress_094_232585825	IonXpress_094_232585825.consensus.fasta	H1N1	PB2	A_PB2	2280	64	2.81	Aceptable	Correcto
+IonXpress_094_232585825	IonXpress_094_232585825.consensus.fasta	H1N1	PA	A_PA	2151	56	2.6	Aceptable	Correcto
+IonXpress_094_232585825	IonXpress_094_232585825.consensus.fasta	H1N1	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_094_232585825	IonXpress_094_232585825.consensus.fasta	H1N1	NS	A_NS	863	42	4.87	Aceptable	Correcto
+IonXpress_094_232585825	IonXpress_094_232585825.consensus.fasta	H1N1	M	A_MP	982	33	3.36	Aceptable	Correcto
+IonXpress_094_232587142	IonXpress_094_232587142.consensus.fasta	H3N2	HA	A_HA_H3	1718	974	56.69	Mala	Muchos N
+IonXpress_094_232587142	IonXpress_094_232587142.consensus.fasta	H3N2	NA	A_NA_N2	1439	1090	75.75	Mala	Muchos N
+IonXpress_094_232587142	IonXpress_094_232587142.consensus.fasta	H3N2	PB1	A_PB1	2275	671	29.49	Mala	Muchos N
+IonXpress_094_232587142	IonXpress_094_232587142.consensus.fasta	H3N2	PB2	A_PB2	2280	648	28.42	Mala	Muchos N
+IonXpress_094_232587142	IonXpress_094_232587142.consensus.fasta	H3N2	PA	A_PA	2151	338	15.71	Mala	Muchos N
+IonXpress_094_232587142	IonXpress_094_232587142.consensus.fasta	H3N2	NP	A_NP	1497	21	1.4	Aceptable	Correcto
+IonXpress_094_232587142	IonXpress_094_232587142.consensus.fasta	H3N2	NS	A_NS	863	577	66.86	Mala	Muchos N
+IonXpress_094_232587142	IonXpress_094_232587142.consensus.fasta	H3N2	M	A_MP	982	113	11.51	Mala	Muchos N
+IonXpress_094_232600915	IonXpress_094_232600915.consensus.fasta	H1N1	HA	A_HA_H1	1752	87	4.97	Aceptable	Correcto
+IonXpress_094_232600915	IonXpress_094_232600915.consensus.fasta	H1N1	NA	A_NA_N1	1433	55	3.84	Aceptable	Correcto
+IonXpress_094_232600915	IonXpress_094_232600915.consensus.fasta	H1N1	PB1	A_PB1	2273	25	1.1	Aceptable	Correcto
+IonXpress_094_232600915	IonXpress_094_232600915.consensus.fasta	H1N1	PB2	A_PB2	2280	60	2.63	Aceptable	Correcto
+IonXpress_094_232600915	IonXpress_094_232600915.consensus.fasta	H1N1	PA	A_PA	2151	40	1.86	Aceptable	Correcto
+IonXpress_094_232600915	IonXpress_094_232600915.consensus.fasta	H1N1	NP	A_NP	1497	13	0.87	Buena	Correcto
+IonXpress_094_232600915	IonXpress_094_232600915.consensus.fasta	H1N1	NS	A_NS	863	50	5.79	Dudosa	Revisar por N
+IonXpress_094_232600915	IonXpress_094_232600915.consensus.fasta	H1N1	M	A_MP	982	24	2.44	Aceptable	Correcto
+IonXpress_094_232612994	IonXpress_094_232612994.consensus.fasta	H3N2	HA	A_HA_H3	1718	101	5.88	Dudosa	Revisar por N
+IonXpress_094_232612994	IonXpress_094_232612994.consensus.fasta	H3N2	NA	A_NA_N2	1439	97	6.74	Dudosa	Revisar por N
+IonXpress_094_232612994	IonXpress_094_232612994.consensus.fasta	H3N2	PB1	A_PB1	2274	25	1.1	Aceptable	Correcto
+IonXpress_094_232612994	IonXpress_094_232612994.consensus.fasta	H3N2	PB2	A_PB2	2280	83	3.64	Aceptable	Correcto
+IonXpress_094_232612994	IonXpress_094_232612994.consensus.fasta	H3N2	PA	A_PA	2151	44	2.05	Aceptable	Correcto
+IonXpress_094_232612994	IonXpress_094_232612994.consensus.fasta	H3N2	NP	A_NP	1497	6	0.4	Buena	Correcto
+IonXpress_094_232612994	IonXpress_094_232612994.consensus.fasta	H3N2	NS	A_NS	863	126	14.6	Mala	Muchos N
+IonXpress_094_232612994	IonXpress_094_232612994.consensus.fasta	H3N2	M	A_MP	982	24	2.44	Aceptable	Correcto
